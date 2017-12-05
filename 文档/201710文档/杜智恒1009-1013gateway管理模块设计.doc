@@ -1,0 +1,1005 @@
+Message-ID: <111037885.108599.1509607688037.JavaMail.confluence@localhost.localdomain>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_108598_1992286505.1509607688034"
+
+------=_Part_108598_1992286505.1509607688034
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1</t=
+itle>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1</h1>
+    <div class=3D"Section1">
+        <p>&nbsp;</p>
+<h1 id=3D"gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1-=E7=
+=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1">=E7=AE=A1=E7=90=86=E6=
+=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1</h1>
+<div class=3D"toc">
+<p><style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1509607687923 {padding: 0px;}
+div.rbtoc1509607687923 ul {list-style: circle;margin-left: 0px;}
+div.rbtoc1509607687923 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style></p>
+<div class=3D"toc-macro rbtoc1509607687923">=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=
+=A1-=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1">=E7=AE=A1=E7=90=
+=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=
+=A1-1.=E7=BC=93=E5=AD=98=E7=AE=A1=E7=90=86">1.=E7=BC=93=E5=AD=98=E7=AE=A1=
+=E7=90=86</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=
+=A1-1.1=E7=BC=93=E5=AD=98=E5=88=B7=E6=96=B0=E6=8E=A5=E5=8F=A3">1.1=E7=BC=93=
+=E5=AD=98=E5=88=B7=E6=96=B0=E6=8E=A5=E5=8F=A3</a></li>=20
+<li><a href=3D"#gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=
+=A1-1.2=E7=BC=93=E5=AD=98=E6=9F=A5=E8=AF=A2=E6=8E=A5=E5=8F=A3">1.2=E7=BC=93=
+=E5=AD=98=E6=9F=A5=E8=AF=A2=E6=8E=A5=E5=8F=A3</a></li>=20
+</ul> </li>=20
+<li><a href=3D"#gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=
+=A1-2.Redis=E7=AE=A1=E7=90=86">2.Redis=E7=AE=A1=E7=90=86</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=
+=A1-2.1Redis=E5=A2=9E=E5=8A=A0=E6=8E=A5=E5=8F=A3">2.1Redis=E5=A2=9E=E5=8A=
+=A0=E6=8E=A5=E5=8F=A3</a></li>=20
+<li><a href=3D"#gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=
+=A1-2.2Redis=E5=88=A0=E9=99=A4=E6=8E=A5=E5=8F=A3">2.2Redis=E5=88=A0=E9=99=
+=A4=E6=8E=A5=E5=8F=A3</a></li>=20
+<li><a href=3D"#gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=
+=A1-2.3Redis=E6=9F=A5=E8=AF=A2=E6=8E=A5=E5=8F=A3">2.3Redis=E6=9F=A5=E8=AF=
+=A2=E6=8E=A5=E5=8F=A3</a></li>=20
+</ul> </li>=20
+</ul> </li>=20
+</ul>=20
+</div>
+<p></p>
+</div>
+<h2 id=3D"gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1-1.=
+=E7=BC=93=E5=AD=98=E7=AE=A1=E7=90=86"><a class=3D"external-link" name=3D"us=
+er-content-1" href=3D"file:///E:/%E7%BD%91%E5%85%B3/%E7%AE%A1%E7%90%86%E6%A=
+8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1.html#1" rel=3D"nofollow"></a>1.=E7=BC=93=E5=
+=AD=98=E7=AE=A1=E7=90=86</h2>
+<h3 id=3D"gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1-1.1=
+=E7=BC=93=E5=AD=98=E5=88=B7=E6=96=B0=E6=8E=A5=E5=8F=A3"><a class=3D"externa=
+l-link" name=3D"user-content-11" href=3D"file:///E:/%E7%BD%91%E5%85%B3/%E7%=
+AE%A1%E7%90%86%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1.html#11" rel=3D"nofollow=
+"></a>1.1=E7=BC=93=E5=AD=98=E5=88=B7=E6=96=B0=E6=8E=A5=E5=8F=A3</h3>
+<h4 id=3D"gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1-/ga=
+teway/reload">/gateway/reload</h4>
+<ul>
+<li>=E6=A6=82=E8=BF=B0<br>=E7=9B=AE=E5=89=8D=E7=9A=84=E5=88=B7=E6=96=B0=E5=
+=8D=B3=E8=AE=A9=E7=BC=93=E5=AD=98=E5=AD=97=E5=85=B8=E9=87=8C=E9=9D=A2=E7=9A=
+=84=E6=89=80=E6=9C=89key=E9=83=BD=E8=BF=87=E6=9C=9F=E3=80=82</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E6=8E=A5=E5=8F=A3=E4=B8=BE=E4=BE=8B</th>
+<th class=3D"confluenceTh">=E6=8E=A5=E5=8F=A3=E6=96=B9=E5=BC=8F</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"http://localhost:8081/gateway/reload?=
+dict=3Dsign_url" class=3D"external-link" rel=3D"nofollow">http://localhost:=
+8081/gateway/reload?dict=3Dsign_url</a></td>
+<td class=3D"confluenceTd">GET</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>Req</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</th>
+<th class=3D"confluenceTh">=E8=AF=B4=E6=98=8E</th>
+<th class=3D"confluenceTh">=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</th>
+<th class=3D"confluenceTh">=E5=A4=87=E6=B3=A8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd"><span>key</span></td>
+<td class=3D"confluenceTd">=E7=BC=93=E5=AD=98=E5=AD=97=E5=85=B8=E5=90=8D<a =
+href=3D"http://218.205.244.254:8080/miguwiki/pages/viewpage.action?pageId=
+=3D3148858" rel=3D"nofollow">=E5=8F=82=E8=80=83=E5=AD=97=E5=85=B8=E5=88=97=
+=E8=A1=A8</a></td>
+<td class=3D"confluenceTd">=E6=98=AF</td>
+<td class=3D"confluenceTd">=E5=BF=85=E9=A1=BB=E6=98=AF=E5=AD=97=E5=85=B8=E5=
+=88=97=E8=A1=A8=E5=86=85=E7=9A=84=E5=80=BC</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">field</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E9=9C=80=E8=A6=81=E5=88=B7=E6=96=
+=B0=E7=9A=84key</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=98=AF</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=88=B7=E6=96=B0=E5=8D=95=E6=8C=
+=91=E6=95=B0=E6=8D=AE=E5=88=B0=E7=BC=93=E5=AD=98</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>Resp</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable">
+<colgroup>
+<col style=3D"width: 77.0px;">
+<col style=3D"width: 105.0px;">
+<col style=3D"width: 77.0px;">
+<col style=3D"width: 238.0px;">
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</th>
+<th class=3D"confluenceTh">=E8=AF=B4=E6=98=8E</th>
+<th class=3D"confluenceTh">=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</th>
+<th class=3D"confluenceTh">=E5=A4=87=E6=B3=A8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">&nbsp;code</td>
+<td class=3D"confluenceTd">=E8=BF=94=E5=9B=9E=E7=A0=81</td>
+<td class=3D"confluenceTd">=E6=98=AF</td>
+<td class=3D"confluenceTd">&nbsp;=E5=85=A8=E9=83=A8=E6=88=90=E5=8A=9F=E4=B8=
+=BA000000,=E5=A4=B1=E8=B4=A5=E4=B8=BA999999</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">&nbsp;desc</td>
+<td class=3D"confluenceTd">=E8=BF=94=E5=9B=9E=E6=8F=8F=E8=BF=B0</td>
+<td class=3D"confluenceTd">=E6=98=AF</td>
+<td class=3D"confluenceTd">&nbsp;=E6=88=90=E5=8A=9F=EF=BC=8C=E5=A4=B1=E8=B4=
+=A5</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">&nbsp;err</td>
+<td class=3D"confluenceTd">=E9=94=99=E8=AF=AF=E6=8F=8F=E8=BF=B0</td>
+<td class=3D"confluenceTd">=E5=90=A6&nbsp;</td>
+<td class=3D"confluenceTd">&nbsp;=E8=8E=B7=E5=8F=96=E6=95=B0=E6=8D=AE=E6=97=
+=B6=E4=BA=A7=E7=94=9F=E7=9A=84=E9=94=99=E8=AF=AF=E4=BF=A1=E6=81=AF</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1-1.2=
+=E7=BC=93=E5=AD=98=E6=9F=A5=E8=AF=A2=E6=8E=A5=E5=8F=A3">1.2=E7=BC=93=E5=AD=
+=98=E6=9F=A5=E8=AF=A2=E6=8E=A5=E5=8F=A3</h3>
+<h4 id=3D"gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1-/ga=
+teway/search">/gateway/search</h4>
+<ul>
+<li>=E6=A6=82=E8=BF=B0</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E6=8E=A5=E5=8F=A3=E4=B8=BE=E4=BE=8B</th>
+<th class=3D"confluenceTh">=E6=8E=A5=E5=8F=A3=E6=96=B9=E5=BC=8F</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"http://localhost:8081/gateway/search?=
+dict=3Dbwlist_white_data&amp;key=3D169440773" class=3D"external-link" rel=
+=3D"nofollow">http://localhost:8081/gateway/search?dict=3Dbwlist_white_data=
+&amp;key=3D169440773</a></td>
+<td class=3D"confluenceTd">GET</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>Req</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</th>
+<th class=3D"confluenceTh">=E8=AF=B4=E6=98=8E</th>
+<th class=3D"confluenceTh">=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</th>
+<th class=3D"confluenceTh">=E5=A4=87=E6=B3=A8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd"><span>key</span></td>
+<td class=3D"confluenceTd">=E7=BC=93=E5=AD=98=E5=AD=97=E5=85=B8=E5=90=8D<a =
+href=3D"http://218.205.244.254:8080/miguwiki/pages/viewpage.action?pageId=
+=3D3148858" rel=3D"nofollow">=E5=8F=82=E8=80=83=E5=AD=97=E5=85=B8=E5=88=97=
+=E8=A1=A8</a></td>
+<td class=3D"confluenceTd">=E6=98=AF</td>
+<td class=3D"confluenceTd"><p>=E5=BF=85=E9=A1=BB=E6=98=AF=E5=AD=97=E5=85=B8=
+=E5=88=97=E8=A1=A8=E5=86=85=E7=9A=84=E5=80=BC</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">field</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E7=BC=93=E5=AD=98=E5=AD=97=E5=85=
+=B8=E4=B8=AD=E7=9A=84key</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=90=A6</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E4=B8=8D=E4=BC=A0=E5=88=99=E5=85=
+=A8=E8=A1=A8=E6=9F=A5=E8=AF=A2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>Resp</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable">
+<colgroup>
+<col style=3D"width: 77.0px;">
+<col style=3D"width: 105.0px;">
+<col style=3D"width: 77.0px;">
+<col style=3D"width: 238.0px;">
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</th>
+<th class=3D"confluenceTh">=E8=AF=B4=E6=98=8E</th>
+<th class=3D"confluenceTh">=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</th>
+<th class=3D"confluenceTh">=E5=A4=87=E6=B3=A8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">&nbsp;code</td>
+<td class=3D"confluenceTd">=E8=BF=94=E5=9B=9E=E7=A0=81</td>
+<td class=3D"confluenceTd">=E6=98=AF</td>
+<td class=3D"confluenceTd">&nbsp;=E5=85=A8=E9=83=A8=E6=88=90=E5=8A=9F=E4=B8=
+=BA000000,=E5=A4=B1=E8=B4=A5=E4=B8=BA999999</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">&nbsp;desc</td>
+<td class=3D"confluenceTd">=E8=BF=94=E5=9B=9E=E6=8F=8F=E8=BF=B0</td>
+<td class=3D"confluenceTd">=E6=98=AF</td>
+<td class=3D"confluenceTd">&nbsp;=E6=88=90=E5=8A=9F=EF=BC=8C=E5=A4=B1=E8=B4=
+=A5</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">&nbsp;res</td>
+<td class=3D"confluenceTd">=E6=98=AF=E4=B8=80=E4=B8=AA=E6=95=B0=E7=BB=84</t=
+d>
+<td class=3D"confluenceTd">=E6=98=AF</td>
+<td class=3D"confluenceTd">&nbsp;SRes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">&nbsp;err</td>
+<td class=3D"confluenceTd">=E9=94=99=E8=AF=AF=E6=8F=8F=E8=BF=B0</td>
+<td class=3D"confluenceTd">=E5=90=A6&nbsp;</td>
+<td class=3D"confluenceTd">&nbsp;=E8=8E=B7=E5=8F=96=E6=95=B0=E6=8D=AE=E6=97=
+=B6=E4=BA=A7=E7=94=9F=E7=9A=84=E9=94=99=E8=AF=AF=E4=BF=A1=E6=81=AF</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>SRes</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable">
+<colgroup>
+<col style=3D"width: 77.0px;">
+<col style=3D"width: 105.0px;">
+<col style=3D"width: 77.0px;">
+<col style=3D"width: 238.0px;">
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</th>
+<th class=3D"confluenceTh">=E8=AF=B4=E6=98=8E</th>
+<th class=3D"confluenceTh">=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</th>
+<th class=3D"confluenceTh">=E5=A4=87=E6=B3=A8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">K</td>
+<td class=3D"confluenceTd">=E6=9F=A5=E6=89=BE=E7=9A=84=E9=94=AE</td>
+<td class=3D"confluenceTd">&nbsp;=E6=98=AF</td>
+<td class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">V</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=9F=A5=E6=89=BE=E7=9A=84=E5=80=
+=BC</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=98=AF</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1-2.R=
+edis=E7=AE=A1=E7=90=86">2.Redis=E7=AE=A1=E7=90=86</h2>
+<h3 id=3D"gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1-2.1=
+Redis=E5=A2=9E=E5=8A=A0=E6=8E=A5=E5=8F=A3"><span style=3D"font-size: 16.0px=
+;font-weight: bold;">2.1Redis=E5=A2=9E=E5=8A=A0=E6=8E=A5=E5=8F=A3</span></h=
+3>
+<h4 id=3D"gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1-/ga=
+teway/redisset"><span style=3D"font-size: 16.0px;font-weight: bold;">/gatew=
+ay/redisset</span></h4>
+<ul>
+<li>=E6=A6=82=E8=BF=B0</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E6=8E=A5=E5=8F=A3=E4=B8=BE=E4=BE=8B</th>
+<th class=3D"confluenceTh">=E6=8E=A5=E5=8F=A3=E6=96=B9=E5=BC=8F</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"http://localhost:8081/gateway/redisse=
+t" class=3D"external-link" rel=3D"nofollow">http://localhost:8081/gateway/r=
+edisset</a>=E2=80=9C</td>
+<td class=3D"confluenceTd">POST</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>Req</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 36.=
+2041%;">
+<colgroup>
+<col style=3D"width: 11.6844%;">
+<col style=3D"width: 43.2473%;">
+<col style=3D"width: 11.6844%;">
+<col style=3D"width: 33.3839%;">
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</th>
+<th class=3D"confluenceTh">=E8=AF=B4=E6=98=8E</th>
+<th class=3D"confluenceTh">=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</th>
+<th class=3D"confluenceTh">=E5=A4=87=E6=B3=A8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">key</td>
+<td class=3D"confluenceTd">=E7=BC=93=E5=AD=98=E5=AD=97=E5=85=B8=E5=90=8D<a =
+href=3D"http://218.205.244.254:8080/miguwiki/pages/viewpage.action?pageId=
+=3D3148858" rel=3D"nofollow">=E5=8F=82=E8=80=83=E5=AD=97=E5=85=B8=E5=88=97=
+=E8=A1=A8</a></td>
+<td class=3D"confluenceTd">=E6=98=AF</td>
+<td class=3D"confluenceTd">=E5=BF=85=E9=A1=BB=E6=98=AF=E5=AD=97=E5=85=B8=E5=
+=88=97=E8=A1=A8=E5=86=85=E7=9A=84=E5=80=BC</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">field</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=A6=82=E6=9E=9C=E6=98=AFset=E7=
+=B1=BB=E5=9E=8B=E4=B8=BA=E5=80=BC=EF=BC=8Chash=E7=B1=BB=E5=9E=8B=E4=B8=BA=
+=E9=94=AE</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=98=AF</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">value</td>
+<td colspan=3D"1" class=3D"confluenceTd">hash=E7=B1=BB=E5=9E=8B=E7=9A=84=E5=
+=80=BC</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=90=A6</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>Resp</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable">
+<colgroup>
+<col style=3D"width: 77.0px;">
+<col style=3D"width: 105.0px;">
+<col style=3D"width: 77.0px;">
+<col style=3D"width: 238.0px;">
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</th>
+<th class=3D"confluenceTh">=E8=AF=B4=E6=98=8E</th>
+<th class=3D"confluenceTh">=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</th>
+<th class=3D"confluenceTh">=E5=A4=87=E6=B3=A8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">&nbsp;code</td>
+<td class=3D"confluenceTd">=E8=BF=94=E5=9B=9E=E7=A0=81</td>
+<td class=3D"confluenceTd">&nbsp;=E6=98=AF</td>
+<td class=3D"confluenceTd">&nbsp;=E5=85=A8=E9=83=A8=E6=88=90=E5=8A=9F=E4=B8=
+=BA000000,=E5=A4=B1=E8=B4=A5=E4=B8=BA999999</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">&nbsp;desc</td>
+<td class=3D"confluenceTd">=E8=BF=94=E5=9B=9E=E6=8F=8F=E8=BF=B0</td>
+<td class=3D"confluenceTd">&nbsp;=E6=98=AF</td>
+<td class=3D"confluenceTd">&nbsp;=E6=88=90=E5=8A=9F=EF=BC=8C=E5=A4=B1=E8=B4=
+=A5</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">&nbsp;err</td>
+<td class=3D"confluenceTd">=E9=94=99=E8=AF=AF=E6=8F=8F=E8=BF=B0</td>
+<td class=3D"confluenceTd">=E5=90=A6&nbsp;</td>
+<td class=3D"confluenceTd">&nbsp;=E8=8E=B7=E5=8F=96=E6=95=B0=E6=8D=AE=E6=97=
+=B6=E4=BA=A7=E7=94=9F=E7=9A=84=E9=94=99=E8=AF=AF=E4=BF=A1=E6=81=AF</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1-2.2=
+Redis=E5=88=A0=E9=99=A4=E6=8E=A5=E5=8F=A3"><a class=3D"external-link" name=
+=3D"user-content-22redis" href=3D"file:///E:/%E7%BD%91%E5%85%B3/%E7%AE%A1%E=
+7%90%86%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1.html#22redis" rel=3D"nofollow">=
+</a>2.2Redis=E5=88=A0=E9=99=A4=E6=8E=A5=E5=8F=A3</h3>
+<h4 id=3D"gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1-/ga=
+teway/redisdel">/gateway/redisdel</h4>
+<ul>
+<li>=E6=A6=82=E8=BF=B0</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"wrapped relative-table confluenceTable">
+<colgroup>
+<col style=3D"width: 471.0px;">
+<col style=3D"width: 75.0px;">
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E6=8E=A5=E5=8F=A3=E4=B8=BE=E4=BE=8B</th>
+<th class=3D"confluenceTh">=E6=8E=A5=E5=8F=A3=E6=96=B9=E5=BC=8F</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"http://localhost:8081/gateway/redisde=
+l" class=3D"external-link" rel=3D"nofollow">http://localhost:8081/gateway/r=
+edisdel</a>=E2=80=9C</td>
+<td class=3D"confluenceTd">POST</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>Req</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 28.=
+7987%;">
+<colgroup>
+<col style=3D"width: 14.8855%;">
+<col style=3D"width: 33.3969%;">
+<col style=3D"width: 16.4122%;">
+<col style=3D"width: 35.3053%;">
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</th>
+<th class=3D"confluenceTh">=E8=AF=B4=E6=98=8E</th>
+<th class=3D"confluenceTh">=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</th>
+<th class=3D"confluenceTh">=E5=A4=87=E6=B3=A8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">key</td>
+<td class=3D"confluenceTd">=E7=BC=93=E5=AD=98=E5=AD=97=E5=85=B8=E5=90=8D<a =
+href=3D"http://218.205.244.254:8080/miguwiki/pages/viewpage.action?pageId=
+=3D3148858" rel=3D"nofollow">=E5=8F=82=E8=80=83=E5=AD=97=E5=85=B8=E5=88=97=
+=E8=A1=A8</a></td>
+<td class=3D"confluenceTd">=E6=98=AF</td>
+<td class=3D"confluenceTd">=E5=BF=85=E9=A1=BB=E6=98=AF=E5=AD=97=E5=85=B8=E5=
+=88=97=E8=A1=A8=E5=86=85=E7=9A=84=E5=80=BC</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">field</td>
+<td colspan=3D"1" class=3D"confluenceTd">hash=E9=87=8C=E7=9A=84field:value<=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=98=AF</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>Resp</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 27.=
+537%;">
+<colgroup>
+<col style=3D"width: 15.3693%;">
+<col style=3D"width: 20.9581%;">
+<col style=3D"width: 16.1677%;">
+<col style=3D"width: 47.505%;">
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</th>
+<th class=3D"confluenceTh">=E8=AF=B4=E6=98=8E</th>
+<th class=3D"confluenceTh">=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</th>
+<th class=3D"confluenceTh">=E5=A4=87=E6=B3=A8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">&nbsp;code</td>
+<td class=3D"confluenceTd">=E8=BF=94=E5=9B=9E=E7=A0=81</td>
+<td class=3D"confluenceTd">&nbsp;=E6=98=AF</td>
+<td class=3D"confluenceTd">&nbsp;=E5=85=A8=E9=83=A8=E6=88=90=E5=8A=9F=E4=B8=
+=BA000000,=E5=A4=B1=E8=B4=A5=E4=B8=BA999999</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">&nbsp;desc</td>
+<td class=3D"confluenceTd">=E8=BF=94=E5=9B=9E=E6=8F=8F=E8=BF=B0</td>
+<td class=3D"confluenceTd">&nbsp;=E6=98=AF</td>
+<td class=3D"confluenceTd">&nbsp;=E6=88=90=E5=8A=9F=EF=BC=8C=E5=A4=B1=E8=B4=
+=A5</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">&nbsp;err</td>
+<td class=3D"confluenceTd">=E9=94=99=E8=AF=AF=E6=8F=8F=E8=BF=B0</td>
+<td class=3D"confluenceTd">=E5=90=A6&nbsp;</td>
+<td class=3D"confluenceTd">&nbsp;=E8=8E=B7=E5=8F=96=E6=95=B0=E6=8D=AE=E6=97=
+=B6=E4=BA=A7=E7=94=9F=E7=9A=84=E9=94=99=E8=AF=AF=E4=BF=A1=E6=81=AF</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1-2.3=
+Redis=E6=9F=A5=E8=AF=A2=E6=8E=A5=E5=8F=A3"><a class=3D"external-link" name=
+=3D"user-content-23redis" href=3D"file:///E:/%E7%BD%91%E5%85%B3/%E7%AE%A1%E=
+7%90%86%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1.html#23redis" rel=3D"nofollow">=
+</a>2.3Redis=E6=9F=A5=E8=AF=A2=E6=8E=A5=E5=8F=A3</h3>
+<h4 id=3D"gateway=E7=AE=A1=E7=90=86=E6=A8=A1=E5=9D=97=E8=AE=BE=E8=AE=A1-/ga=
+teway/redisget">&nbsp;/gateway/redisget</h4>
+<ul>
+<li>=E6=A6=82=E8=BF=B0</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"wrapped relative-table confluenceTable" style=3D"width: 30.=
+4443%;">
+<colgroup>
+<col style=3D"width: 86.1011%;">
+<col style=3D"width: 13.8989%;">
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E6=8E=A5=E5=8F=A3=E4=B8=BE=E4=BE=8B</th>
+<th class=3D"confluenceTh">=E6=8E=A5=E5=8F=A3=E6=96=B9=E5=BC=8F</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"http://localhost:8081/gateway/redisge=
+t?key=3Dsign_url&amp;field=3D13800000000" class=3D"external-link" rel=3D"no=
+follow">http://localhost:8081/gateway/redisget?key=3Dsign_url&amp;field=3D1=
+3800000000</a>=E2=80=9C</td>
+<td class=3D"confluenceTd">GET</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>Req</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"wrapped relative-table confluenceTable" style=3D"width: 30.=
+6637%;">
+<colgroup>
+<col style=3D"width: 13.7993%;">
+<col style=3D"width: 34.4086%;">
+<col style=3D"width: 13.7993%;">
+<col style=3D"width: 37.9928%;">
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</th>
+<th class=3D"confluenceTh">=E8=AF=B4=E6=98=8E</th>
+<th class=3D"confluenceTh">=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</th>
+<th class=3D"confluenceTh">=E5=A4=87=E6=B3=A8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">key</td>
+<td class=3D"confluenceTd">=E7=BC=93=E5=AD=98=E5=AD=97=E5=85=B8=E5=90=8D<a =
+href=3D"http://218.205.244.254:8080/miguwiki/pages/viewpage.action?pageId=
+=3D3148858" rel=3D"nofollow">=E5=8F=82=E8=80=83=E5=AD=97=E5=85=B8=E5=88=97=
+=E8=A1=A8</a></td>
+<td class=3D"confluenceTd">=E6=98=AF</td>
+<td class=3D"confluenceTd">=E5=BF=85=E9=A1=BB=E6=98=AF=E5=AD=97=E5=85=B8=E5=
+=88=97=E8=A1=A8=E5=86=85=E7=9A=84=E5=80=BC</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">field</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E9=9C=80=E8=A6=81=E6=9F=A5=E8=AF=
+=A2=E7=9A=84=E5=8D=95=E6=9D=A1=E6=95=B0=E6=8D=AE=E5=90=8D=E7=A7=B0</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=90=A6</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E4=B8=8D=E4=BC=A0=E5=88=99=E5=85=
+=A8=E8=A1=A8=E6=9F=A5=E8=AF=A2</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">limit</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=B8=B8=E6=A0=87</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=90=A6</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E9=A6=96=E6=AC=A1=E6=9F=A5=E8=AF=
+=A2=E4=BB=8E0=E5=BC=80=E5=A7=8B=EF=BC=8C=E5=90=8E=E9=9D=A2=E6=9F=A5=E8=AF=
+=A2=E7=94=A8Resp=E7=9A=84limit=E5=8F=82=E6=95=B0</td>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>Resp</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable">
+<colgroup>
+<col style=3D"width: 77.0px;">
+<col style=3D"width: 105.0px;">
+<col style=3D"width: 77.0px;">
+<col style=3D"width: 238.0px;">
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</th>
+<th class=3D"confluenceTh">=E8=AF=B4=E6=98=8E</th>
+<th class=3D"confluenceTh">=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</th>
+<th class=3D"confluenceTh">=E5=A4=87=E6=B3=A8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">&nbsp;code</td>
+<td class=3D"confluenceTd">=E8=BF=94=E5=9B=9E=E7=A0=81</td>
+<td class=3D"confluenceTd">=E6=98=AF</td>
+<td class=3D"confluenceTd">&nbsp;=E5=85=A8=E9=83=A8=E6=88=90=E5=8A=9F=E4=B8=
+=BA000000,=E5=A4=B1=E8=B4=A5=E4=B8=BA999999</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">&nbsp;desc</td>
+<td class=3D"confluenceTd">=E8=BF=94=E5=9B=9E=E6=8F=8F=E8=BF=B0</td>
+<td class=3D"confluenceTd">=E6=98=AF</td>
+<td class=3D"confluenceTd">&nbsp;=E6=88=90=E5=8A=9F=EF=BC=8C=E5=A4=B1=E8=B4=
+=A5</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">&nbsp;res</td>
+<td class=3D"confluenceTd">=E6=98=AF=E4=B8=80=E4=B8=AA=E6=95=B0=E7=BB=84</t=
+d>
+<td class=3D"confluenceTd">=E6=98=AF</td>
+<td class=3D"confluenceTd">SRes</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">&nbsp;err</td>
+<td class=3D"confluenceTd">=E9=94=99=E8=AF=AF=E6=8F=8F=E8=BF=B0</td>
+<td class=3D"confluenceTd">=E5=90=A6&nbsp;</td>
+<td class=3D"confluenceTd">&nbsp;=E8=8E=B7=E5=8F=96=E6=95=B0=E6=8D=AE=E6=97=
+=B6=E4=BA=A7=E7=94=9F=E7=9A=84=E9=94=99=E8=AF=AF=E4=BF=A1=E6=81=AF</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">len</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=80=BB=E6=9D=A1=E6=95=B0</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=90=A6</td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">limit</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E6=B8=B8=E6=A0=87</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">=E5=90=A6</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E4=B8=8B=E6=AC=A1=E8=AE=BF=E9=97=
+=AE=E9=9C=80=E8=A6=81=E4=BC=A0=E5=85=A5=E7=9A=84limit=E5=8F=82=E6=95=B0</td=
+>
+</tr>
+</tbody>
+</table>
+</div>
+<ul>
+<li>SRes</li>
+</ul>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 29.=
+2375%;">
+<colgroup>
+<col style=3D"width: 14.4737%;">
+<col style=3D"width: 15.2256%;">
+<col style=3D"width: 14.4737%;">
+<col style=3D"width: 55.8271%;">
+</colgroup>
+<thead>
+<tr>
+<th class=3D"confluenceTh">=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</th>
+<th class=3D"confluenceTh">=E8=AF=B4=E6=98=8E</th>
+<th class=3D"confluenceTh">=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</th>
+<th class=3D"confluenceTh">=E5=A4=87=E6=B3=A8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">K</td>
+<td class=3D"confluenceTd">=E9=94=AE</td>
+<td class=3D"confluenceTd">=E6=98=AF</td>
+<td class=3D"confluenceTd">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">V</td>
+<td class=3D"confluenceTd">=E5=80=BC</td>
+<td class=3D"confluenceTd">=E5=90=A6</td>
+<td class=3D"confluenceTd">=E5=A6=82=E6=9E=9C=E4=B8=BAset=E7=B1=BB=E5=9E=8B=
+=E6=88=96=E8=80=85=E5=8D=95=E6=8C=91=E6=95=B0=E6=8D=AE=EF=BC=8C=E5=88=99=E5=
+=8F=AA=E6=9C=89K=E6=B2=A1=E6=9C=89V</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">iscache</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=98=AF=E5=90=A6=E7=94=9F=E6=95=
+=88</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=98=AF</td>
+<td colspan=3D"1" class=3D"confluenceTd">=E6=9F=A5=E6=89=BEnginx=E7=BC=93=
+=E5=AD=98=E4=B8=AD=E6=98=AF=E5=90=A6=E6=9C=89=E5=AF=B9=E5=BA=94=E7=9A=84=E5=
+=80=BC=EF=BC=8C=E8=BF=94=E5=9B=9E(=E5=B7=B2=E7=94=9F=E6=95=88=EF=BC=8C=E6=
+=9C=AA=E7=94=9F=E6=95=88)</td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_108598_1992286505.1509607688034--
