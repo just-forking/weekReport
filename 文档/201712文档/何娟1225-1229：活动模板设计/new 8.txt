@@ -1,0 +1,139 @@
+
+//活动基本内容表
+CREATE TABLE `t_migu_act_model_content` (
+  `activity_id` varchar(64) COLLATE utf8mb4_bin NOT NULL DEFAULT '',
+  `activity_name` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '活动名称',
+  `start_time` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '活动开始时间',
+  `end_time` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '活动结束时间',
+  `activity_statue` varchar(2) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '活动状态:00 活动未上线、01活动内测、 02 正式上线  、03 活动下线',
+  `join_way` varchar(2) COLLATE utf8mb4_bin DEFAULT NULL COMMENT 'uid：0，手机号：1，uid+手机号：2',
+  `create_time` datetime DEFAULT NULL COMMENT '创建时间',
+  `create_author` varchar(64) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '创建者',
+  `activity_check` varchar(2) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '审核状态：0：未通过,1：已通过',
+  `prize_way` varchar(2) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '接口性质：0：抽奖接口，1：领奖接口（两个单选框，默认勾选值为0）',
+  `open_bjhy` varchar(2) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '已经是白金会员，是否能开通白金会员：1：能（一个单选框，选中为1）',
+  `ext` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '扩展字段',
+  PRIMARY KEY (`activity_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_bin
+
+
+//活动功能项基础表
+CREATE TABLE `t_migu_act_model_func_base` (
+  `id` varchar(64) COLLATE utf8mb4_bin NOT NULL DEFAULT '' COMMENT '供t_migu_act_model_func_limit表添值使用',
+  `name` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '功能项名称',
+  `type` varchar(2) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '功能项类型（0：参与条件，1：抽奖防刷限制，2：领奖防刷限制，3：奖品类型，4：关联接口，5：省份列表）',
+  `inputtype` varchar(2) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '值填入类型（0：无输入框（只有开关选项），1：文本框，2：上传文件，3：复选框）',
+  `description` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '填入说明',
+  `ext1` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '扩展字段1',
+  `ext2` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '扩展字段2',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_bin
+
+//活动名单表
+CREATE TABLE `t_migu_act_model_role` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `identification` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '身份标识',
+  `type` varchar(2) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '身份类型',
+  `activity_id` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '所属活动',
+  `create_time` datetime DEFAULT NULL COMMENT '创建时间',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_bin
+
+//活动功能项限制值表
+CREATE TABLE `t_migu_act_model_func_limit` (
+  `func_id` varchar(64) COLLATE utf8mb4_bin NOT NULL DEFAULT '' COMMENT '生成规则：活动id_id',
+  `id` varchar(64) COLLATE utf8mb4_bin NOT NULL DEFAULT '' COMMENT 't_migu_act_model_func_base表的主键id',
+  `func_value` varchar(2) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '功能项开关值，0：关闭，1：打开',
+  `value` varchar(255) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '功能项限制值',
+  `activity_id` varchar(64) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '活动id',
+  `func_type` varchar(2) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '功能项类型（0：参与条件，1：抽奖防刷限制，2：领奖防刷限制，3：奖品类型）',
+  `create_time` datetime DEFAULT NULL COMMENT '创建时间',
+  `ext1` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '扩展字段1',
+  `ext2` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '扩展字段2',
+  PRIMARY KEY (`func_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_bin
+
+
+//新奖品表
+CREATE TABLE `t_migu_act_model_prize` (
+  `prize_id` varchar(64) COLLATE utf8mb4_bin NOT NULL DEFAULT '' COMMENT '奖品ID,若是抽奖未中，刚该字段以"-1"结尾',
+  `prize_name` varchar(64) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '奖品项名',
+  `luckydraw_id` varchar(64) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '若为抽奖奖品，必填，抽奖ID（生成规则：活动id_luckydraw）',
+  `luckydraw_probability` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '若为抽奖奖品，必填，抽奖概率，整型，使用时概率为其概率所占比例',
+  `activity_id` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '活动id',
+  `prize_mode` varchar(2) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '获取奖品方式，0：抽奖，1：领奖',
+  `prize_send` varchar(2) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '奖品发放方式，0：线上，1：线下',
+  `prize_mutex` varchar(255) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '奖品互斥项，以|分割',
+  `prize_type` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '奖品类型',
+  `prize_total` varchar(100) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '奖品初始总数',
+  `prize_hit_same` varchar(2) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '是否能重复中该奖品：0：不能，1：能',
+  `create_time` datetime DEFAULT NULL COMMENT '创建时间',
+  `ext` varchar(64) COLLATE utf8mb4_bin DEFAULT NULL COMMENT '扩展字段',
+  PRIMARY KEY (`prize_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_bin
+
+
+
+设置当天失效的key
+//MODEL_HEAD_PRIZE_CHANNEL_DAY_COUNT
+//MODEL_HEAD_PRIZE_IP_DAY_COUNT
+//MODEL_HEAD_IP_TAKE
+//MODEL_HEAD_PRIZE_DAY_ACCEPT_LIMIT
+//MODEL_HEAD_PRIZE_DAY_LIMIT
+设置每小时失效的key
+//MODEL_HEAD_PRIZE_HOUR_LIMIT
+//MODEL_HEAD_PRIZE_CHANNEL_DAY_COUNT
+
+//执行sql//
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'LuckyDrawAcceptedFilter', '抽奖，已经抽过奖的用户能不能再抽', '1', '1','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'LuckyDrawDayIpLimitFilter', '抽奖，同一个IP每天限制抽奖次数', '1', '1','1');//数据格式为  100 或者 20170701:100|20170702-20170731:150
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'ChannelDayTotalFilter', '抽奖，限制指定channel每天出奖品个数', '1', '1','1');//MODEL_HEAD_PRIZE_CHANNEL_DAY_COUNT当天失效的key
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'ChannelTotalFilter', '抽奖，限制指定channel总出奖品个数', '1', '1','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'DeviceTotalFilter', '抽奖，限制IMEI出奖品总个数', '', '','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'IPDayTotalFilter', '抽奖，IP限制：活动所有奖品，每天出奖品个数', '1', '1','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'IPDayOneDrawTotalFilter', '抽奖，IP限制：活动单个奖品，每天出奖个数', '1', '1','1');//MODEL_HEAD_PRIZE_IP_DAY_COUNT当天失效的key
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'IPTotalFilter', '抽奖，IP限制：活动所有奖品，总出奖品个数', '1', '1','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'IPOneDrawTotalFilter', '抽奖，IP限制：活动中单个奖品，总出奖品个数', '1', '1','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'LuckyDrawDayPeriodFilter', '抽奖，限定某天的一段时间', '1', '1','1');//配置中的格式为   090000:110000|130000:200000 表示上午9点到11点以及下午13点到20点
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'LuckyDrawHitedSameFilter', '抽奖，同一个奖品只能抽中一次', '1', '1','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'LuckyDrawHitFilter', '抽奖，已经中过奖用户不能再抽中', '1', '1','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'LuckyDrawTimesDayLimitFilter', '抽奖，限定同一用户每日抽奖次数', '1', '1','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'LuckyPrizeDayEachLimitFilter', '抽奖，限制奖品每天数量', '', '','1');//prize1@20170711:20|20170712-20170720:30#prize2@20170712-20170720:10
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'LuckyPrizeDayLimitFilter', '抽奖，限制各奖品每天出相同数量', '', '','1');//prize1:20|prize2:30
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'LuckyPrizeHourEachLimitFilter', '抽奖，限制每小时的奖品数量', '', '','1');//prize1@12:100|13-15:150#prize2@12-15:100
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'LuckyPrizeHourLimitFilter', '抽奖，每个小时的通用数量限制', '', '','1');//prizeId:count|prizeId2:count
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'LuckyPrizeTotalFilter', '抽奖，奖品数量限制:已经缺货的奖品不能再出', '', '','1');
+
+
+
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'AcceptMonthHistoryToRedisFilter', '领奖，记录奖品领取的月份', '2', '1','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'AcceptPeriodFilter', '领奖,限制领奖时间段', '', '','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'AcceptChannelDayTotalFilter', '领奖，限制指定channel出奖品个数', '', '','1');//XXXX:20|XXX:30
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'AcceptDeviceTotalFilter', '领奖，限制每个IMEI出奖品个数', '', '','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'AcceptIPDayTotalFilter', '领奖，限制IP活动期间，每个奖品最大出奖品个数', '', '','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'AcceptIPTotalFilter', '领奖，限制IP每天，每个奖品最大出奖品个数', '', '','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'PrizeAcceptedFilter', '领奖，不能领取到已领过的奖品', '', '','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'PrizeDayEachLimitFilter', '领奖，限制奖品每天数量', '', '','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'PrizeDayLimitFilter', '领奖,限制各奖品每天出相同数量', '', '','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'PrizeHourLimitFilter', '领奖，奖品每个小时的数量限制', '', '','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'PrizeTotalFilter', '领奖，奖品数量限制:已经缺货的奖品不能再出', '', '','1');
+
+
+
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'messageCode', '短信验证码', '0', '0','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'blacklist', '内部员工号', '0', '0','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'allowChannels', '指定渠道参加活动', '0', '0','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'refuseChannels', '指定不允许参加渠道', '0', '0','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'allowProvince', '特定省份可参加活动', '0', '0','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'refuseProvince', '特定省份不能参加活动', '', '','1');
+
+
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'LL', '流量', '', '','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'BJHY', '白金会员', '', '','1');
+
+
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'allowChannels', '指定渠道参加活动', '', '','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'allowChannels', '指定渠道参加活动', '', '','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'allowChannels', '指定渠道参加活动', '', '','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'allowChannels', '指定渠道参加活动', '', '','1');
+insert into `t_migu_act_model_func_base` ( `id`, `name`, `type`, `inputtype`,`description`) values ( 'allowChannels', '指定渠道参加活动', '', '','1');
