@@ -1,0 +1,1245 @@
+Message-ID: <1594619411.519848.1518081668462.JavaMail.confluence@dev86>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_519847_507873161.1518081668454"
+
+------=_Part_519847_507873161.1518081668454
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>5.=E7=B3=BB=E7=BB=9F=E6=97=A5=E5=BF=97</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>5.=E7=B3=BB=E7=BB=9F=E6=97=A5=E5=BF=97</h1>
+    <div class=3D"Section1">
+        <h2 class=3D"md-end-block md-heading md-focus" id=3D"id-5.=E7=B3=BB=
+=E7=BB=9F=E6=97=A5=E5=BF=97-=E9=A1=B9=E7=9B=AE=E7=BB=93=E6=9E=84"><span cla=
+ss=3D"md-expand">=E9=A1=B9=E7=9B=AE=E7=BB=93=E6=9E=84</span></h2>
+<p>=E6=97=A5=E5=BF=97=E6=94=B6=E9=9B=86=E6=96=B9=E6=A1=88=E4=B8=BA=E4=BB=A5=
+=E4=B8=8B=E6=B5=81=E7=A8=8B:</p>
+<ol class=3D"ol-list" style=3D"text-align: justify;">
+<li>=E6=AF=8F=E4=B8=80=E4=B8=AA=E8=8A=82=E7=82=B9=E4=B8=AD=E6=89=80=E6=9C=
+=89=E5=BE=AE=E6=9C=8D=E5=8A=A1=E5=85=B1=E7=94=A8=E4=B8=80=E4=B8=AAfilebeat/=
+flume/fluentd=E6=9D=A5=E6=94=B6=E9=9B=86=E6=97=A5=E5=BF=97,=E5=9C=A8=E5=90=
+=AF=E5=8A=A8=E6=97=B6=E9=9C=80=E8=A6=81=E9=85=8D=E7=BD=AE=E7=9B=B8=E5=BA=94=
+=E7=9A=84=E7=8E=AF=E5=A2=83=E5=8F=98=E9=87=8F=EF=BC=8C=E5=B9=B6=E6=8C=82=E8=
+=BD=BD=E7=9B=B8=E5=BA=94=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6</li>
+<li>=E5=9C=A8=E6=9E=84=E5=BB=BA=E5=BE=AE=E6=9C=8D=E5=8A=A1=E6=97=B6=E5=80=
+=99=EF=BC=8C=E9=9C=80=E8=A6=81=E5=B0=86=E5=BE=AE=E6=9C=8D=E5=8A=A1=E7=9A=84=
+=E6=97=A5=E5=BF=97=E6=96=87=E4=BB=B6=E7=9B=AE=E5=BD=95<span>=E6=8C=82=E8=BD=
+=BD</span>=E5=88=B0=E5=AE=BF=E4=B8=BB=E6=9C=BA=E7=A3=81=E7=9B=98<span>=E7=
+=BB=9F=E4=B8=80</span>=E7=9A=84=E7=9B=AE=E5=BD=95=E4=B8=8B=EF=BC=88/home/mu=
+sic/logs/{$hostname}/...=EF=BC=89</li>
+<li>=E6=89=80=E6=9C=89=E8=8A=82=E7=82=B9=E6=97=A5=E5=BF=97=E8=BE=93=E5=87=
+=BA=E9=85=8D=E7=BD=AE=E5=88=B0=E7=BB=9F=E4=B8=80=E5=A4=96=E9=83=A8kafka=E9=
+=9B=86=E7=BE=A4=E4=B8=AD=EF=BC=8C=E7=84=B6=E5=90=8E=E4=BA=A4=E7=94=B1ELK=E5=
+=A4=84=E7=90=86</li>
+</ol>
+<h2 class=3D"md-end-block md-heading" id=3D"id-5.=E7=B3=BB=E7=BB=9F=E6=97=
+=A5=E5=BF=97-filebeat:"><span style=3D"color: rgb(255,0,0);"><strong>filebe=
+at:</strong></span></h2>
+<div>
+1.hub.docker=E9=95=9C=E5=83=8F=E5=9C=B0=E5=9D=80=EF=BC=9A
+<a href=3D"https://hub.docker.com/r/prima/filebeat/" class=3D"external-link=
+" rel=3D"nofollow">https://hub.docker.com/r/prima/filebeat/</a>&nbsp; &nbsp=
+; &nbsp;
+</div>
+<p>2.dockerfile=EF=BC=9A</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">dockerfile</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence; collapse: true" data-the=
+me=3D"Confluence">FROM debian:jessie
+
+MAINTAINER Andrea Usuelli &lt;andrea.usuelli@prima.it&gt;
+
+ENV FILEBEAT_VERSION=3D5.6.1 \
+    FILEBEAT_SHA1=3D91bdbaacee0034f9df9112fda2a25998e102d252
+
+RUN set -x &amp;&amp; \
+  apt-get update &amp;&amp; \
+  apt-get install -y wget &amp;&amp; \
+  wget https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-${FIL=
+EBEAT_VERSION}-linux-x86_64.tar.gz -O /opt/filebeat.tar.gz &amp;&amp; \
+  cd /opt &amp;&amp; \
+  echo "${FILEBEAT_SHA1}  filebeat.tar.gz" | sha1sum -c - &amp;&amp; \
+  tar xzvf filebeat.tar.gz &amp;&amp; \
+  cd filebeat-* &amp;&amp; \
+  cp filebeat /bin &amp;&amp; \
+  cd /opt &amp;&amp; \
+  rm -rf filebeat* &amp;&amp; \
+  apt-get purge -y wget &amp;&amp; \
+  apt-get autoremove -y &amp;&amp; \
+  apt-get clean &amp;&amp; rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
+
+COPY docker-entrypoint.sh /
+ENTRYPOINT ["/docker-entrypoint.sh"]
+CMD [ "filebeat", "-e" ]</pre>=20
+</div>=20
+</div>
+<p>3.filebeat.yml =EF=BC=88output.redis=E7=89=88=E6=9C=AC=EF=BC=89</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">filebeat.yml</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence; collapse: true" data-the=
+me=3D"Confluence">###################### Filebeat Configuration Example ###=
+######################
+
+# This file is an example configuration file highlighting only the most com=
+mon
+# options. The filebeat.reference.yml file from the same directory contains=
+ all the
+# supported options with more comments. You can use it as a reference.
+#
+# You can find the full configuration reference here:
+# https://www.elastic.co/guide/en/beats/filebeat/index.html
+
+# For more available modules and options, please see the filebeat.reference=
+.yml sample
+# configuration file.
+
+#=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D Filebeat prospectors =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+filebeat.prospectors:
+
+# Each - is a prospector. Most options can be set at the prospector level, =
+so
+# you can use different prospectors for various configurations.
+# Below are the prospector specific configurations.
+
+- type: log
+
+  # Change to true to enable this prospector configuration.
+  enabled: true
+
+  # Paths that should be crawled and fetched. Glob based paths.
+  paths:
+    - /var/lib/docker/volumes/*/_data/var/log/*.log
+    #- c:\programdata\elasticsearch\logs\*
+    #- D:\filebeat\logtest\test.log
+
+
+  # Exclude lines. A list of regular expressions to match. It drops the lin=
+es that are
+  # matching any regular expression from the list.
+  #exclude_lines: ['^DBG']
+
+  # Include lines. A list of regular expressions to match. It exports the l=
+ines that are
+  # matching any regular expression from the list.
+  #include_lines: ['^ERR', '^WARN']
+
+  # Exclude files. A list of regular expressions to match. Filebeat drops t=
+he files that
+  # are matching any regular expression from the list. By default, no files=
+ are dropped.
+  #exclude_files: ['.gz$']
+
+  # Optional additional fields. These fields can be freely picked
+  # to add additional information to the crawled log files for filtering
+  #fields:
+  #  level: debug
+  #  review: 1
+
+  ### Multiline options
+
+  # Mutiline can be used for log messages spanning multiple lines. This is =
+common
+  # for Java Stack Traces or C-Line Continuation
+
+  # The regexp Pattern that has to be matched. The example pattern matches =
+all lines starting with [
+  #multiline.pattern: ^\[
+
+  # Defines if the pattern set under pattern should be negated or not. Defa=
+ult is false.
+  #multiline.negate: false
+
+  # Match can be set to "after" or "before". It is used to define if lines =
+should be append to a pattern
+  # that was (not) matched before or after or as long as a pattern is not m=
+atched based on negate.
+  # Note: After is the equivalent to previous and before is the equivalent =
+to to next in Logstash
+  #multiline.match: after
+
+
+#=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D Filebeat modules =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+filebeat.config.modules:
+  # Glob pattern for configuration loading
+  path: ${path.config}/modules.d/*.yml
+
+  # Set to true to enable config reloading
+  reload.enabled: false
+
+  # Period on which files under path should be checked for changes
+  #reload.period: 10s
+
+#=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D Elasticsearch=
+ template setting =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+
+setup.template.settings:
+  index.number_of_shards: 3
+  #index.codec: best_compression
+  #_source.enabled: false
+
+#=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D General =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+# The name of the shipper that publishes the network data. It can be used t=
+o group
+# all the transactions sent by a single shipper in the web interface.
+#name:
+
+# The tags of the shipper are included in their own field with each
+# transaction published.
+#tags: ["service-X", "web-tier"]
+
+# Optional fields that you can specify to add additional information to the
+# output.
+#fields:
+#  env: staging
+
+
+#=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D Dashboards =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+# These settings control loading the sample dashboards to the Kibana index.=
+ Loading
+# the dashboards is disabled by default and can be enabled either by settin=
+g the
+# options here, or by using the `-setup` CLI flag or the `setup` command.
+#setup.dashboards.enabled: false
+
+# The URL from where to download the dashboards archive. By default this UR=
+L
+# has a value which is computed based on the Beat name and version. For rel=
+eased
+# versions, this URL points to the dashboard archive on the artifacts.elast=
+ic.co
+# website.
+#setup.dashboards.url:
+
+#=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D Kibana =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+# Starting with Beats version 6.0.0, the dashboards are loaded via the Kiba=
+na API.
+# This requires a Kibana endpoint configuration.
+setup.kibana:
+
+  # Kibana Host
+  # Scheme and port can be left out and will be set to the default (http an=
+d 5601)
+  # In case you specify and additional path, the scheme is required: http:/=
+/localhost:5601/path
+  # IPv6 addresses should always be defined as: https://[2001:db8::1]:5601
+  #host: "localhost:5601"
+
+#=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D Elastic Cloud =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+# These settings simplify using filebeat with the Elastic Cloud (https://cl=
+oud.elastic.co/).
+
+# The cloud.id setting overwrites the `output.elasticsearch.hosts` and
+# `setup.kibana.host` options.
+# You can find the `cloud.id` in the Elastic Cloud web UI.
+#cloud.id:
+
+# The cloud.auth setting overwrites the `output.elasticsearch.username` and
+# `output.elasticsearch.password` settings. The format is `&lt;user&gt;:&lt=
+;pass&gt;`.
+#cloud.auth:
+
+#=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D Outputs =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+# Configure what output to use when sending the data collected by the beat.
+
+#-------------------------- Elasticsearch output --------------------------=
+----
+#output.elasticsearch:
+  # Array of hosts to connect to.
+  #hosts: ["localhost:9200"]
+
+  # Optional protocol and basic auth credentials.
+  #protocol: "https"
+  #username: "elastic"
+  #password: "changeme"
+
+#----------------------------- Logstash output ----------------------------=
+----
+#output.logstash:
+  # The Logstash hosts
+  #hosts: ["localhost:5044"]
+
+  # Optional SSL. By default is off.
+  # List of root certificates for HTTPS server verifications
+  #ssl.certificate_authorities: ["/etc/pki/root/ca.pem"]
+
+  # Certificate for SSL client authentication
+  #ssl.certificate: "/etc/pki/client/cert.pem"
+
+  # Client Certificate Key
+  #ssl.key: "/etc/pki/client/cert.key"
+#output.file:
+  #path: "D:/filebeat/filelogtest"
+  #filename: filebeat.log
+  #rotate_every_kb: 10000
+  #number_of_files: 7
+output.redis:
+  enabled: true
+  hosts: ${redis}
+  port: 6379
+  datatype: list
+  key: "filebeat"
+  db: 0
+#=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D Logging =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+# Sets log level. The default log level is info.
+# Available log levels are: critical, error, warning, info, debug
+#logging.level: debug
+
+# At debug level, you can selectively enable logging only for some componen=
+ts.
+# To enable all selectors use ["*"]. Examples of other selectors are "beat"=
+,
+# "publish", "service".
+#logging.selectors: ["*"]
+
+</pre>=20
+</div>=20
+</div>
+<p>4.=E4=BD=BF=E7=94=A8=E5=A4=96=E9=83=A8=E6=8C=82=E8=BD=BDfilebeat.yml=E9=
+=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=E6=9D=A5=E5=90=AF=E5=8A=A8filebeat=EF=BC=
+=9Adocker run -v /path/to/filebeat.yml:/filebeat.yml prima/filebeat:5</p>
+<p>&nbsp; &nbsp;output.redis=E6=98=AF=E4=BD=BF=E7=94=A8=E7=8E=AF=E5=A2=83=
+=E5=8F=98=E9=87=8F=E6=9D=A5=E5=8A=A8=E6=80=81=E6=8C=87=E5=AE=9Aredis=E5=9C=
+=B0=E5=9D=80=E7=9A=84=E3=80=82</p>
+<p>&nbsp;</p>
+<p><strong>=E6=80=BB=E7=BB=93=EF=BC=9A</strong>&nbsp; filebeat=E4=BD=BF=E7=
+=94=A8=E6=96=B9=E4=BE=BF=EF=BC=8C=E8=BD=BB=E5=B7=A7=EF=BC=8C=E5=8D=A0=E7=94=
+=A8=E8=B5=84=E6=BA=90=E6=9E=81=E5=B0=91=EF=BC=8C=E7=A8=B3=E5=AE=9A=E5=8F=AF=
+=E9=9D=A0=EF=BC=8C=E9=AB=98=E6=80=A7=E8=83=BD=EF=BC=9B</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =E4=BD=86=E8=BE=93=E5=87=BA=E6=
+=95=B0=E6=8D=AE=E4=BC=9A=E8=BF=9B=E8=A1=8C=E6=A0=BC=E5=BC=8F=E5=8C=96=E5=B0=
+=81=E8=A3=85=EF=BC=8C=E6=9C=AA=E6=8F=90=E4=BE=9B=E9=85=8D=E7=BD=AE=E8=BF=9B=
+=E8=A1=8C=E8=87=AA=E5=AE=9A=E4=B9=89=EF=BC=8C=E4=BE=8B=E5=A6=82=EF=BC=9A@Ti=
+mestamp=E7=AD=89</p>
+<h2 class=3D"md-end-block md-heading" id=3D"id-5.=E7=B3=BB=E7=BB=9F=E6=97=
+=A5=E5=BF=97-flume:"><span style=3D"color: rgb(255,0,0);"><strong>flume:</s=
+trong></span></h2>
+<div>
+1.hub.docker=E9=95=9C=E5=83=8F=E5=9C=B0=E5=9D=80=EF=BC=9A
+<a href=3D"https://hub.docker.com/r/probablyfine/flume/" class=3D"external-=
+link" rel=3D"nofollow">https://hub.docker.com/r/probablyfine/flume/</a>&nbs=
+p; &nbsp; &nbsp;
+</div>
+<p>2.<span style=3D"color: rgb(85,85,85);">Dockerfile</span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">Dockerfile</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence; collapse: true" data-theme=3D"Con=
+fluence">FROM openjdk:8-jre-alpine
+MAINTAINER Alex Wilson a.wilson@alumni.warwick.ac.uk
+
+ENV PATH /opt/flume/bin:$PATH
+
+RUN apk update \
+    &amp;&amp; apk add --no-cache wget bash \
+    &amp;&amp; mkdir -p /opt/flume \
+    &amp;&amp; wget -qO- http://archive.apache.org/dist/flume/1.7.0/apache-=
+flume-1.7.0-bin.tar.gz \
+          | tar zxvf - -C /opt/flume --strip 1
+
+ADD start-flume.sh /opt/flume/bin/start-flume
+
+ENTRYPOINT [ "start-flume" ]</pre>=20
+</div>=20
+</div>
+<p>3. flume.conf=EF=BC=88=E6=96=87=E4=BB=B6=E8=BE=93=E5=87=BA=EF=BC=89</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">flume.conf</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence; collapse: true" data-theme=3D"Con=
+fluence">agent1.sources =3D fileSrc
+agent1.channels =3D memoryChannel
+agent1.sinks =3D fileSink
+
+#agent1.sources.fileSrc.type =3D spooldir
+#agent1.sources.fileSrc.spoolDir =3D /tmp/in
+agent1.sources.fileSrc.type =3D exec
+agent1.sources.fileSrc.command =3D tail -F /tmp/in/log.log
+
+agent1.sinks.fileSink.type =3D file_roll
+agent1.sinks.fileSink.sink.directory =3D /tmp/out
+agent1.sinks.fileSink.sink.rollInterval =3D 0
+
+agent1.channels.memoryChannel.type =3D memory
+
+agent1.sources.fileSrc.channels =3D memoryChannel
+agent1.sinks.fileSink.channel =3D memoryChannel</pre>=20
+</div>=20
+</div>
+<p>4.=E4=BD=BF=E7=94=A8=E5=A4=96=E9=83=A8=E6=8C=82=E8=BD=BDfilume.conf=E9=
+=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=E6=9D=A5=E5=90=AF=E5=8A=A8flume=EF=BC=8C=
+=E5=B9=B6=E4=B8=94=E9=9C=80=E8=A6=81=E9=85=8D=E7=BD=AE=E7=8E=AF=E5=A2=83=E5=
+=8F=98=E9=87=8FFLUME_AGENT_NAME=EF=BC=9A</p>
+<p>docker run -d -e FLUME_AGENT_NAME=3Dagent1 -v /tmp/flume.conf:/opt/flume=
+-config/flume.conf docker.io/probablyfine/flume:5</p>
+<p><span style=3D"color: rgb(255,0,0);"><span style=3D"color: rgb(0,51,102)=
+;"><br></span></span></p>
+<p>5.=E7=A4=BA=E4=BE=8B=EF=BC=88flume=E6=94=AF=E6=8C=81java=E4=BA=8C=E6=AC=
+=A1=E5=BC=80=E5=8F=91,=E4=BB=A5=E8=87=AA=E5=AE=9A=E4=B9=89=E8=BE=93=E5=87=
+=BA=E5=88=B0mysql=E4=B8=BA=E4=BE=8B=EF=BC=89</p>
+<p>mysql.conf=EF=BC=9A</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">mysql.conf</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence; collapse: true" data-the=
+me=3D"Confluence">agent1.sources =3D source1
+agent1.sinks =3D mysqlSink
+agent1.channels =3D channel1
+=20
+=20
+=20
+# Describe/configure source1
+#agent1.sources.source1.type =3D exec
+#agent1.sources.source1.command =3D tail -F /home/yong/Work/flum-1.6/tail_l=
+og_exec
+agent1.sources.source1.channels =3D channel1
+agent1.sources.source1.type =3D netcat
+agent1.sources.source1.bind =3D localhost
+agent1.sources.source1.port =3D 44444
+=20
+=20
+# Describe mysqlSink
+agent1.sinks.mysqlSink.type =3D org.flume.mysql.sink.MysqlSink
+agent1.sinks.mysqlSink.hostname=3Dlocalhost
+agent1.sinks.mysqlSink.port=3D3306
+agent1.sinks.mysqlSink.databaseName=3Dsinktest
+agent1.sinks.mysqlSink.tableName=3Dmysqltest
+agent1.sinks.mysqlSink.user=3Droot
+agent1.sinks.mysqlSink.password=3D3172678
+agent1.sinks.mysqlSink.channel =3D channel1
+ =20
+# Use a channel which buffers events in memory
+#agent1.channels.channel1.type =3D memory
+#agent1.channels.channel1.capacity =3D 1000
+#agent1.channels.channel1.transactionCapactiy =3D 100
+
+
+agent1.channels.channel1.type =3D file =20
+agent1.channels.channel1.checkpointDir=3DD:/flume/test/checkpoint   #=E5=AD=
+=98=E6=94=BE=E6=A3=80=E6=9F=A5=E7=82=B9 =20
+agent1.channels.channel1.dataDirs=3DD:/flume/test/data    #=E5=AD=98=E6=94=
+=BE=E6=95=B0=E6=8D=AE  =20
+#agent1.channels.channel1.capacity =3D 100    #checkpoint=E6=96=87=E4=BB=B6=
+=E5=AD=98=E6=94=BEevent=E4=BF=A1=E6=81=AF=E7=9A=84=E6=9C=80=E5=A4=A7=E5=AE=
+=B9=E9=87=8F =20
+agent1.channels.channel1.transactionCapactiy =3D 100   #=E4=BA=8B=E5=8A=A1=
+=E7=9A=84=E6=9C=80=E5=A4=A7=E5=AE=B9=E9=87=8F=20
+
+</pre>=20
+</div>=20
+</div>
+<pre>MysqlSink.java  =E8=87=AA=E5=AE=9A=E4=B9=89=E8=BE=93=E5=87=BAmysql=E4=
+=BB=A3=E7=A0=81=EF=BC=8C=E6=89=93=E4=B8=BAjar=E4=B8=A2=E5=88=B0flume=E6=96=
+=87=E4=BB=B6=E4=B8=8Blib=E4=B8=AD=E5=8D=B3=E5=8F=AF=EF=BC=9A</pre>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">mysqlsink.java</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence; collapse: true" data-the=
+me=3D"Confluence">package org.flume.mysql.sink;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.util.List;
+
+import org.apache.flume.Channel;
+import org.apache.flume.Context;
+import org.apache.flume.Event;
+import org.apache.flume.EventDeliveryException;
+import org.apache.flume.Transaction;
+import org.apache.flume.conf.Configurable;
+import org.apache.flume.sink.AbstractSink;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import com.google.common.base.Preconditions;
+import com.google.common.base.Throwables;
+import com.google.common.collect.Lists; =20
+  =20
+public class MysqlSink extends AbstractSink implements Configurable { =20
+  =20
+    private Logger LOG =3D LoggerFactory.getLogger(MysqlSink.class); =20
+    private String hostname; =20
+    private String port; =20
+    private String databaseName; =20
+    private String tableName; =20
+    private String user; =20
+    private String password; =20
+    private PreparedStatement preparedStatement; =20
+    private Connection conn; =20
+    private int batchSize; =20
+  =20
+    public MysqlSink() { =20
+        LOG.info("MysqlSink start..."); =20
+    } =20
+  =20
+    public void configure(Context context) { =20
+        hostname =3D context.getString("hostname"); =20
+        Preconditions.checkNotNull(hostname, "hostname must be set!!"); =20
+        port =3D context.getString("port"); =20
+        Preconditions.checkNotNull(port, "port must be set!!"); =20
+        databaseName =3D context.getString("databaseName"); =20
+        Preconditions.checkNotNull(databaseName, "databaseName must be set!=
+!"); =20
+        tableName =3D context.getString("tableName"); =20
+        Preconditions.checkNotNull(tableName, "tableName must be set!!"); =
+=20
+        user =3D context.getString("user"); =20
+        Preconditions.checkNotNull(user, "user must be set!!"); =20
+        password =3D context.getString("password"); =20
+        Preconditions.checkNotNull(password, "password must be set!!"); =20
+        batchSize =3D context.getInteger("batchSize", 100); =20
+        Preconditions.checkNotNull(batchSize &gt; 0, "batchSize must be a p=
+ositive number!!"); =20
+    } =20
+  =20
+    @Override =20
+    public void start() { =20
+        super.start(); =20
+        try { =20
+            //=E8=B0=83=E7=94=A8Class.forName()=E6=96=B9=E6=B3=95=E5=8A=A0=
+=E8=BD=BD=E9=A9=B1=E5=8A=A8=E7=A8=8B=E5=BA=8F =20
+            Class.forName("com.mysql.jdbc.Driver"); =20
+        } catch (ClassNotFoundException e) { =20
+            e.printStackTrace(); =20
+        } =20
+  =20
+        String url =3D "jdbc:mysql://" + hostname + ":" + port + "/" + data=
+baseName;  =20
+        //=E8=B0=83=E7=94=A8DriverManager=E5=AF=B9=E8=B1=A1=E7=9A=84getConn=
+ection()=E6=96=B9=E6=B3=95=EF=BC=8C=E8=8E=B7=E5=BE=97=E4=B8=80=E4=B8=AAConn=
+ection=E5=AF=B9=E8=B1=A1 =20
+  =20
+        try { =20
+            conn =3D DriverManager.getConnection(url, user, password); =20
+            conn.setAutoCommit(false); =20
+            //=E5=88=9B=E5=BB=BA=E4=B8=80=E4=B8=AAStatement=E5=AF=B9=E8=B1=
+=A1 =20
+            preparedStatement =3D conn.prepareStatement("insert into " + ta=
+bleName +  =20
+                                               " (content) values (?)"); =
+=20
+  =20
+        } catch (SQLException e) { =20
+            e.printStackTrace(); =20
+            System.exit(1); =20
+        } =20
+  =20
+    } =20
+  =20
+    @Override =20
+    public void stop() { =20
+        super.stop(); =20
+        if (preparedStatement !=3D null) { =20
+            try { =20
+                preparedStatement.close(); =20
+            } catch (SQLException e) { =20
+                e.printStackTrace(); =20
+            } =20
+        } =20
+  =20
+        if (conn !=3D null) { =20
+            try { =20
+                conn.close(); =20
+            } catch (SQLException e) { =20
+                e.printStackTrace(); =20
+            } =20
+        } =20
+    } =20
+  =20
+    public Status process() throws EventDeliveryException { =20
+        Status result =3D Status.READY; =20
+        Channel channel =3D getChannel(); =20
+        Transaction transaction =3D channel.getTransaction(); =20
+        Event event; =20
+        String content; =20
+  =20
+        List&lt;String&gt; actions =3D Lists.newArrayList(); =20
+        transaction.begin(); =20
+        try { =20
+            for (int i =3D 0; i &lt; batchSize; i++) { =20
+                event =3D channel.take(); =20
+                if (event !=3D null) { =20
+                    content =3D new String(event.getBody()); =20
+                    actions.add(content); =20
+                } else { =20
+                    result =3D Status.BACKOFF; =20
+                    break; =20
+                } =20
+            } =20
+  =20
+            if (actions.size() &gt; 0) { =20
+                preparedStatement.clearBatch(); =20
+                for (String temp : actions) { =20
+                    preparedStatement.setString(1, temp); =20
+                    preparedStatement.addBatch(); =20
+                } =20
+                preparedStatement.executeBatch(); =20
+  =20
+                conn.commit(); =20
+            } =20
+            transaction.commit(); =20
+        } catch (Throwable e) { =20
+            try { =20
+                transaction.rollback(); =20
+            } catch (Exception e2) { =20
+                LOG.error("Exception in rollback. Rollback might not have b=
+een" + =20
+                        "successful.", e2); =20
+            } =20
+            LOG.error("Failed to commit transaction." + =20
+                    "Transaction rolled back.", e); =20
+            Throwables.propagate(e); =20
+        } finally { =20
+            transaction.close(); =20
+        } =20
+  =20
+        return result; =20
+    } =20
+}  </pre>=20
+</div>=20
+</div>
+<p><strong><br></strong></p>
+<p><strong>=E6=80=BB=E7=BB=93=EF=BC=9A</strong>&nbsp; flume=E9=85=8D=E7=BD=
+=AE=E4=BD=BF=E7=94=A8=E7=9B=B8=E5=AF=B9=E6=96=B9=E4=BE=BF=EF=BC=8C=E6=94=AF=
+=E6=8C=81java=E4=BA=8C=E6=AC=A1=E5=BC=80=E5=8F=91=EF=BC=8C=E6=94=AF=E6=8C=
+=81log4j=E7=AD=89=E7=9B=B4=E6=8E=A5=E8=BE=93=E5=85=A5=EF=BC=8C=E5=8F=8A=E5=
+=8E=9F=E7=94=9F=E8=BE=93=E5=87=BA=E3=80=82</p>
+<p><span style=3D"color: rgb(0,51,102);">flume=E8=AF=BB=E5=8F=96=E6=96=87=
+=E4=BB=B6=E8=BE=93=E5=85=A5=E6=9C=89=E4=B8=A4=E7=A7=8D=E6=96=B9=E5=BC=8F=EF=
+=BC=9A</span></p>
+<p><span style=3D"color: rgb(0,51,102);">=E4=B8=80=E7=A7=8D=E6=98=AFspoodir=
+<span style=3D"color: rgb(69,69,69);">=E4=BD=BF=E7=94=A8=E6=97=B6=E6=8C=87=
+=E5=AE=9A=E4=B8=80=E4=B8=AA=E6=96=87=E4=BB=B6=E5=A4=B9=EF=BC=8C=E5=8F=AF=E4=
+=BB=A5=E8=AF=BB=E5=8F=96=E8=AF=A5=E6=96=87=E4=BB=B6=E5=A4=B9=E4=B8=AD=E7=9A=
+=84=E6=89=80=E6=9C=89=E6=96=87=E4=BB=B6=EF=BC=8C=E9=9C=80=E8=A6=81=E6=B3=A8=
+=E6=84=8F=E7=9A=84=E6=98=AF=E8=AF=A5=E6=96=87=E4=BB=B6=E5=A4=B9=E4=B8=AD=E7=
+=9A=84=E6=96=87=E4=BB=B6=E5=9C=A8=E8=AF=BB=E5=8F=96=E8=BF=87=E7=A8=8B=E4=B8=
+=AD=E4=B8=8D=E8=83=BD=E4=BF=AE=E6=94=B9=EF=BC=8C=E5=90=8C=E6=97=B6=E6=96=87=
+=E4=BB=B6=E5=90=8D=E4=B9=9F=E4=B8=8D=E8=83=BD=E4=BF=AE=E6=94=B9=EF=BC=8C</s=
+pan>=E4=B8=8D=E9=80=82=E5=90=88log=E5=86=85=E5=AE=B9=E4=B8=80=E7=9B=B4=E5=
+=9C=A8=E6=96=B0=E5=A2=9E=E4=B8=94=E9=9C=80=E8=A6=81=E5=AE=9E=E6=97=B6=E8=AF=
+=BB=E5=8F=96=E7=9A=84=E5=9C=BA=E6=99=AF=E3=80=82</span></p>
+<p><span style=3D"color: rgb(0,51,102);">=E5=8F=A6=E4=B8=80=E7=A7=8D=E4=B8=
+=BAexec=EF=BC=8C=E4=BD=BF=E7=94=A8tail -F=E6=96=B9=E5=BC=8F=E8=BF=9E=E6=8E=
+=A5=E7=9B=91=E6=8E=A7=E5=8D=95=E4=B8=AA=E6=96=87=E4=BB=B6=E7=9A=84<span sty=
+le=3D"color: rgb(0,51,102);">=E5=8F=98=E5=8C=96</span>=E5=86=85=E5=AE=B9=EF=
+=BC=8C=E5=A4=9A=E4=B8=AA=E6=97=A5=E5=BF=97=E6=96=87=E4=BB=B6=E9=85=8D=E7=BD=
+=AE=E5=A4=9A=E4=B8=AAsource=E5=8D=B3=E5=8F=AF=EF=BC=8C=E4=BD=86=E8=AF=A5=E7=
+=A7=8D=E6=96=B9=E5=BC=8F=E5=B9=B6=E6=9C=AA=E6=8F=90=E4=BE=9B=E8=AF=BB=E5=8F=
+=96=E6=96=87=E4=BB=B6=E7=9A=84=E8=BF=9B=E5=BA=A6=E8=AE=B0=E5=BD=95=EF=BC=8C=
+=E9=9C=80=E8=A6=81=E8=87=AA=E5=B7=B1=E7=BC=96=E5=86=99shell=E8=84=9A=E6=9C=
+=AC=E3=80=82&nbsp;</span></p>
+<h2 class=3D"md-end-block md-heading" id=3D"id-5.=E7=B3=BB=E7=BB=9F=E6=97=
+=A5=E5=BF=97-fluentd:"><span style=3D"color: rgb(255,0,0);"><strong>fluentd=
+:</strong></span></h2>
+<div>
+<div>
+1.hub.docker=E9=95=9C=E5=83=8F=E5=9C=B0=E5=9D=80=EF=BC=9A
+<a href=3D"https://hub.docker.com/r/fluent/fluentd/" class=3D"external-link=
+" rel=3D"nofollow">https://hub.docker.com/r/fluent/fluentd/</a>&nbsp; &nbsp=
+; &nbsp;
+</div>
+<p>2.<span style=3D"color: rgb(85,85,85);">Dockerfile</span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">Dockerfile</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence; collapse: true" data-theme=3D"Con=
+fluence"># AUTOMATICALLY GENERATED
+# DO NOT EDIT THIS FILE DIRECTLY, USE /Dockerfile.template.erb
+
+FROM debian:stretch-slim
+LABEL maintainer "TAGOMORI Satoshi &lt;tagomoris@gmail.com&gt;"
+LABEL Description=3D"Fluentd docker image" Vendor=3D"Fluent Organization" V=
+ersion=3D"1.1"
+
+ENV DUMB_INIT_VERSION=3D1.2.0
+
+ENV GOSU_VERSION=3D1.10
+
+ARG DEBIAN_FRONTEND=3Dnoninteractive
+
+# Do not split this into multiple RUN!
+# Docker creates a layer for every RUN-Statement
+# therefore an 'apt-get purge' has no effect
+RUN apt-get update \
+ &amp;&amp; apt-get upgrade -y \
+ &amp;&amp; apt-get install -y --no-install-recommends \
+            ca-certificates \
+            ruby \
+ &amp;&amp; buildDeps=3D" \
+      make gcc g++ libc-dev \
+      ruby-dev \
+      wget bzip2 gnupg dirmngr \
+    " \
+ &amp;&amp; apt-get install -y --no-install-recommends $buildDeps \
+ &amp;&amp; update-ca-certificates \
+ &amp;&amp; echo 'gem: --no-document' &gt;&gt; /etc/gemrc \
+ &amp;&amp; gem install oj -v 2.18.3 \
+ &amp;&amp; gem install json -v 2.1.0 \
+ &amp;&amp; gem install fluentd -v 1.1.0 \
+ &amp;&amp; dpkgArch=3D"$(dpkg --print-architecture | awk -F- '{ print $NF =
+}')" \
+ &amp;&amp; wget -O /usr/bin/dumb-init https://github.com/Yelp/dumb-init/re=
+leases/download/v${DUMB_INIT_VERSION}/dumb-init_${DUMB_INIT_VERSION}_$dpkgA=
+rch \
+ &amp;&amp; chmod +x /usr/bin/dumb-init \
+ &amp;&amp; wget -O /usr/local/bin/gosu "https://github.com/tianon/gosu/rel=
+eases/download/$GOSU_VERSION/gosu-$dpkgArch" \
+ &amp;&amp; wget -O /usr/local/bin/gosu.asc "https://github.com/tianon/gosu=
+/releases/download/$GOSU_VERSION/gosu-$dpkgArch.asc" \
+ &amp;&amp; export GNUPGHOME=3D"$(mktemp -d)" \
+ &amp;&amp; gpg --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-key=
+s B42F6819007F00F88E364FD4036A9C25BF357DD4 \
+ &amp;&amp; gpg --batch --verify /usr/local/bin/gosu.asc /usr/local/bin/gos=
+u \
+ &amp;&amp; rm -rf "$GNUPGHOME" /usr/local/bin/gosu.asc \
+ &amp;&amp; chmod +x /usr/local/bin/gosu \
+ &amp;&amp; gosu nobody true \
+ &amp;&amp; wget -O /tmp/jemalloc-4.4.0.tar.bz2 https://github.com/jemalloc=
+/jemalloc/releases/download/4.4.0/jemalloc-4.4.0.tar.bz2 \
+ &amp;&amp; cd /tmp &amp;&amp; tar -xjf jemalloc-4.4.0.tar.bz2 &amp;&amp; c=
+d jemalloc-4.4.0/ \
+ &amp;&amp; ./configure &amp;&amp; make \
+ &amp;&amp; mv lib/libjemalloc.so.2 /usr/lib \
+ &amp;&amp; apt-get purge -y --auto-remove \
+                  -o APT::AutoRemove::RecommendsImportant=3Dfalse \
+                  $buildDeps \
+ &amp;&amp; rm -rf /var/lib/apt/lists/* \
+ &amp;&amp; rm -rf /tmp/* /var/tmp/* /usr/lib/ruby/gems/*/cache/*.gem
+
+# for log storage (maybe shared with host)
+RUN mkdir -p /fluentd/log
+# configuration/plugins path (default: copied from .)
+RUN mkdir -p /fluentd/etc /fluentd/plugins
+
+COPY fluent.conf /fluentd/etc/
+COPY entrypoint.sh /bin/
+RUN chmod +x /bin/entrypoint.sh
+
+
+ENV FLUENTD_OPT=3D""
+ENV FLUENTD_CONF=3D"fluent.conf"
+
+ENV LD_PRELOAD=3D"/usr/lib/libjemalloc.so.2"
+ENV DUMB_INIT_SETSID 0
+
+EXPOSE 24224 5140
+
+ENTRYPOINT ["/bin/entrypoint.sh"]
+
+CMD exec fluentd -c /fluentd/etc/${FLUENTD_CONF} -p /fluentd/plugins $FLUEN=
+TD_OPT</pre>=20
+</div>=20
+</div>
+<p>2.fluent.conf=EF=BC=88kafka=E8=BE=93=E5=87=BA=EF=BC=89=EF=BC=9A</p>
+</div>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">fluent.conf</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence; collapse: true" data-the=
+me=3D"Confluence">&nbsp;&lt;source&gt;
+  type tail
+  path /fluentd/log/*
+=09pos_file /fluentd/log.pos
+=09format=09none
+=09tag td.kafka
+  #read_from_head true
+&lt;/source&gt;
+
+&lt;match td.kafka&gt;
+  type kafka_buffered
+  brokers 192.168.159.20:9092
+=09default_topic test
+  buffer_type memory
+  flush_interval 3s
+&lt;/match&gt;</pre>=20
+</div>=20
+</div>
+<p><span style=3D"color: rgb(255,0,0);"><span style=3D"color: rgb(0,0,0);">=
+&nbsp;</span></span>3.kafka=E7=9A=84=E6=94=AF=E6=8C=81=E9=9C=80=E8=A6=81=E5=
+=AE=89=E8=A3=85=E6=8F=92=E4=BB=B6=EF=BC=9A<a href=3D"https://github.com/flu=
+ent/fluent-plugin-kafka" class=3D"external-link" rel=3D"nofollow">https://g=
+ithub.com/fluent/fluent-plugin-kafka</a></p>
+<p>&nbsp; &nbsp; =E8=AF=A5=E6=8F=92=E4=BB=B6=E4=BD=BF=E7=94=A8$ gem install=
+ fluent-plugin-kafka=E5=AE=89=E8=A3=85=E6=97=B6=EF=BC=8C=E5=B9=B6=E4=B8=8D=
+=E4=BC=9A=E8=87=AA=E5=8A=A8=E5=B0=86=E6=8F=92=E4=BB=B6=E6=94=BE=E5=85=A5<a =
+class=3D"external-link" title=3D"This path skips through empty directories"=
+ href=3D"https://github.com/fluent/fluent-plugin-kafka/tree/master/lib/flue=
+nt/plugin" rel=3D"nofollow"><span class=3D"simplified-path" style=3D"color:=
+ rgb(106,115,125);">lib/fluent/</span>plugin</a>=E4=B8=8B=EF=BC=8C=E9=9C=80=
+=E8=A6=81=E4=BD=BF=E7=94=A8=E6=8C=82=E8=BD=BD+=E6=8B=B7=E8=B4=9D=E6=96=B9=
+=E5=BC=8F=E8=BF=9B=E8=A1=8C=E6=8F=92=E4=BB=B6=E5=AE=89=E8=A3=85=EF=BC=8C=E6=
+=88=96=E8=80=85dockerfile=E7=9A=84=E6=96=B9=E5=BC=8F=E8=A7=A3=E5=86=B3</p>
+<p>&nbsp;</p>
+<p><strong>=E6=80=BB=E7=BB=93=EF=BC=9A</strong><span style=3D"color: rgb(0,=
+0,0);">fluentd=E4=BD=BF=E7=94=A8=E7=9B=B8=E5=AF=B9filebeat/flume=E5=9C=A8=
+=E6=97=A5=E5=BF=97=E7=B1=BB=E5=9E=8B=E7=9A=84=E6=94=B6=E9=9B=86=EF=BC=8C=E4=
+=BB=A5=E5=8F=8A=E8=BE=93=E5=85=A5=E8=BE=93=E5=87=BA=E6=BA=90=E4=B8=8A=E6=9C=
+=89=E6=9B=B4=E5=A4=9A=E7=9A=84=E7=A4=BE=E5=8C=BA=E5=92=8C=E6=8F=92=E4=BB=B6=
+=E6=94=AF=E6=8C=81=EF=BC=8C<span style=3D"color: rgb(56,58,66);">=E7=9B=AE=
+=E5=89=8D=E6=9C=89=E8=B6=85=E8=BF=87 500 =E7=A7=8Dplugins=EF=BC=8C=E5=8F=AF=
+=E4=BB=A5=E8=BF=9E=E6=8E=A5=E5=90=84=E7=A7=8D=E6=95=B0=E6=8D=AE=E6=BA=90=E5=
+=92=8C=E6=95=B0=E6=8D=AE=E8=BE=93=E5=87=BA=E7=BB=84=E4=BB=B6=E3=80=82</span=
+></span></p>
+<h2 class=3D"md-end-block md-heading" id=3D"id-5.=E7=B3=BB=E7=BB=9F=E6=97=
+=A5=E5=BF=97-=E5=BE=AE=E6=9C=8D=E5=8A=A1=E9=A1=B9=E7=9B=AE=E6=97=A5=E5=BF=
+=97=E8=BE=93=E5=87=BA=E7=A4=BA=E4=BE=8B:">=E5=BE=AE=E6=9C=8D=E5=8A=A1=E9=A1=
+=B9=E7=9B=AE=E6=97=A5=E5=BF=97=E8=BE=93=E5=87=BA=E7=A4=BA=E4=BE=8B:</h2>
+<p>=E6=8F=90=E4=BE=9B=E4=B8=80=E4=B8=AA=E6=B5=8B=E8=AF=95=E7=9A=84=E5=BE=AE=
+=E6=9C=8D=E5=8A=A1=E6=A0=B7=E4=BE=8B=EF=BC=8C=E8=BE=93=E5=87=BA=E6=97=A5=E5=
+=BF=97=E6=96=87=E4=BB=B6=E5=88=B0=E5=AE=BF=E4=B8=BB=E6=9C=BA=E7=9A=84=E6=97=
+=A5=E5=BF=97=E6=94=B6=E9=9B=86=E7=9B=AE=E5=BD=95</p>
+<p>1.pom.xml</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">pom.xml</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence; collapse: true" data-the=
+me=3D"Confluence">&lt;dependencies&gt;
+=09=09&lt;dependency&gt;
+=09=09=09&lt;groupId&gt;org.springframework.boot&lt;/groupId&gt;
+=09=09=09&lt;artifactId&gt;spring-boot-starter-web&lt;/artifactId&gt;
+=09=09&lt;/dependency&gt;
+
+=09=09&lt;dependency&gt;
+=09=09=09&lt;groupId&gt;org.springframework.boot&lt;/groupId&gt;
+=09=09=09&lt;artifactId&gt;spring-boot-starter-test&lt;/artifactId&gt;
+=09=09=09&lt;scope&gt;test&lt;/scope&gt;
+=09=09&lt;/dependency&gt;
+
+=09=09&lt;dependency&gt;
+=09=09=09&lt;groupId&gt;org.springframework.cloud&lt;/groupId&gt;
+=09=09=09&lt;artifactId&gt;spring-cloud-starter-eureka&lt;/artifactId&gt;
+=09=09&lt;/dependency&gt;
+=09&lt;/dependencies&gt;
+=09&lt;dependencyManagement&gt;
+=09=09&lt;dependencies&gt;
+=09=09=09&lt;dependency&gt;
+=09=09=09=09&lt;groupId&gt;org.springframework.cloud&lt;/groupId&gt;
+=09=09=09=09&lt;artifactId&gt;spring-cloud-dependencies&lt;/artifactId&gt;
+=09=09=09=09&lt;version&gt;Camden.SR5&lt;/version&gt;
+=09=09=09=09&lt;type&gt;pom&lt;/type&gt;
+=09=09=09=09&lt;scope&gt;import&lt;/scope&gt;
+=09=09=09&lt;/dependency&gt;
+=09=09&lt;/dependencies&gt;
+=09&lt;/dependencyManagement&gt;
+
+=09&lt;build&gt;
+=09=09&lt;plugins&gt;
+=09=09=09&lt;plugin&gt;
+=09=09=09=09&lt;groupId&gt;org.springframework.boot&lt;/groupId&gt;
+=09=09=09=09&lt;artifactId&gt;spring-boot-maven-plugin&lt;/artifactId&gt;
+=09=09=09&lt;/plugin&gt;
+=09=09=09&lt;plugin&gt;
+=09=09=09=09&lt;groupId&gt;com.spotify&lt;/groupId&gt;
+=09=09=09=09&lt;artifactId&gt;docker-maven-plugin&lt;/artifactId&gt;
+=09=09=09=09&lt;version&gt;0.4.13&lt;/version&gt;
+=09=09=09=09&lt;configuration&gt;
+=09=09=09=09=09&lt;imageName&gt;192.168.150.116:5000/cloud/filebeat:v1
+
+=09=09=09=09=09&lt;/imageName&gt;
+=09=09=09=09=09&lt;dockerHost&gt;http://192.168.150.135:2375&lt;/dockerHost=
+&gt;
+=09=09=09=09=09&lt;dockerDirectory&gt;${project.basedir}/src/main/docker&lt=
+;/dockerDirectory&gt;
+=09=09=09=09=09&lt;resources&gt;
+=09=09=09=09=09=09&lt;resource&gt;
+=09=09=09=09=09=09=09&lt;targetPath&gt;/&lt;/targetPath&gt;
+=09=09=09=09=09=09=09&lt;directory&gt;${project.build.directory}&lt;/direct=
+ory&gt;
+=09=09=09=09=09=09&lt;/resource&gt;
+=09=09=09=09=09&lt;/resources&gt;
+=09=09=09=09&lt;/configuration&gt;
+=09=09=09&lt;/plugin&gt;
+=09=09&lt;/plugins&gt;
+=09&lt;/build&gt;</pre>=20
+</div>=20
+</div>
+<p><span style=3D"color: rgb(0,0,0);"><span style=3D"color: rgb(56,58,66);"=
+>&nbsp;</span></span>2.DockerFile</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">DockerFile</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence; collapse: true" data-the=
+me=3D"Confluence">FROM java:8
+
+ADD springcloud-filebeat-0.0.1-SNAPSHOT.jar filebeat.jar
+ENTRYPOINT ["java","-Djava.security.egd=3Dfile:/dev/./urandom","-jar","/fil=
+ebeat.jar"]</pre>=20
+</div>=20
+</div>
+<p><span style=3D"color: rgb(0,0,0);"><span style=3D"color: rgb(56,58,66);"=
+>&nbsp;</span></span>3.logback.xml</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">logback.xml</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence; collapse: true" data-the=
+me=3D"Confluence">&lt;?xml version=3D"1.0" encoding=3D"UTF-8"?&gt;
+&lt;configuration&gt;  =20
+    &lt;appender name=3D"all_info"
+              class=3D"ch.qos.logback.core.rolling.RollingFileAppender"&gt;
+        &lt;File&gt;/home/music/logs/test.log&lt;/File&gt;
+        &lt;rollingPolicy class=3D"ch.qos.logback.core.rolling.SizeAndTimeB=
+asedRollingPolicy"&gt;
+            &lt;fileNamePattern&gt;var/log/test.%d{yyyyMMdd}.%i.log&lt;/fil=
+eNamePattern&gt;
+            &lt;maxFileSize&gt;500MB&lt;/maxFileSize&gt;
+            &lt;maxHistory&gt;12&lt;/maxHistory&gt;
+            &lt;totalSizeCap&gt;6GB&lt;/totalSizeCap&gt;
+        &lt;/rollingPolicy&gt;
+        &lt;encoder&gt;
+            &lt;Pattern&gt;%d %p %logger{0} ||%X{logId} ||%m%n %nopex&lt;/P=
+attern&gt;
+        &lt;/encoder&gt;
+    &lt;/appender&gt;
+=09&lt;logger name=3D"cn.ycx.controller.HelloController" level=3D"INFO" add=
+itivity=3D"false"&gt;
+        &lt;appender-ref ref=3D"all_info"/&gt;
+    &lt;/logger&gt;
+&lt;/configuration&gt; </pre>=20
+</div>=20
+</div>
+<p>4.=E5=B0=86=E5=BE=AE=E6=9C=8D=E5=8A=A1=E6=89=93=E5=8C=85=E6=8F=90=E4=BA=
+=A4=E5=88=B0docker=E6=9C=8D=E5=8A=A1=E5=99=A8=E4=B8=8A=EF=BC=8C=E7=94=9F=E6=
+=88=90=E5=AE=B9=E5=99=A8=E6=97=B6=E5=B0=86=E6=97=A5=E5=BF=97=E7=94=9F=E6=88=
+=90=E8=B7=AF=E5=BE=84=E8=B7=AF=E5=BE=84=E6=8C=82=E8=BD=BD=E5=87=BA=E5=8E=BB=
+=EF=BC=9A<span>docker run -d&nbsp;<span>-v&nbsp;</span></span>/home/music/l=
+ogs/{$hostname}:/home/music/logs/{$hostname} 192.168.150.116:5000/cloud/fil=
+ebeat:v1</p>
+<p>&nbsp;</p>
+    </div>
+</body>
+</html>
+------=_Part_519847_507873161.1518081668454--

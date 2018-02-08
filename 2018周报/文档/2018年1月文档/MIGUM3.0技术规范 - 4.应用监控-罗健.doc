@@ -1,0 +1,407 @@
+Message-ID: <857222604.519757.1518081641843.JavaMail.confluence@dev86>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_519756_1708405936.1518081641839"
+
+------=_Part_519756_1708405936.1518081641839
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>4.=E5=BA=94=E7=94=A8=E7=9B=91=E6=8E=A7</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>4.=E5=BA=94=E7=94=A8=E7=9B=91=E6=8E=A7</h1>
+    <div class=3D"Section1">
+        <p class=3D"md-end-block md-heading"><span style=3D"color: rgb(63,6=
+3,63);">Spring Boot Admin=E5=88=86=E4=B8=BAserver=E7=AB=AF=E5=92=8Cclient=
+=E7=AB=AF=EF=BC=8C=E7=94=B1=E4=BA=8E<span style=3D"color: rgb(63,63,63);">=
+=E9=A1=B9=E7=9B=AE=E6=98=AF=E4=BD=BF=E7=94=A8 Eureka =E6=9D=A5=E5=81=9A=E6=
+=B3=A8=E5=86=8C=E3=80=81=E5=8F=91=E7=8E=B0=E7=9A=84=EF=BC=8C=E6=89=80=E4=BB=
+=A5=E5=8F=AA=E9=9C=80=E8=A6=81=E9=85=8D=E7=BD=AEadmin server<span style=3D"=
+color: rgb(63,63,63);">=EF=BC=8C=E5=B0=86<span style=3D"color: rgb(63,63,63=
+);">admin&nbsp;</span>server=E4=BD=9C=E4=B8=BA=E6=99=AE=E9=80=9A=E5=AE=A2=
+=E6=88=B7=E7=AB=AF=E6=B3=A8=E5=86=8C=E5=88=B0Eureka Server=EF=BC=8CSpring B=
+oot Admin =E5=B0=B1=E5=8F=AF=E4=BB=A5=E7=AE=A1=E7=90=86=E6=89=80=E6=9C=89=
+=E6=B3=A8=E5=86=8C=E5=88=B0 Eureka Server =E7=9A=84=E5=BA=94=E7=94=A8=E3=80=
+=82</span></span></span></p>
+<h3 class=3D"md-end-block md-heading" id=3D"id-4.=E5=BA=94=E7=94=A8=E7=9B=
+=91=E6=8E=A7-=E6=9C=8D=E5=8A=A1=E7=AB=AF">=E6=9C=8D=E5=8A=A1=E7=AB=AF</h3>
+<ol>
+<li>=E5=8F=82=E7=85=A7<a href=3D"/miguwiki/pages/viewpage.action?pageId=3D6=
+495029">=E5=9F=BA=E7=A1=80=E9=A1=B9=E7=9B=AE</a>=E5=88=9B=E5=BB=BA=E9=A1=B9=
+=E7=9B=AE</li>
+<li><p>Eureka Client=E7=9A=84=E9=85=8D=E7=BD=AE=EF=BC=8C=E6=B7=BB=E5=8A=A0=
+=E4=BB=A5=E4=B8=8B=E4=BE=9D=E8=B5=96</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">pom.xml</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: xml; gutter: false; theme: Confluence; collapse: true" data-theme=3D"Conf=
+luence">&lt;dependency&gt;
+   &lt;groupId&gt;de.codecentric&lt;/groupId&gt;
+   &lt;artifactId&gt;spring-boot-admin-server&lt;/artifactId&gt;
+   &lt;version&gt;1.5.0&lt;/version&gt;
+&lt;/dependency&gt;
+
+&lt;dependency&gt;
+   &lt;groupId&gt;de.codecentric&lt;/groupId&gt;
+   &lt;artifactId&gt;spring-boot-admin-server-ui&lt;/artifactId&gt;
+   &lt;version&gt;1.5.0&lt;/version&gt;
+&lt;/dependency&gt;</pre>=20
+</div>=20
+</div></li>
+<li><p>=E4=BD=9C=E4=B8=BA<span style=3D"color: rgb(63,63,63);">Eureka Clien=
+t&nbsp; =E5=B9=B6=E6=8A=8A=E8=87=AA=E5=B7=B1=E6=B3=A8=E5=86=8C=E5=88=B0Eure=
+ka=E6=9C=8D=E5=8A=A1=E5=99=A8</span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">src/main/resources/application.yml</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: xml; gutter: false; theme: Confluence; collapse: true" data-theme=3D"Conf=
+luence">eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+&nbsp;
+#version=E4=BF=A1=E6=81=AF
+info:
+  version: @project.version@
+management:
+  security:
+    enabled: false</pre>=20
+</div>=20
+</div></li>
+<li><p><span style=3D"color: rgb(63,63,63);">&nbsp;</span>@EnableAdminServe=
+r <span style=3D"color: rgb(63,63,63);">=E6=B3=A8=E8=A7=A3=E5=BC=80=E5=90=
+=AF=E7=9B=91=E6=8E=A7</span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">AdminserverApplication.java</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence; collapse: true" data-theme=3D"Con=
+fluence">@SpringBootApplication
+@EnableEurekaClient
+@EnableAdminServer
+public class AdminserverApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(AdminserverApplication.class, args);
+    }
+}</pre>=20
+</div>=20
+</div></li>
+</ol>
+<h3 id=3D"id-4.=E5=BA=94=E7=94=A8=E7=9B=91=E6=8E=A7-=E5=AE=A2=E6=88=B7=E7=
+=AB=AF"><strong>=E5=AE=A2=E6=88=B7=E7=AB=AF</strong></h3>
+<ol>
+<li>=E5=8F=82=E7=85=A7<a href=3D"/miguwiki/pages/viewpage.action?pageId=3D6=
+495029">=E5=9F=BA=E7=A1=80=E9=A1=B9=E7=9B=AE</a>=E5=88=9B=E5=BB=BA=E9=A1=B9=
+=E7=9B=AE</li>
+<li><p>=E8=AE=BE=E7=BD=AE=E9=A1=B9=E7=9B=AE=E4=BF=A1=E6=81=AF</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">application.yml</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: xml; gutter: false; theme: Confluence; collapse: true" data-theme=3D"Conf=
+luence">#info=E4=BF=A1=E6=81=AF =E5=8F=AF=E6=A0=B9=E6=8D=AE=E9=9C=80=E6=B1=
+=82=E8=87=AA=E5=AE=9A=E4=B9=89
+info:
+  version: @project.version@
+  owner: MIGU
+management:
+  security:
+    enabled: false</pre>=20
+</div>=20
+</div></li>
+</ol>
+<h3 id=3D"id-4.=E5=BA=94=E7=94=A8=E7=9B=91=E6=8E=A7-=E6=89=A9=E5=B1=95=E9=
+=85=8D=E7=BD=AE">=E6=89=A9=E5=B1=95=E9=85=8D=E7=BD=AE</h3>
+<pre>=E9=9B=86=E6=88=90JMX-beeans</pre>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">pom.xml</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: xml; gutter: false; theme: Confluence; collapse: true" data-theme=3D"Conf=
+luence">&lt;dependency&gt;
+   &lt;groupId&gt;org.jolokia&lt;/groupId&gt;
+   &lt;artifactId&gt;jolokia-core&lt;/artifactId&gt;
+&lt;/dependency&gt;</pre>=20
+</div>=20
+</div>
+<p>&nbsp;</p>
+<p>Loglevel managment =E6=97=A5=E5=BF=97=E8=BE=93=E5=87=BA=E7=BA=A7=E5=88=
+=AB=E7=9A=84=E7=AE=A1=E7=90=86</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">logback.xml</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: xml; gutter: false; theme: Confluence; collapse: true" data-theme=3D"Conf=
+luence">&lt;configuration&gt;
+    &lt;include resource=3D"org/springframework/boot/logging/logback/base.x=
+ml"/&gt;
+    &lt;jmxConfigurator/&gt;
+&lt;/configuration&gt;</pre>=20
+</div>=20
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+    </div>
+</body>
+</html>
+------=_Part_519756_1708405936.1518081641839--
