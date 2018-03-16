@@ -6,3 +6,6 @@
 	3.开发我的彩铃提示接口
 	4.开发首页banner及开机大图标识
 陈操	熟悉项目结构
+袁常鑫  1.应用监控springboot-admin协同整理部署文档到wiki
+		2.filebeat、flume、fluentd协同在docker环境部署调试及整理文档到wiki
+		3.梳理3.0重构相关演唱会接口
