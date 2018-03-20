@@ -1,0 +1,2178 @@
+Message-ID: <1191623693.702372.1521514528118.JavaMail.confluence@dev86>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_702371_524911285.1521514528117"
+
+------=_Part_702371_524911285.1521514528117
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>30.=E8=8E=B7=E5=8F=96=E6=AD=8C=E5=8D=95=E4=B8=AD=E7=9A=84=E6=AD=
+=8C=E6=9B=B2=E5=88=97=E8=A1=A8</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>30.=E8=8E=B7=E5=8F=96=E6=AD=8C=E5=8D=95=E4=B8=AD=E7=9A=84=E6=AD=8C=
+=E6=9B=B2=E5=88=97=E8=A1=A8</h1>
+    <div class=3D"Section1">
+        <h5 id=3D"id-30.=E8=8E=B7=E5=8F=96=E6=AD=8C=E5=8D=95=E4=B8=AD=E7=9A=
+=84=E6=AD=8C=E6=9B=B2=E5=88=97=E8=A1=A8-*=E6=8E=A5=E5=8F=A3=E5=90=8D=E7=A7=
+=B0">*=E6=8E=A5=E5=8F=A3=E5=90=8D=E7=A7=B0</h5>
+<p>QueryMusicListSongsServiceImpl</p>
+<p>&nbsp;</p>
+<h5 id=3D"id-30.=E8=8E=B7=E5=8F=96=E6=AD=8C=E5=8D=95=E4=B8=AD=E7=9A=84=E6=
+=AD=8C=E6=9B=B2=E5=88=97=E8=A1=A8-*=E6=8E=A5=E5=8F=A3=E6=8F=8F=E8=BF=B0"><s=
+trong>*=E6=8E=A5=E5=8F=A3=E6=8F=8F=E8=BF=B0</strong></h5>
+<p>=E8=8E=B7=E5=8F=96=E4=B8=AA=E4=BA=BA=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8=
+=E6=8E=A5=E5=8F=A3=EF=BC=8C=E4=BB=8E=E7=94=A8=E6=88=B7=E7=BB=84=E4=BB=B6=E6=
+=9F=A5=E8=AF=A2=E3=80=82</p>
+<p>&nbsp;</p>
+<h5 id=3D"id-30.=E8=8E=B7=E5=8F=96=E6=AD=8C=E5=8D=95=E4=B8=AD=E7=9A=84=E6=
+=AD=8C=E6=9B=B2=E5=88=97=E8=A1=A8-*=E6=8E=A5=E5=8F=A3=E4=BA=BA">*=E6=8E=A5=
+=E5=8F=A3=E4=BA=BA</h5>
+<p>=E5=BC=A0=E6=96=87=E9=9F=AC</p>
+<p>&nbsp;</p>
+<h5 id=3D"id-30.=E8=8E=B7=E5=8F=96=E6=AD=8C=E5=8D=95=E4=B8=AD=E7=9A=84=E6=
+=AD=8C=E6=9B=B2=E5=88=97=E8=A1=A8-*=E6=8E=A5=E5=8F=A3=E6=96=B9=E6=B3=95">*=
+=E6=8E=A5=E5=8F=A3=E6=96=B9=E6=B3=95</h5>
+<p>/v1.0/user/queryMusicListSongs.do</p>
+<p>&nbsp;</p>
+<h5 id=3D"id-30.=E8=8E=B7=E5=8F=96=E6=AD=8C=E5=8D=95=E4=B8=AD=E7=9A=84=E6=
+=AD=8C=E6=9B=B2=E5=88=97=E8=A1=A8-*=E5=9F=9F=E5=90=8D">*=E5=9F=9F=E5=90=8D<=
+/h5>
+<p><span style=3D"color: rgb(80,80,80);">u.musicapp.migu.cn</span></p>
+<p>&nbsp;</p>
+<h5 id=3D"id-30.=E8=8E=B7=E5=8F=96=E6=AD=8C=E5=8D=95=E4=B8=AD=E7=9A=84=E6=
+=AD=8C=E6=9B=B2=E5=88=97=E8=A1=A8-*=E6=8E=A5=E5=8F=A3=E6=96=B9=E5=BC=8F">*=
+=E6=8E=A5=E5=8F=A3=E6=96=B9=E5=BC=8F</h5>
+<p>=E8=AF=B7=E6=B1=82=E4=BD=BF=E7=94=A8HTTP POST=E6=96=B9=E6=B3=95=EF=BC=8C=
+=E8=BF=94=E5=9B=9EJSON=E6=A0=BC=E5=BC=8F=E7=9A=84=E5=93=8D=E5=BA=94=E6=95=
+=B0=E6=8D=AE=E3=80=82</p>
+<p>&nbsp;</p>
+<h5 id=3D"id-30.=E8=8E=B7=E5=8F=96=E6=AD=8C=E5=8D=95=E4=B8=AD=E7=9A=84=E6=
+=AD=8C=E6=9B=B2=E5=88=97=E8=A1=A8-*=E6=A0=BC=E5=BC=8F=E4=B8=BE=E4=BE=8B">*=
+=E6=A0=BC=E5=BC=8F=E4=B8=BE=E4=BE=8B</h5>
+<p>/MIGUM2.0/v1.0/user/queryMusicListSongs.do</p>
+<p>=E6=B5=8B=E8=AF=95=E7=8E=AF=E5=A2=83=EF=BC=9A=E5=86=85=E7=BD=9110.25.193=
+.186:18089=EF=BC=9B=E5=A4=96=E7=BD=91=EF=BC=9A218.200.227.207:18089</p>
+<p>=E6=AD=A3=E5=BC=8F=E7=81=B0=E5=BA=A6=E7=8E=AF=E5=A2=83=EF=BC=9Aapp.u.vip=
+.migu.cn</p>
+<p>=E6=AD=A3=E5=BC=8F=E7=8E=AF=E5=A2=83=EF=BC=9Au.musicapp.migu.cn</p>
+<p>&nbsp;</p>
+<h5 id=3D"id-30.=E8=8E=B7=E5=8F=96=E6=AD=8C=E5=8D=95=E4=B8=AD=E7=9A=84=E6=
+=AD=8C=E6=9B=B2=E5=88=97=E8=A1=A8-*=E8=AF=B7=E6=B1=82header">*=E8=AF=B7=E6=
+=B1=82header</h5>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</p></th>
+<th class=3D"confluenceTh"><p>=E8=AF=B4=E6=98=8E</p></th>
+<th class=3D"confluenceTh"><p>=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</p></th>
+<th class=3D"confluenceTh"><p>=E5=A4=87=E6=B3=A8</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>channel</p></td>
+<td class=3D"confluenceTd"><p>=E6=8E=A5=E5=85=A5=E7=9A=84=E6=B8=A0=E9=81=93=
+Id</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>subchannel</p></td>
+<td class=3D"confluenceTd"><p>=E5=AD=90=E6=B8=A0=E9=81=93Id</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>mgm-user-agent</p></td>
+<td class=3D"confluenceTd"><p>=E7=BB=88=E7=AB=AF=E6=9C=BA=E5=9E=8B=E7=9F=AD=
+UA</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>IMEI</p></td>
+<td class=3D"confluenceTd"><p>=E8=AE=BE=E5=A4=87=E5=94=AF=E4=B8=80=E5=8F=B7=
+</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>IMSI</p></td>
+<td class=3D"confluenceTd"><p>=E5=9B=BD=E9=99=85=E7=A7=BB=E5=8A=A8=E7=94=A8=
+=E6=88=B7=E8=AF=86=E5=88=AB=E7=A0=81=EF=BC=8C=E5=82=A8=E5=AD=98=E5=9C=A8SIM=
+=E5=8D=A1=E4=B8=AD=EF=BC=8C=E5=8F=AF=E7=94=A8=E4=BA=8E=E5=8C=BA=E5=88=AB=E7=
+=A7=BB=E5=8A=A8=E7=94=A8=E6=88=B7=E7=9A=84=E6=9C=89=E6=95=88=E4=BF=A1=E6=81=
+=AF</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>mgm-Network-type</p></td>
+<td class=3D"confluenceTd"><p>=E7=BD=91=E7=BB=9C=E7=B1=BB=E5=9E=8B</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>01=EF=BC=9A=E4=B8=8D=E6=B8=85=E6=A5=9A=E7=BD=
+=91=E7=BB=9C=E7=B1=BB=E5=9E=8B<br>02=EF=BC=9ACMWAP<br>03=EF=BC=9ACMNET<br>0=
+4=EF=BC=9AWLAN</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>mgm-Network-standard</p></td>
+<td class=3D"confluenceTd"><p>=E7=BD=91=E7=BB=9C=E5=88=B6=E5=BC=8F</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>01=EF=BC=9A=E4=B8=8D=E6=B8=85=E6=A5=9A=E7=BD=
+=91=E7=BB=9C=E5=88=B6=E5=BC=8F<br>02=EF=BC=9A2G<br>03=EF=BC=9A3G<br>04=EF=
+=BC=9A4G</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>location-data</p></td>
+<td class=3D"confluenceTd"><p>=E7=BB=8F=E7=BA=AC=E5=BA=A6=E6=95=B0=E6=8D=AE=
+</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>=E7=BB=8F=E5=BA=A6,=E7=BA=AC=E5=BA=A6</p></td=
+>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>location-info</p></td>
+<td class=3D"confluenceTd"><p>=E5=9C=B0=E7=90=86=E4=BD=8D=E7=BD=AE=E4=BF=A1=
+=E6=81=AF</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>XX=E7=9C=81XX=E5=B8=82XX=E5=8C=BAXX=E8=A1=97<=
+br>=E8=AF=A5=E5=AD=97=E6=AE=B5=E5=81=9AURLEncode=E5=8A=A0=E5=AF=86</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>logid</p></td>
+<td class=3D"confluenceTd"><p>=E6=97=A5=E5=BF=97Id</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>=E5=8F=AF=E4=B8=BA=E7=A9=BA=EF=BC=8C=E9=99=A4=
+=E4=BA=86=E4=B8=80=E7=BA=A7=E9=A1=B5=E9=9D=A2=E7=9A=84=E6=89=80=E6=9C=89=E5=
+=85=B6=E4=BB=96=E9=A1=B5=E9=9D=A2=E6=9F=A5=E8=AF=A2=E9=83=BD=E5=BA=94=E8=AF=
+=A5=E5=B8=A6=E4=B8=8AlogId</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>test</p></td>
+<td class=3D"confluenceTd"><p>=E6=B5=8B=E8=AF=95=E7=89=88=E6=9C=AC=E6=A0=87=
+=E8=AF=86</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>00=EF=BC=9A=E9=9D=9E=E6=B5=8B=E8=AF=95=E7=89=
+=88=E6=9C=AC<br>01=EF=BC=9A=E6=B5=8B=E8=AF=95=E7=89=88=E6=9C=AC</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>uid</p></td>
+<td class=3D"confluenceTd"><p>=E5=BD=93=E5=89=8D=E7=94=A8=E6=88=B7Id</p></t=
+d>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>msisdn</p></td>
+<td class=3D"confluenceTd"><p>=E7=94=A8=E6=88=B7=E6=89=8B=E6=9C=BA=E5=8F=B7=
+=E7=A0=81</p></td>
+<td class=3D"confluenceTd"><p>=E5=90=A6</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ext_acc</p></td>
+<td class=3D"confluenceTd"><p>=E4=B8=89=E6=96=B9=E8=B4=A6=E5=8F=B7</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ext_acc_type</p></td>
+<td class=3D"confluenceTd"><p>=E4=B8=89=E6=96=B9=E8=B4=A6=E5=8F=B7=E7=B1=BB=
+=E5=9E=8B</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>idfa</p></td>
+<td class=3D"confluenceTd"><p>IDFA</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>cookie</p></td>
+<td class=3D"confluenceTd"><p>COOKIE</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ip</p></td>
+<td class=3D"confluenceTd"><p>=E7=94=A8=E6=88=B7IP=E5=9C=B0=E5=9D=80</p></t=
+d>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h5 id=3D"id-30.=E8=8E=B7=E5=8F=96=E6=AD=8C=E5=8D=95=E4=B8=AD=E7=9A=84=E6=
+=AD=8C=E6=9B=B2=E5=88=97=E8=A1=A8-*=E8=AF=B7=E6=B1=82=E5=8F=82=E6=95=B0=E8=
+=AF=B4=E6=98=8E"><br>*=E8=AF=B7=E6=B1=82=E5=8F=82=E6=95=B0=E8=AF=B4=E6=98=
+=8E</h5>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</p></th>
+<th class=3D"confluenceTh"><p>=E8=AF=B4=E6=98=8E</p></th>
+<th class=3D"confluenceTh"><p>=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</p></th>
+<th class=3D"confluenceTh"><p>=E5=A4=87=E6=B3=A8</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ua</p></td>
+<td class=3D"confluenceTd"><p>=E5=AE=A2=E6=88=B7=E7=AB=AF=E7=89=88=E6=9C=AC=
+</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>version</p></td>
+<td class=3D"confluenceTd"><p>=E5=AE=A2=E6=88=B7=E7=AB=AF=E7=89=88=E6=9C=AC=
+=E5=8F=B7</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>=E5=A6=82:5.0.0</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>pageNo</p></td>
+<td class=3D"confluenceTd"><p>=E8=AF=B7=E6=B1=82=E9=A1=B5=E7=A0=81</p></td>
+<td class=3D"confluenceTd"><p>=E5=90=A6</p></td>
+<td class=3D"confluenceTd"><p>=E9=BB=98=E8=AE=A41</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>pageSize&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>=E6=AF=8F=E9=A1=B5=E6=95=B0=E9=87=8F</p></td>
+<td class=3D"confluenceTd"><p>=E5=90=A6</p></td>
+<td class=3D"confluenceTd"><p>=E9=BB=98=E8=AE=A410</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>musicListId</p></td>
+<td class=3D"confluenceTd"><p>=E6=AD=8C=E5=8D=95Id</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h5 id=3D"id-30.=E8=8E=B7=E5=8F=96=E6=AD=8C=E5=8D=95=E4=B8=AD=E7=9A=84=E6=
+=AD=8C=E6=9B=B2=E5=88=97=E8=A1=A8-*=E5=93=8D=E5=BA=94=E6=95=B0=E6=8D=AE=E8=
+=AF=B4=E6=98=8E"><br>*=E5=93=8D=E5=BA=94=E6=95=B0=E6=8D=AE=E8=AF=B4=E6=98=
+=8E</h5>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>=E5=90=8D=E7=A7=B0</p></th>
+<th class=3D"confluenceTh"><p>=E8=AF=B4=E6=98=8E</p></th>
+<th class=3D"confluenceTh"><p>=E6=95=B0=E6=8D=AE=E7=B1=BB=E5=9E=8B</p></th>
+<th class=3D"confluenceTh"><p>=E5=A4=87=E6=B3=A8</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ode</p></td>
+<td class=3D"confluenceTd"><p>=E7=BB=93=E6=9E=9C=E7=A0=81</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>000000=EF=BC=9A=E6=88=90=E5=8A=9F&nbsp;<br cl=
+ass=3D"atl-forced-newline">=E5=85=B6=E4=BB=96=EF=BC=9A=E5=A4=B1=E8=B4=A5</p=
+></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>info</p></td>
+<td class=3D"confluenceTd"><p>=E7=BB=93=E6=9E=9C=E6=8F=8F=E8=BF=B0</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>totalcount</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E6=80=BB=E8=AE=B0=E5=BD=95=E6=
+=95=B0</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>int</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>&nbsp;</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>list</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E6=AD=8C=E5=8D=95=E5=88=97=E8=
+=A1=A8</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>List&lt;SongItem&gt;</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E5=85=A8=E6=9B=B2=E9=80=9A=E7=
+=94=A8=E5=AF=B9=E8=B1=A1SongItem</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<h5 id=3D"id-30.=E8=8E=B7=E5=8F=96=E6=AD=8C=E5=8D=95=E4=B8=AD=E7=9A=84=E6=
+=AD=8C=E6=9B=B2=E5=88=97=E8=A1=A8-*=E5=93=8D=E5=BA=94=E6=8A=A5=E6=96=87=E7=
+=A4=BA=E4=BE=8B"><span style=3D"color: rgb(128,128,128);">*=E5=93=8D=E5=BA=
+=94=E6=8A=A5=E6=96=87=E7=A4=BA=E4=BE=8B</span></h5>
+<p><span style=3D"color: rgb(80,80,80);"><span class=3D"nolink">http://u.mu=
+sicapp.migu.cn/MIGUM2.0/v1.0/user/queryMusicListSongs.do?musicListId=3D1059=
+39508</span></span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">*=E5=93=8D=E5=BA=94</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: true; first-line: 1; theme: Emacs; collapse: true" data-theme=
+=3D"Emacs">&nbsp;{
+    "publishTime": "2017-11-23 05:36:22.0",
+    "totalCount": 26,
+    "list": [
+        {
+            "digitalColumnId": "",
+            "toneControl": "1111",
+            "dalbumId": "",
+            "album": "SUNMI SPECIAL EDITION [Gashina]",
+            "copyrightId": "63682637169",
+            "singer": "=E5=AE=A3=E7=BE=8E",
+            "relatedSongs": [
+                {
+                    "resourceTypeName": "=E5=BD=A9=E9=93=83",
+                    "copyrightId": "63682637169",
+                    "resourceType": "0",
+                    "productId": "600908000006090633"
+                },
+                {
+                    "resourceTypeName": "=E6=8C=AF=E9=93=83",
+                    "copyrightId": "63682637169",
+                    "resourceType": "1",
+                    "productId": "600908000006090634"
+                },
+                {
+                    "resourceTypeName": "=E9=9F=B3=E4=B9=90=E9=9A=8F=E8=BA=
+=AB=E5=90=AC",
+                    "copyrightId": "63682637169",
+                    "resourceType": "3",
+                    "productId": "600908000006090636"
+                },
+                {
+                    "resourceTypeName": "=E6=97=A0=E6=8D=9F=E9=9F=B3=E6=BA=
+=90",
+                    "copyrightId": "63682637169",
+                    "resourceType": "E",
+                    "productId": "600908000006521644"
+                }
+            ],
+            "contentId": "600908000006090635",
+            "singerId": "1000290292",
+            "mrcUrl": "",
+            "lrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wcGFmMDAwMUNvMDAwfDIwMzcxMjAzMTExMDEx%7C0B45ABFD6491E48F23F6B6B0E89A5=
+7A3E837874377F1A1DEC4FECE55FFC0779C",
+            "songType": "01",
+            "rateFormats": [
+                {
+                    "formatType": "PQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020007",
+                    "url": "ftp://218.200.160.122:21/public/product04/2017/=
+10/12/2017=E5=B9=B409=E6=9C=8801=E6=97=A510=E7=82=B932=E5=88=86=E5=86=85=E5=
+=AE=B9=E5=87=86=E5=85=A5=E5=8D=83=E6=98=93=E7=9B=9F=E9=A2=84=E7=95=99146=E9=
+=A6=96/=E6=AD=8C=E6=9B=B2=E4=B8=8B=E8=BD=BD/MP3_128_16_Stero/Gashina-SUNMI.=
+mp3",
+                    "size": "2886051",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "HQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020010",
+                    "url": "ftp://218.200.160.122:21/public/product04/2017/=
+10/12/2017=E5=B9=B409=E6=9C=8801=E6=97=A510=E7=82=B932=E5=88=86=E5=86=85=E5=
+=AE=B9=E5=87=86=E5=85=A5=E5=8D=83=E6=98=93=E7=9B=9F=E9=A2=84=E7=95=99146=E9=
+=A6=96/=E6=AD=8C=E6=9B=B2=E4=B8=8B=E8=BD=BD/MP3_320_16_Stero/Gashina-SUNMI.=
+mp3",
+                    "size": "7208794",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "flac",
+                    "price": "200",
+                    "format": "011002",
+                    "url": "ftp://218.200.160.122:21/public/product06/2017/=
+12/21/=E6=97=A0=E6=8D=9F/2017=E5=B9=B409=E6=9C=8801=E6=97=A510=E7=82=B932=
+=E5=88=86=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E5=8D=83=E6=98=93=E7=9B=9F=E9=
+=A2=84=E7=95=99146=E9=A6=96/flac/Gashina-SUNMI.flac",
+                    "size": "22873293",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "m4a",
+                    "price": "200",
+                    "format": "011003",
+                    "url": "ftp://218.200.160.122:21/public/product06/2017/=
+12/21/=E6=97=A0=E6=8D=9F/2017=E5=B9=B409=E6=9C=8801=E6=97=A510=E7=82=B932=
+=E5=88=86=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E5=8D=83=E6=98=93=E7=9B=9F=E9=
+=A2=84=E7=95=99146=E9=A6=96/alac/Gashina-SUNMI.m4a",
+                    "size": "23324492",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "LQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "000019",
+                    "url": "ftp://218.200.160.122:21/public/product04/2017/=
+10/12/2017=E5=B9=B409=E6=9C=8801=E6=97=A510=E7=82=B932=E5=88=86=E5=86=85=E5=
+=AE=B9=E5=87=86=E5=85=A5=E5=8D=83=E6=98=93=E7=9B=9F=E9=A2=84=E7=95=99146=E9=
+=A6=96/=E5=85=A8=E6=9B=B2=E8=AF=95=E5=90=AC/Mp3_64_22_16/Gashina-SUNMI.mp3"=
+,
+                    "size": "1441207",
+                    "resourceType": "3"
+                }
+            ],
+            "albumId": "1108067011",
+            "invalidateDate": "2019-02-28",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "75",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 9114,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 3,
+                "keepNum": 75,
+                "shareNum": 58,
+                "playNumDesc": "9114",
+                "bookingNum": 0,
+                "commentNumDesc": "3",
+                "subscribeNum": 0,
+                "shareNumDesc": "58"
+            },
+            "copyright": "1",
+            "songName": "Gashina",
+            "songId": "1107079335",
+            "albumImgs": [
+                {
+                    "imgSizeType": "01",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcFhEMDAwMWRsMDAwfDIwMzcxMTA4MDUxMzQy%7C819C2EC661E46B36E3BB41CA=
+6CAD9F27E56D130E5D1049DC4D574C5FE89CEB8A"
+                },
+                {
+                    "imgSizeType": "02",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcFpVMDAwMVBEMDAwfDIwMzcxMTA4MDUxMzQz%7C090A4FE37FC83CCC7054F757=
+5E2C970277EF6299A9A29D6ECDB4183673CE1B0E"
+                },
+                {
+                    "imgSizeType": "03",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcEpmMDAwMUYyMDAwfDIwMzcxMTA4MDUxMzQz%7CD53C203DA2E8EDE72015E52F=
+A47842A3DC5BC567701BC3F58F078A27B4461EEE"
+                }
+            ],
+            "resourceType": "2",
+            "songAliasName": "",
+            "isInDAlbum": "0",
+            "songDescs": "",
+            "tagList": []
+        },
+        {
+            "digitalColumnId": "",
+            "toneControl": "1100",
+            "dalbumId": "",
+            "album": "=E5=85=89=E9=95=BF=E8=82=89=E4=BA=86",
+            "copyrightId": "63682603407",
+            "singer": "4minute",
+            "relatedSongs": [
+                {
+                    "resourceTypeName": "=E5=BD=A9=E9=93=83",
+                    "copyrightId": "63682603407",
+                    "resourceType": "0",
+                    "productId": "600907000002980360"
+                },
+                {
+                    "resourceTypeName": "=E6=8C=AF=E9=93=83",
+                    "copyrightId": "63682603407",
+                    "resourceType": "1",
+                    "productId": "600907000002980361"
+                },
+                {
+                    "resourceTypeName": "=E9=9F=B3=E4=B9=90=E9=9A=8F=E8=BA=
+=AB=E5=90=AC",
+                    "copyrightId": "63682603407",
+                    "resourceType": "3",
+                    "productId": "600907000002980363"
+                }
+            ],
+            "contentId": "600907000002980362",
+            "singerId": "953228",
+            "mrcUrl": "",
+            "lrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wcGFUMDAwMGZhMDAwfDIwMzcxMjAyMDYzNzAx%7CF3F31DAA1416E4BB28E88064489DE=
+0D61F2F406CE8DD2A25C153E8149B4F015A",
+            "songType": "",
+            "rateFormats": [
+                {
+                    "formatType": "PQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020007",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/n4/=
+karakalupload/2014/02/2014=E5=B9=B42=E6=9C=8810=E6=97=A5=E7=B4=A7=E6=80=A5=
+=E5=87=86=E5=85=A5=E5=8D=83=E6=98=93=E7=9B=9F12=E9=A6=96/=E6=AD=8C=E6=9B=B2=
+=E4=B8=8B=E8=BD=BD/MP3_128_16_Stero/=E5=85=89=E9=95=BF=E8=82=89=E4=BA=86-4m=
+inute.mp3",
+                    "size": "3127632",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "HQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020010",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/n4/=
+karakalupload/2014/02/2014=E5=B9=B42=E6=9C=8810=E6=97=A5=E7=B4=A7=E6=80=A5=
+=E5=87=86=E5=85=A5=E5=8D=83=E6=98=93=E7=9B=9F12=E9=A6=96/=E6=AD=8C=E6=9B=B2=
+=E4=B8=8B=E8=BD=BD/MP3_320_16_Stero/=E5=85=89=E9=95=BF=E8=82=89=E4=BA=86-4m=
+inute.mp3",
+                    "size": "7812745",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "LQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "000019",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/n4/=
+karakalupload/2014/02/2014=E5=B9=B42=E6=9C=8810=E6=97=A5=E7=B4=A7=E6=80=A5=
+=E5=87=86=E5=85=A5=E5=8D=83=E6=98=93=E7=9B=9F12=E9=A6=96/=E5=85=A8=E6=9B=B2=
+=E8=AF=95=E5=90=AC/Mp3_64_22_16/=E5=85=89=E9=95=BF=E8=82=89=E4=BA=86-4minut=
+e.mp3",
+                    "size": "1561997",
+                    "resourceType": "3"
+                }
+            ],
+            "albumId": "1001222689",
+            "invalidateDate": "2019-02-28",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "71",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 2118,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 0,
+                "keepNum": 71,
+                "shareNum": 57,
+                "playNumDesc": "2118",
+                "bookingNum": 0,
+                "commentNumDesc": "0",
+                "subscribeNum": 0,
+                "shareNumDesc": "57"
+            },
+            "copyright": "1",
+            "songName": "=E5=85=89=E9=95=BF=E8=82=89=E4=BA=86",
+            "songId": "1001222690",
+            "albumImgs": [
+                {
+                    "imgSizeType": "01",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcElTMDAwMENJMDAwfDIwMzcwNjE2MTAwMzE2%7C5329BD4F835462E1B6EB9141=
+0E067E1AFFD134F6CEBA16AD4B6B7CC6E3C0C8F5"
+                },
+                {
+                    "imgSizeType": "02",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcEgzMDAwMEZCMDAwfDIwMzcwNjE2MTAwMzE2%7C4AE41837AE86D0BA86E85FD8=
+A2ACE97DBA9FBA8E77C1085BB460BC83CE05FBA5"
+                },
+                {
+                    "imgSizeType": "03",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcEgzMDAwMEZFMDAwfDIwMzcwNjE2MTAwMzE3%7C14E9D211A2232ABF9055A98C=
+935A10B85531B4FB6492ACC9A2FF9BB40449C8C4"
+                }
+            ],
+            "resourceType": "2",
+            "songAliasName": "",
+            "isInDAlbum": "0",
+            "songDescs": "",
+            "tagList": []
+        },
+        {
+            "digitalColumnId": "",
+            "toneControl": "1111",
+            "dalbumId": "",
+            "album": "=E6=AD=8C=E6=89=8B=E7=AC=AC=E4=BA=8C=E5=AD=A3=E7=AC=
+=AC=E4=BA=8C=E6=9C=9F",
+            "copyrightId": "69905300704",
+            "singer": "=E5=BC=A0=E9=9F=B6=E6=B6=B5",
+            "relatedSongs": [
+                {
+                    "resourceTypeName": "=E5=BD=A9=E9=93=83",
+                    "copyrightId": "69905300704",
+                    "resourceType": "0",
+                    "productId": "600908000006681525"
+                },
+                {
+                    "resourceTypeName": "=E6=8C=AF=E9=93=83",
+                    "copyrightId": "69905300704",
+                    "resourceType": "1",
+                    "productId": "600908000006681526"
+                },
+                {
+                    "resourceTypeName": "=E9=9F=B3=E4=B9=90=E9=9A=8F=E8=BA=
+=AB=E5=90=AC",
+                    "copyrightId": "69905300704",
+                    "resourceType": "3",
+                    "productId": "600908000006681528"
+                },
+                {
+                    "resourceTypeName": "=E6=97=A0=E6=8D=9F=E9=9F=B3=E6=BA=
+=90",
+                    "copyrightId": "69905300704",
+                    "resourceType": "E",
+                    "productId": "600908000006686369"
+                }
+            ],
+            "contentId": "600908000006681527",
+            "singerId": "346",
+            "mrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wcEt4MDAwMWo4MDAwfDIwMzgwMTE3MDU1NDA5%7C84A3A92A59FA858F0B3F528DE9101=
+3164EE139C1059854614DDA573100DAB078",
+            "lrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wb3BRMDAwMHpoMDAwfDIwMzgwMTE0MTM0MTE4%7CE8F84551927968C2AF6FBD800DDC2=
+6687DB87F603AC029FE4ED1D2AD98C56715",
+            "songType": "",
+            "rateFormats": [
+                {
+                    "formatType": "PQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020007",
+                    "url": "ftp://218.200.160.122:21/public/product07/2018/=
+01/22/2018=E5=B9=B401=E6=9C=8819=E6=97=A521=E7=82=B921=E5=88=86=E7=B4=A7=E6=
+=80=A5=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E5=92=AA=E5=92=95=E9=9F=B3=E4=B9=
+=90=E8=87=AA=E6=9C=89=E7=89=88=E6=9D=83422=E9=A6=96/=E6=AD=8C=E6=9B=B2=E4=
+=B8=8B=E8=BD=BD/MP3_128_16_Stero/=E9=98=BF=E5=88=81(=E6=AD=8C=E6=89=8B2018)=
+-=E5=BC=A0=E9=9F=B6=E6=B6=B5.mp3",
+                    "size": "5147628",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "HQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020010",
+                    "url": "ftp://218.200.160.122:21/public/product07/2018/=
+01/22/2018=E5=B9=B401=E6=9C=8819=E6=97=A521=E7=82=B921=E5=88=86=E7=B4=A7=E6=
+=80=A5=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E5=92=AA=E5=92=95=E9=9F=B3=E4=B9=
+=90=E8=87=AA=E6=9C=89=E7=89=88=E6=9D=83422=E9=A6=96/=E6=AD=8C=E6=9B=B2=E4=
+=B8=8B=E8=BD=BD/MP3_320_16_Stero/=E9=98=BF=E5=88=81(=E6=AD=8C=E6=89=8B2018)=
+-=E5=BC=A0=E9=9F=B6=E6=B6=B5.mp3",
+                    "size": "12862737",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "flac",
+                    "price": "200",
+                    "format": "011002",
+                    "url": "ftp://218.200.160.122:21/public/product07/2018/=
+01/22/=E6=97=A0=E6=8D=9F/2018=E5=B9=B401=E6=9C=8819=E6=97=A521=E7=82=B921=
+=E5=88=86=E7=B4=A7=E6=80=A5=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E5=92=AA=E5=
+=92=95=E9=9F=B3=E4=B9=90=E8=87=AA=E6=9C=89=E7=89=88=E6=9D=83422=E9=A6=96/fl=
+ac/=E9=98=BF=E5=88=81(=E6=AD=8C=E6=89=8B2018)-=E5=BC=A0=E9=9F=B6=E6=B6=B5.f=
+lac",
+                    "size": "37111367",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "m4a",
+                    "price": "200",
+                    "format": "011003",
+                    "url": "ftp://218.200.160.122:21/public/product07/2018/=
+01/22/=E6=97=A0=E6=8D=9F/2018=E5=B9=B401=E6=9C=8819=E6=97=A521=E7=82=B921=
+=E5=88=86=E7=B4=A7=E6=80=A5=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E5=92=AA=E5=
+=92=95=E9=9F=B3=E4=B9=90=E8=87=AA=E6=9C=89=E7=89=88=E6=9D=83422=E9=A6=96/al=
+ac/=E9=98=BF=E5=88=81(=E6=AD=8C=E6=89=8B2018)-=E5=BC=A0=E9=9F=B6=E6=B6=B5.m=
+4a",
+                    "size": "37830985",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "LQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "000019",
+                    "url": "ftp://218.200.160.122:21/public/product07/2018/=
+01/22/2018=E5=B9=B401=E6=9C=8819=E6=97=A521=E7=82=B921=E5=88=86=E7=B4=A7=E6=
+=80=A5=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E5=92=AA=E5=92=95=E9=9F=B3=E4=B9=
+=90=E8=87=AA=E6=9C=89=E7=89=88=E6=9D=83422=E9=A6=96/=E5=85=A8=E6=9B=B2=E8=
+=AF=95=E5=90=AC/Mp3_64_22_16/=E9=98=BF=E5=88=81(=E6=AD=8C=E6=89=8B2018)-=E5=
+=BC=A0=E9=9F=B6=E6=B6=B5.mp3",
+                    "size": "2571995",
+                    "resourceType": "3"
+                }
+            ],
+            "albumId": "1108716365",
+            "invalidateDate": "2020-01-31",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "42",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 350630,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 37,
+                "keepNum": 42,
+                "shareNum": 55,
+                "playNumDesc": "35=E4=B8=87",
+                "bookingNum": 0,
+                "commentNumDesc": "37",
+                "subscribeNum": 0,
+                "shareNumDesc": "55"
+            },
+            "copyright": "1",
+            "songName": "=E9=98=BF=E5=88=81(=E6=AD=8C=E6=89=8B2018)",
+            "songId": "1108716396",
+            "albumImgs": [
+                {
+                    "imgSizeType": "01",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wb3FHMDAwMHZUMDAwfDIwMzgwMTE0MTMzNjIw%7CA08624FE9AD62EC551D5E5CF=
+FDE1F1B903B4134F971FFE34BAEECEFB9317A849"
+                },
+                {
+                    "imgSizeType": "02",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wb3BRMDAwMHpjMDAwfDIwMzgwMTE0MTMzNjIx%7C8B7254299CE6C1F787086F0B=
+62A54F8527DF67A0F42FF19E935923D15833A27F"
+                },
+                {
+                    "imgSizeType": "03",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wb3BRMDAwMHpkMDAwfDIwMzgwMTE0MTMzNjIy%7CA1C4BE30364B1F713A047913=
+698718CA3C9E7A1B79443152866C9F4E19A77DF6"
+                }
+            ],
+            "resourceType": "2",
+            "songAliasName": "Diao(=E6=AD=8C=E6=89=8B2018)",
+            "isInDAlbum": "0",
+            "songDescs": "",
+            "tagList": []
+        },
+        {
+            "digitalColumnId": "",
+            "toneControl": "1111",
+            "dalbumId": "",
+            "album": "What's My Name?",
+            "copyrightId": "64380304230",
+            "singer": "T-ara",
+            "relatedSongs": [
+                {
+                    "resourceTypeName": "=E5=BD=A9=E9=93=83",
+                    "copyrightId": "64380304230",
+                    "resourceType": "0",
+                    "productId": "600908000005527544"
+                },
+                {
+                    "resourceTypeName": "=E6=8C=AF=E9=93=83",
+                    "copyrightId": "64380304230",
+                    "resourceType": "1",
+                    "productId": "600908000005527545"
+                },
+                {
+                    "resourceTypeName": "=E9=9F=B3=E4=B9=90=E9=9A=8F=E8=BA=
+=AB=E5=90=AC",
+                    "copyrightId": "64380304230",
+                    "resourceType": "3",
+                    "productId": "600908000005527547"
+                },
+                {
+                    "resourceTypeName": "=E6=97=A0=E6=8D=9F=E9=9F=B3=E6=BA=
+=90",
+                    "copyrightId": "64380304230",
+                    "resourceType": "E",
+                    "productId": "600908000006521851"
+                }
+            ],
+            "contentId": "600908000005527546",
+            "singerId": "1000239294",
+            "mrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wb3BSMDAwMzFzMDAwfDIwMzcwNjExMDExNDQ0%7CECE9EC02B72B4102E6BF9B2573655=
+88C1A695B37025B8D162C017214AEEEE1A3",
+            "lrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wb3BSMDAwMnFmMDAwfDIwMzcwNjEwMTEwNDQ4%7CAC7E45ADF9BCC9748B33B046CCA81=
+CB8D5303943FD9228DE0B24E928F629F3CE",
+            "songType": "",
+            "rateFormats": [
+                {
+                    "formatType": "PQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020007",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/n17=
+/2017/06/2017=E5=B9=B406=E6=9C=8814=E6=97=A510=E7=82=B921=E5=88=86=E7=B4=A7=
+=E6=80=A5=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E7=A7=8D=E5=AD=90=E9=9F=B3=E4=
+=B9=90501=E9=A6=96/=E6=AD=8C=E6=9B=B2=E4=B8=8B=E8=BD=BD/MP3_128_16_Stero/=
+=E6=88=91=E7=9A=84=E5=90=8D=E5=AD=97=E5=8F=AB-T-ara.mp3",
+                    "size": "3403067",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "HQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020010",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/n17=
+/2017/06/2017=E5=B9=B406=E6=9C=8814=E6=97=A510=E7=82=B921=E5=88=86=E7=B4=A7=
+=E6=80=A5=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E7=A7=8D=E5=AD=90=E9=9F=B3=E4=
+=B9=90501=E9=A6=96/=E6=AD=8C=E6=9B=B2=E4=B8=8B=E8=BD=BD/MP3_320_16_Stero/=
+=E6=88=91=E7=9A=84=E5=90=8D=E5=AD=97=E5=8F=AB-T-ara.mp3",
+                    "size": "8501333",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "flac",
+                    "price": "200",
+                    "format": "011002",
+                    "url": "ftp://218.200.160.122:21/public/product07/2018/=
+01/19/=E6=97=A0=E6=8D=9F/2017=E5=B9=B406=E6=9C=8814=E6=97=A510=E7=82=B921=
+=E5=88=86=E7=B4=A7=E6=80=A5=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E7=A7=8D=E5=
+=AD=90=E9=9F=B3=E4=B9=90501=E9=A6=96/flac/=E6=88=91=E7=9A=84=E5=90=8D=E5=AD=
+=97=E5=8F=AB-T-ara.flac",
+                    "size": "28968354",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "m4a",
+                    "price": "200",
+                    "format": "011003",
+                    "url": "ftp://218.200.160.122:21/public/product07/2018/=
+01/19/=E6=97=A0=E6=8D=9F/2017=E5=B9=B406=E6=9C=8814=E6=97=A510=E7=82=B921=
+=E5=88=86=E7=B4=A7=E6=80=A5=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E7=A7=8D=E5=
+=AD=90=E9=9F=B3=E4=B9=90501=E9=A6=96/alac/=E6=88=91=E7=9A=84=E5=90=8D=E5=AD=
+=97=E5=8F=AB-T-ara.m4a",
+                    "size": "29352606",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "LQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "000019",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/n17=
+/2017/06/2017=E5=B9=B406=E6=9C=8814=E6=97=A510=E7=82=B921=E5=88=86=E7=B4=A7=
+=E6=80=A5=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E7=A7=8D=E5=AD=90=E9=9F=B3=E4=
+=B9=90501=E9=A6=96/=E5=85=A8=E6=9B=B2=E8=AF=95=E5=90=AC/Mp3_64_22_16/=E6=88=
+=91=E7=9A=84=E5=90=8D=E5=AD=97=E5=8F=AB-T-ara.mp3",
+                    "size": "1699715",
+                    "resourceType": "3"
+                }
+            ],
+            "albumId": "1106533924",
+            "invalidateDate": "2019-10-02",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "204",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 4079,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 2,
+                "keepNum": 204,
+                "shareNum": 190,
+                "playNumDesc": "4079",
+                "bookingNum": 0,
+                "commentNumDesc": "2",
+                "subscribeNum": 0,
+                "shareNumDesc": "190"
+            },
+            "copyright": "1",
+            "songName": "=E6=88=91=E7=9A=84=E5=90=8D=E5=AD=97=E5=8F=AB(Chin=
+ese Ver.)",
+            "songId": "1106525271",
+            "albumImgs": [
+                {
+                    "imgSizeType": "01",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcDd6MDAwME9PMDAwfDIwMzcwNjE2MDg0MzA2%7C6D76C7D75A21162C73A3ADA2=
+9FF324DDBCE780C8F5235A845F5BD24AABFCDD10"
+                },
+                {
+                    "imgSizeType": "02",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wb3FvMDAwMTIwMDAwfDIwMzcwNjE2MDg0MzA2%7C373C1B6919C91FA43EB6088F=
+369BF81257FF731AF3FEEA04664D43DBC3ED11AD"
+                },
+                {
+                    "imgSizeType": "03",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcDJzMDAwMFk1MDAwfDIwMzcwNjE2MDg0MzA2%7C99A14F68145BCD5ECFA8AC20=
+1361747A9E6644AC735631C7A04640437EE9EA91"
+                }
+            ],
+            "resourceType": "2",
+            "songAliasName": "=E6=88=91=E7=9A=84=E5=90=8D=E5=AD=97 (Chinese=
+ Ver.)",
+            "isInDAlbum": "0",
+            "songDescs": "",
+            "tagList": []
+        },
+        {
+            "digitalColumnId": "",
+            "toneControl": "1110",
+            "dalbumId": "",
+            "album": "J=E5=A5=B3=E7=A5=9E =E5=BD=B1=E9=9F=B3=E5=85=B8=E8=97=
+=8F=E7=B2=BE=E9=80=89",
+            "copyrightId": "60059705403",
+            "singer": "=E5=91=A8=E6=9D=B0=E4=BC=A6|=E8=94=A1=E4=BE=9D=E6=9E=
+=97",
+            "relatedSongs": [
+                {
+                    "resourceTypeName": "=E5=BD=A9=E9=93=83",
+                    "copyrightId": "60059705403",
+                    "resourceType": "0",
+                    "productId": "600902000000210868"
+                },
+                {
+                    "resourceTypeName": "=E6=8C=AF=E9=93=83",
+                    "copyrightId": "60059705403",
+                    "resourceType": "1",
+                    "productId": "600902000000210875"
+                },
+                {
+                    "resourceTypeName": "=E9=9F=B3=E4=B9=90=E9=9A=8F=E8=BA=
+=AB=E5=90=AC",
+                    "copyrightId": "60059705403",
+                    "resourceType": "3",
+                    "productId": "600902000006598778"
+                },
+                {
+                    "resourceTypeName": "=E6=97=A0=E6=8D=9F=E9=9F=B3=E6=BA=
+=90",
+                    "copyrightId": "60059705403",
+                    "resourceType": "E",
+                    "productId": "600907000002204952"
+                },
+                {
+                    "resourceTypeName": "=E7=82=B9=E6=92=AD=E7=B1=BBMV",
+                    "copyrightId": "600570YAA1A",
+                    "resourceType": "D",
+                    "productId": "600906000000017160"
+                }
+            ],
+            "contentId": "600902000006442074",
+            "singerId": "112|99",
+            "mrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wb3Y4MDAwMlpRMDAwfDIwMzcwODEzMDgxODE1%7C937CA1EB0DCFA9EFC6BCF6B551EFF=
+98C2C8882921C738C2327471265A0E38190",
+            "lrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wb3R6MDAwMU5NMDAwfDIwMzcwNDI5MDExNDQ0%7CE589508C813C9FD536857453850B0=
+F0A4F657DE4FCC4D274F3ECBD22DED060EB",
+            "songType": "",
+            "rateFormats": [
+                {
+                    "formatType": "PQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020007",
+                    "url": "ftp://218.200.160.122:21/public/product02/2017/=
+08/18/10=E6=9C=88SonyBMG=E6=8C=87=E5=AE=9A=E5=BC=95=E5=85=A57=E9=A6=96=E6=
+=AD=8C=E6=9B=B2/=E6=AD=8C=E6=9B=B2=E4=B8=8B=E8=BD=BD/MP3_128_16_Stero/=E5=
+=B8=83=E6=8B=89=E6=A0=BC=E5=B9=BF=E5=9C=BA-=E8=94=A1=E4=BE=9D=E6=9E=97.mp3"=
+,
+                    "size": "4719220",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "HQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020010",
+                    "url": "ftp://218.200.160.122:21/public/product02/2017/=
+08/18/10=E6=9C=88SonyBMG=E6=8C=87=E5=AE=9A=E5=BC=95=E5=85=A57=E9=A6=96=E6=
+=AD=8C=E6=9B=B2/=E6=AD=8C=E6=9B=B2=E4=B8=8B=E8=BD=BD/MP3_320_16_Stero/=E5=
+=B8=83=E6=8B=89=E6=A0=BC=E5=B9=BF=E5=9C=BA-=E8=94=A1=E4=BE=9D=E6=9E=97.mp3"=
+,
+                    "size": "11791717",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "flac",
+                    "price": "200",
+                    "format": "011002",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/n5/=
+karakalbatch/=E6=97=A0=E6=8D=9F=E9=9F=B3=E4=B9=90/2013/10/04/flac/=E5=B8=83=
+=E6=8B=89=E6=A0=BC=E5=B9=BF=E5=9C=BA-=E8=94=A1=E4=BE=9D=E6=9E=97.flac",
+                    "size": "34860037",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "LQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "000019",
+                    "url": "ftp://218.200.160.122:21/public/product02/2017/=
+08/18/10=E6=9C=88SonyBMG=E6=8C=87=E5=AE=9A=E5=BC=95=E5=85=A57=E9=A6=96=E6=
+=AD=8C=E6=9B=B2/=E5=85=A8=E6=9B=B2=E8=AF=95=E5=90=AC/Mp3_64_22_16/=E5=B8=83=
+=E6=8B=89=E6=A0=BC=E5=B9=BF=E5=9C=BA-=E8=94=A1=E4=BE=9D=E6=9E=97.mp3",
+                    "size": "2357791",
+                    "resourceType": "3"
+                }
+            ],
+            "albumId": "1003023560",
+            "invalidateDate": "2018-12-31",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "87",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 73863,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 35,
+                "keepNum": 87,
+                "shareNum": 1894,
+                "playNumDesc": "73863",
+                "bookingNum": 0,
+                "commentNumDesc": "35",
+                "subscribeNum": 0,
+                "shareNumDesc": "1894"
+            },
+            "copyright": "1",
+            "songName": "=E5=B8=83=E6=8B=89=E6=A0=BC=E5=B9=BF=E5=9C=BA",
+            "songId": "748",
+            "albumImgs": [
+                {
+                    "imgSizeType": "01",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcENyMDAwMHVEMDAwfDIwMzcwNTE3MDgzMTU3%7CD280AC30788148D1A437AF98=
+CB7156331668193D03A263F3C2BB78AEC65CA79A"
+                },
+                {
+                    "imgSizeType": "02",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wb3NvMDAwMTF2MDAwfDIwMzcwNTE3MDgzMTU3%7C8992BA292ABD996FDC0E1A45=
+8CAE56B5214A693C3B51909112573A2DBFAE765C"
+                },
+                {
+                    "imgSizeType": "03",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcENyMDAwMHVFMDAwfDIwMzcwNTE3MDgzMTU3%7C81CFC4162C3320B0B8656C71=
+56750DCEA49CF4F2DA791B34561D1998AED8F534"
+                }
+            ],
+            "resourceType": "2",
+            "songAliasName": "",
+            "isInDAlbum": "0",
+            "songDescs": "=E3=80=8AHi=E4=B8=8A=E7=8F=AD=E5=A5=B3=E9=83=8E=
+=E3=80=8B=E6=8F=92=E6=9B=B2",
+            "tagList": []
+        },
+        {
+            "digitalColumnId": "",
+            "toneControl": "1111",
+            "dalbumId": "",
+            "album": "=E5=8D=95=E6=9B=B2=E5=8F=91=E8=A1=8C",
+            "copyrightId": "63879702311",
+            "singer": "=E8=83=A166",
+            "relatedSongs": [
+                {
+                    "resourceTypeName": "=E5=BD=A9=E9=93=83",
+                    "copyrightId": "63879702311",
+                    "resourceType": "0",
+                    "productId": "600908000006517649"
+                },
+                {
+                    "resourceTypeName": "=E6=8C=AF=E9=93=83",
+                    "copyrightId": "63879702311",
+                    "resourceType": "1",
+                    "productId": "600908000006517650"
+                },
+                {
+                    "resourceTypeName": "=E9=9F=B3=E4=B9=90=E9=9A=8F=E8=BA=
+=AB=E5=90=AC",
+                    "copyrightId": "63879702311",
+                    "resourceType": "3",
+                    "productId": "600908000006517652"
+                },
+                {
+                    "resourceTypeName": "=E6=97=A0=E6=8D=9F=E9=9F=B3=E6=BA=
+=90",
+                    "copyrightId": "63879702311",
+                    "resourceType": "E",
+                    "productId": "600908000006517653"
+                }
+            ],
+            "contentId": "600908000006517651",
+            "singerId": "1108403960",
+            "mrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wcGNxMDAwME9LMDAwfDIwMzcxMjE1MDIxODE1%7C88A0AF57F050E7E6BC0DA7EFC71A9=
+5C0E062304EE0ECC5C2DAC3C44300E685BF",
+            "lrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wcFdDMDAwMEp2MDAwfDIwMzcxMjE1MDIxOTAz%7C711972D03F9CFC7A1A53F416147F5=
+89D91CF1377FA32AF212FD53AFD65B599ED",
+            "songType": "",
+            "rateFormats": [
+                {
+                    "formatType": "PQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020007",
+                    "url": "ftp://218.200.160.122:21/public/product06/2017/=
+12/20/2017=E5=B9=B412=E6=9C=8819=E6=97=A515=E7=82=B927=E5=88=86=E5=86=85=E5=
+=AE=B9=E5=87=86=E5=85=A5=E5=90=AF=E9=9F=B5=E6=96=87=E5=8C=961=E9=A6=96/=E6=
+=AD=8C=E6=9B=B2=E4=B8=8B=E8=BD=BD/MP3_128_16_Stero/=E7=A9=BA=E7=A9=BA=E5=A6=
+=82=E4=B9=9F-=E8=83=A166.mp3",
+                    "size": "3390110",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "HQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020010",
+                    "url": "ftp://218.200.160.122:21/public/product06/2017/=
+12/20/2017=E5=B9=B412=E6=9C=8819=E6=97=A515=E7=82=B927=E5=88=86=E5=86=85=E5=
+=AE=B9=E5=87=86=E5=85=A5=E5=90=AF=E9=9F=B5=E6=96=87=E5=8C=961=E9=A6=96/=E6=
+=AD=8C=E6=9B=B2=E4=B8=8B=E8=BD=BD/MP3_320_16_Stero/=E7=A9=BA=E7=A9=BA=E5=A6=
+=82=E4=B9=9F-=E8=83=A166.mp3",
+                    "size": "8468941",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "flac",
+                    "price": "200",
+                    "format": "011002",
+                    "url": "ftp://218.200.160.122:21/public/product06/2017/=
+12/20/=E6=97=A0=E6=8D=9F/2017=E5=B9=B412=E6=9C=8819=E6=97=A515=E7=82=B927=
+=E5=88=86=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E5=90=AF=E9=9F=B5=E6=96=87=E5=
+=8C=961=E9=A6=96/flac/=E7=A9=BA=E7=A9=BA=E5=A6=82=E4=B9=9F-=E8=83=A166.flac=
+",
+                    "size": "24125224",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "m4a",
+                    "price": "200",
+                    "format": "011003",
+                    "url": "ftp://218.200.160.122:21/public/product06/2017/=
+12/20/=E6=97=A0=E6=8D=9F/2017=E5=B9=B412=E6=9C=8819=E6=97=A515=E7=82=B927=
+=E5=88=86=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E5=90=AF=E9=9F=B5=E6=96=87=E5=
+=8C=961=E9=A6=96/alac/=E7=A9=BA=E7=A9=BA=E5=A6=82=E4=B9=9F-=E8=83=A166.m4a"=
+,
+                    "size": "24457199",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "LQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "000019",
+                    "url": "ftp://218.200.160.122:21/public/product06/2017/=
+12/20/2017=E5=B9=B412=E6=9C=8819=E6=97=A515=E7=82=B927=E5=88=86=E5=86=85=E5=
+=AE=B9=E5=87=86=E5=85=A5=E5=90=AF=E9=9F=B5=E6=96=87=E5=8C=961=E9=A6=96/=E5=
+=85=A8=E6=9B=B2=E8=AF=95=E5=90=AC/Mp3_64_22_16/=E7=A9=BA=E7=A9=BA=E5=A6=82=
+=E4=B9=9F-=E8=83=A166.mp3",
+                    "size": "1693236",
+                    "resourceType": "3"
+                }
+            ],
+            "albumId": "1",
+            "invalidateDate": "2019-12-31",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "123",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 324486,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 26,
+                "keepNum": 123,
+                "shareNum": 868,
+                "playNumDesc": "32=E4=B8=87",
+                "bookingNum": 0,
+                "commentNumDesc": "26",
+                "subscribeNum": 0,
+                "shareNumDesc": "868"
+            },
+            "copyright": "1",
+            "songName": "=E7=A9=BA=E7=A9=BA=E5=A6=82=E4=B9=9F",
+            "songId": "1108403961",
+            "albumImgs": [
+                {
+                    "imgSizeType": "01",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcDJHMDAwMHhkMDAwfDIwMzgwMjA2MDcyMjUw%7C4E688A64A51ACF1022DAA028=
+9B74D1AE525A83085C281575B91D1BAE86ADBCCF"
+                },
+                {
+                    "imgSizeType": "02",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wbWVOMDAwMVhWMDAwfDIwMzgwMjA2MDcyNDAz%7CCC5B581D7BA2E22648EE084A=
+EBE7AE95321FD1AA2029E6D6F5E2DA555E2BC80F"
+                },
+                {
+                    "imgSizeType": "03",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcDJSMDAwMVlyMDAwfDIwMzgwMjA2MDcyNTE0%7C75173A03E67504EF57158110=
+CF5C1160CF0CE17C2FD3333699A063249CE02B01"
+                }
+            ],
+            "resourceType": "2",
+            "songAliasName": "",
+            "isInDAlbum": "0",
+            "songDescs": "",
+            "tagList": []
+        },
+        {
+            "digitalColumnId": "",
+            "toneControl": "1111",
+            "dalbumId": "",
+            "album": "Secret Summer",
+            "copyrightId": "63682608876",
+            "singer": "Secret",
+            "relatedSongs": [
+                {
+                    "resourceTypeName": "=E5=BD=A9=E9=93=83",
+                    "copyrightId": "63682608876",
+                    "resourceType": "0",
+                    "productId": "600907000004777137"
+                },
+                {
+                    "resourceTypeName": "=E6=8C=AF=E9=93=83",
+                    "copyrightId": "63682608876",
+                    "resourceType": "1",
+                    "productId": "600907000004777138"
+                },
+                {
+                    "resourceTypeName": "=E9=9F=B3=E4=B9=90=E9=9A=8F=E8=BA=
+=AB=E5=90=AC",
+                    "copyrightId": "63682608876",
+                    "resourceType": "3",
+                    "productId": "600907000004777140"
+                },
+                {
+                    "resourceTypeName": "=E6=97=A0=E6=8D=9F=E9=9F=B3=E6=BA=
+=90",
+                    "copyrightId": "63682608876",
+                    "resourceType": "E",
+                    "productId": "600908000004835401"
+                }
+            ],
+            "contentId": "600907000004777139",
+            "singerId": "1000237326",
+            "mrcUrl": "",
+            "lrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wcGFUMDAwMjVoMDAwfDIwMzcxMjAyMTA0NjQx%7C79445199D0F5A57B32C0FFA2CA98C=
+A2FBBE01E9A1DF19E8B3D4269B1ABE7BBA8",
+            "songType": "",
+            "rateFormats": [
+                {
+                    "formatType": "PQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020007",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/dai=
+lyring/karakalupload/2014/08/2014=E5=B9=B48=E6=9C=8821=E6=97=A5=E7=B4=A7=E6=
+=80=A5=E5=87=86=E5=85=A5=E5=8D=83=E6=98=93=E7=9B=9F58=E9=A6=96/=E6=AD=8C=E6=
+=9B=B2=E4=B8=8B=E8=BD=BD/MP3_128_16_Stero/U R Fired-Secret.mp3",
+                    "size": "3340791",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "HQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020010",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/dai=
+lyring/karakalupload/2014/08/2014=E5=B9=B48=E6=9C=8821=E6=97=A5=E7=B4=A7=E6=
+=80=A5=E5=87=86=E5=85=A5=E5=8D=83=E6=98=93=E7=9B=9F58=E9=A6=96/=E6=AD=8C=E6=
+=9B=B2=E4=B8=8B=E8=BD=BD/MP3_320_16_Stero/U R Fired-Secret.mp3",
+                    "size": "8345643",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "flac",
+                    "price": "200",
+                    "format": "011002",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/n16=
+/2017/03/=E6=97=A0=E6=8D=9F/2014=E5=B9=B48=E6=9C=8821=E6=97=A5=E7=B4=A7=E6=
+=80=A5=E5=87=86=E5=85=A5=E5=8D=83=E6=98=93=E7=9B=9F58=E9=A6=96/flac/U R Fir=
+ed-Secret.flac",
+                    "size": "28391343",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "m4a",
+                    "price": "200",
+                    "format": "011003",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/n16=
+/2017/03/=E6=97=A0=E6=8D=9F/2014=E5=B9=B48=E6=9C=8821=E6=97=A5=E7=B4=A7=E6=
+=80=A5=E5=87=86=E5=85=A5=E5=8D=83=E6=98=93=E7=9B=9F58=E9=A6=96/alac/U R Fir=
+ed-Secret.m4a",
+                    "size": "28572190",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "LQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "000019",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/dai=
+lyring/karakalupload/2014/08/2014=E5=B9=B48=E6=9C=8821=E6=97=A5=E7=B4=A7=E6=
+=80=A5=E5=87=86=E5=85=A5=E5=8D=83=E6=98=93=E7=9B=9F58=E9=A6=96/=E5=85=A8=E6=
+=9B=B2=E8=AF=95=E5=90=AC/Mp3_64_22_16/U R Fired-Secret.mp3",
+                    "size": "1668577",
+                    "resourceType": "3"
+                }
+            ],
+            "albumId": "1002062545",
+            "invalidateDate": "2019-02-28",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "71",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 226,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 0,
+                "keepNum": 71,
+                "shareNum": 56,
+                "playNumDesc": "226",
+                "bookingNum": 0,
+                "commentNumDesc": "0",
+                "subscribeNum": 0,
+                "shareNumDesc": "56"
+            },
+            "copyright": "1",
+            "songName": "U R Fired",
+            "songId": "1002062626",
+            "albumImgs": [
+                {
+                    "imgSizeType": "01",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcEY5MDAwMFFYMDAwfDIwMzcwNjE2MTAzMDI3%7C6C2C25F0DC6DBE5E3C133112=
+A669D63FF02FB944B40F7633A4FC84DB4D6E19C1"
+                },
+                {
+                    "imgSizeType": "02",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcEl2MDAwMEd2MDAwfDIwMzcwNjE2MTAzMDI3%7C0405738567C82160DCA3D9C7=
+BFBD2A766AF9502AE0991DB8EB447917E28A005F"
+                },
+                {
+                    "imgSizeType": "03",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcElzMDAwMExQMDAwfDIwMzcwNjE2MTAzMDI4%7C04A94508EF789F8443FD0C3A=
+974A8366DED29B149F02EF18A4FC811428CFA7DB"
+                }
+            ],
+            "resourceType": "2",
+            "songAliasName": "",
+            "isInDAlbum": "0",
+            "songDescs": "",
+            "tagList": []
+        },
+        {
+            "digitalColumnId": "",
+            "toneControl": "1111",
+            "dalbumId": "",
+            "album": "=E6=AD=8C=E6=89=8B=E7=AC=AC=E4=BA=8C=E5=AD=A3=E7=AC=
+=AC=E4=B8=80=E6=9C=9F",
+            "copyrightId": "69905300699",
+            "singer": "=E5=BC=A0=E9=9F=B6=E6=B6=B5",
+            "relatedSongs": [
+                {
+                    "resourceTypeName": "=E5=BD=A9=E9=93=83",
+                    "copyrightId": "69905300699",
+                    "resourceType": "0",
+                    "productId": "600908000006649341"
+                },
+                {
+                    "resourceTypeName": "=E6=8C=AF=E9=93=83",
+                    "copyrightId": "69905300699",
+                    "resourceType": "1",
+                    "productId": "600908000006649342"
+                },
+                {
+                    "resourceTypeName": "=E9=9F=B3=E4=B9=90=E9=9A=8F=E8=BA=
+=AB=E5=90=AC",
+                    "copyrightId": "69905300699",
+                    "resourceType": "3",
+                    "productId": "600908000006649344"
+                },
+                {
+                    "resourceTypeName": "=E6=97=A0=E6=8D=9F=E9=9F=B3=E6=BA=
+=90",
+                    "copyrightId": "69905300699",
+                    "resourceType": "E",
+                    "productId": "600908000006658245"
+                }
+            ],
+            "contentId": "600908000006649343",
+            "singerId": "346",
+            "mrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wbUFFMDAwMHN2MDAwfDIwMzgwMTA3MTYxMzQ5%7CFA6B7A898407D2DB6E80B434CCF34=
+5874DDFCE9BCD50E091E9218B3C2D6E173C",
+            "lrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wbVlDMDAwMEJQMDAwfDIwMzgwMTA3MTYxMjUz%7C5B8AADC5802F023A686CA0018FD02=
+4A20653A7405148567FB6E5DD71BA08800A",
+            "songType": "",
+            "rateFormats": [
+                {
+                    "formatType": "PQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020007",
+                    "url": "ftp://218.200.160.122:21/public/product07/2018/=
+01/13/2018=E5=B9=B401=E6=9C=8812=E6=97=A523=E7=82=B906=E5=88=86=E7=B4=A7=E6=
+=80=A5=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E5=92=AA=E5=92=95=E9=9F=B3=E4=B9=
+=90=E8=87=AA=E6=9C=89=E7=89=88=E6=9D=83427=E9=A6=96/=E6=AD=8C=E6=9B=B2=E4=
+=B8=8B=E8=BD=BD/MP3_128_16_Stero/=E6=A2=A6=E9=87=8C=E8=8A=B1(=E6=AD=8C=E6=
+=89=8B2018)-=E5=BC=A0=E9=9F=B6=E6=B6=B5.mp3",
+                    "size": "4528213",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "HQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020010",
+                    "url": "ftp://218.200.160.122:21/public/product07/2018/=
+01/13/2018=E5=B9=B401=E6=9C=8812=E6=97=A523=E7=82=B906=E5=88=86=E7=B4=A7=E6=
+=80=A5=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E5=92=AA=E5=92=95=E9=9F=B3=E4=B9=
+=90=E8=87=AA=E6=9C=89=E7=89=88=E6=9D=83427=E9=A6=96/=E6=AD=8C=E6=9B=B2=E4=
+=B8=8B=E8=BD=BD/MP3_320_16_Stero/=E6=A2=A6=E9=87=8C=E8=8A=B1(=E6=AD=8C=E6=
+=89=8B2018)-=E5=BC=A0=E9=9F=B6=E6=B6=B5.mp3",
+                    "size": "11314198",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "flac",
+                    "price": "200",
+                    "format": "011002",
+                    "url": "ftp://218.200.160.122:21/public/product07/2018/=
+01/16/=E6=97=A0=E6=8D=9F/2018=E5=B9=B401=E6=9C=8812=E6=97=A523=E7=82=B906=
+=E5=88=86=E7=B4=A7=E6=80=A5=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E5=92=AA=E5=
+=92=95=E9=9F=B3=E4=B9=90=E8=87=AA=E6=9C=89=E7=89=88=E6=9D=83427=E9=A6=96/fl=
+ac/=E6=A2=A6=E9=87=8C=E8=8A=B1(=E6=AD=8C=E6=89=8B2018)-=E5=BC=A0=E9=9F=B6=
+=E6=B6=B5.flac",
+                    "size": "29483187",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "m4a",
+                    "price": "200",
+                    "format": "011003",
+                    "url": "ftp://218.200.160.122:21/public/product07/2018/=
+01/16/=E6=97=A0=E6=8D=9F/2018=E5=B9=B401=E6=9C=8812=E6=97=A523=E7=82=B906=
+=E5=88=86=E7=B4=A7=E6=80=A5=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E5=92=AA=E5=
+=92=95=E9=9F=B3=E4=B9=90=E8=87=AA=E6=9C=89=E7=89=88=E6=9D=83427=E9=A6=96/al=
+ac/=E6=A2=A6=E9=87=8C=E8=8A=B1(=E6=AD=8C=E6=89=8B2018)-=E5=BC=A0=E9=9F=B6=
+=E6=B6=B5.m4a",
+                    "size": "30107347",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "LQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "000019",
+                    "url": "ftp://218.200.160.122:21/public/product07/2018/=
+01/13/2018=E5=B9=B401=E6=9C=8812=E6=97=A523=E7=82=B906=E5=88=86=E7=B4=A7=E6=
+=80=A5=E5=86=85=E5=AE=B9=E5=87=86=E5=85=A5=E5=92=AA=E5=92=95=E9=9F=B3=E4=B9=
+=90=E8=87=AA=E6=9C=89=E7=89=88=E6=9D=83427=E9=A6=96/=E5=85=A8=E6=9B=B2=E8=
+=AF=95=E5=90=AC/Mp3_64_22_16/=E6=A2=A6=E9=87=8C=E8=8A=B1(=E6=AD=8C=E6=89=8B=
+2018)-=E5=BC=A0=E9=9F=B6=E6=B6=B5.mp3",
+                    "size": "2262288",
+                    "resourceType": "3"
+                }
+            ],
+            "albumId": "1108694788",
+            "invalidateDate": "2020-01-31",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "226",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 91102,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 10,
+                "keepNum": 226,
+                "shareNum": 239,
+                "playNumDesc": "91102",
+                "bookingNum": 0,
+                "commentNumDesc": "10",
+                "subscribeNum": 0,
+                "shareNumDesc": "239"
+            },
+            "copyright": "1",
+            "songName": "=E6=A2=A6=E9=87=8C=E8=8A=B1(=E6=AD=8C=E6=89=8B2018=
+)",
+            "songId": "1108694792",
+            "albumImgs": [
+                {
+                    "imgSizeType": "01",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wbHZHMDAwMDlvMDAwfDIwMzgwMTA3MTYwNjA0%7CC2AE432E8D0B26B87146F659=
+E2A2603ED5A8377FEB1274EECA69012954BE30BF"
+                },
+                {
+                    "imgSizeType": "02",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcDFLMDAwMXdUMDAwfDIwMzgwMTA3MTYwNjA2%7C14B9FFC28B3E0549225A82F9=
+46799B2B424A4B70596E83A86D4E850403DFB3E6"
+                },
+                {
+                    "imgSizeType": "03",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wbVlDMDAwMEJGMDAwfDIwMzgwMTA3MTYwNjA2%7CA52720207464936DA908176F=
+9B11F8C3149EA39EEBF08ECB537CEBC9EF170B14"
+                }
+            ],
+            "resourceType": "2",
+            "songAliasName": "",
+            "isInDAlbum": "0",
+            "songDescs": "",
+            "tagList": []
+        },
+        {
+            "digitalColumnId": "",
+            "toneControl": "1111",
+            "dalbumId": "",
+            "album": "R.E.V.O.",
+            "copyrightId": "6005970D8FV",
+            "singer": "Walk Off The Earth",
+            "relatedSongs": [
+                {
+                    "resourceTypeName": "=E5=BD=A9=E9=93=83",
+                    "copyrightId": "6005970D8FV",
+                    "resourceType": "0",
+                    "productId": "600907000006825539"
+                },
+                {
+                    "resourceTypeName": "=E6=8C=AF=E9=93=83",
+                    "copyrightId": "6005970D8FV",
+                    "resourceType": "1",
+                    "productId": "600907000006825540"
+                },
+                {
+                    "resourceTypeName": "=E9=9F=B3=E4=B9=90=E9=9A=8F=E8=BA=
+=AB=E5=90=AC",
+                    "copyrightId": "6005970D8FV",
+                    "resourceType": "3",
+                    "productId": "600907000006825542"
+                },
+                {
+                    "resourceTypeName": "=E6=97=A0=E6=8D=9F=E9=9F=B3=E6=BA=
+=90",
+                    "copyrightId": "6005970D8FV",
+                    "resourceType": "E",
+                    "productId": "600907000007414724"
+                }
+            ],
+            "contentId": "600907000006825541",
+            "singerId": "1002204189",
+            "mrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wcEtBMDAwMkRxMDAwfDIwMzcwNzIwMTcwMDI5%7C6AEB4F092697404548573CA1D7427=
+235254A0BBAE7EE79C3A92695E52082D345",
+            "lrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wcEs4MDAwMkkzMDAwfDIwMzcwNzIwMTcwMDA3%7C87B4BE76833DDDD9590C81AB23C55=
+43D3A0F1F782A5BBBC973A5E49117996606",
+            "songType": "",
+            "rateFormats": [
+                {
+                    "formatType": "PQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020007",
+                    "url": "ftp://218.200.160.122:21/public/product01/2017/=
+07/2015=E5=B9=B409=E6=9C=8828=E6=97=A510=E7=82=B923=E5=88=86=E5=86=85=E5=AE=
+=B9=E5=87=86=E5=85=A5SONY577=E9=A6=96/=E6=AD=8C=E6=9B=B2=E4=B8=8B=E8=BD=BD/=
+MP3_128_16_Stero/Summer Vibe (Album Version)-Walk Off The Earth.mp3",
+                    "size": "2986361",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "HQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "020010",
+                    "url": "ftp://218.200.160.122:21/public/product01/2017/=
+07/2015=E5=B9=B409=E6=9C=8828=E6=97=A510=E7=82=B923=E5=88=86=E5=86=85=E5=AE=
+=B9=E5=87=86=E5=85=A5SONY577=E9=A6=96/=E6=AD=8C=E6=9B=B2=E4=B8=8B=E8=BD=BD/=
+MP3_320_16_Stero/Summer Vibe (Album Version)-Walk Off The Earth.mp3",
+                    "size": "7459570",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "flac",
+                    "price": "200",
+                    "format": "011002",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/dai=
+lyring03/vsftp/ywq/public/ringmaker01/dailyring03/2015/11/=E6=97=A0=E6=8D=
+=9F/2015=E5=B9=B410=E6=9C=8826=E5=8F=B7=E6=97=A0=E6=8D=9F=E6=95=B0=E6=8D=AE=
+=E8=A1=A5=E5=85=85/flac/Summer Vibe (Album Version)-Walk Off The Earth.flac=
+",
+                    "size": "20655806",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "m4a",
+                    "price": "200",
+                    "format": "011003",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/dai=
+lyring03/vsftp/ywq/public/ringmaker01/dailyring03/2015/11/=E6=97=A0=E6=8D=
+=9F/2015=E5=B9=B410=E6=9C=8826=E5=8F=B7=E6=97=A0=E6=8D=9F=E6=95=B0=E6=8D=AE=
+=E8=A1=A5=E5=85=85/alac/Summer Vibe (Album Version)-Walk Off The Earth.m4a"=
+,
+                    "size": "20923552",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "LQ",
+                    "fileType": "mp3",
+                    "price": "200",
+                    "format": "000019",
+                    "url": "ftp://218.200.160.122:21/public/product01/2017/=
+07/2015=E5=B9=B409=E6=9C=8828=E6=97=A510=E7=82=B923=E5=88=86=E5=86=85=E5=AE=
+=B9=E5=87=86=E5=85=A5SONY577=E9=A6=96/=E5=85=A8=E6=9B=B2=E8=AF=95=E5=90=AC/=
+Mp3_64_22_16/Summer Vibe (Album Version)-Walk Off The Earth.mp3",
+                    "size": "1491362",
+                    "resourceType": "3"
+                }
+            ],
+            "albumId": "1108299731",
+            "invalidateDate": "2018-06-30",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "172",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 17715,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 0,
+                "keepNum": 172,
+                "shareNum": 339,
+                "playNumDesc": "17715",
+                "bookingNum": 0,
+                "commentNumDesc": "0",
+                "subscribeNum": 0,
+                "shareNumDesc": "339"
+            },
+            "copyright": "1",
+            "songName": "Summer Vibe",
+            "songId": "1002626068",
+            "albumImgs": [
+                {
+                    "imgSizeType": "01",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcFp2MDAwMTdUMDAwfDIwMzcxMTIyMDExMjU0%7CAFE70E46097FD3E540740716=
+DA39B76804B35900AD9D6AC17DC18C47F4510699"
+                },
+                {
+                    "imgSizeType": "02",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcFp3MDAwMFV0MDAwfDIwMzcxMTIyMDExMjU0%7CF2A76AEEB521C369ED6B2629=
+1386AFFFCEE87B9589EE530DAC35C760AD6BDE40"
+                },
+                {
+                    "imgSizeType": "03",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcFp1MDAwMGt6MDAwfDIwMzcxMTIyMDExMjU1%7CB3ABAE1505DBC7B10D992BFA=
+000BA2444F7A6B016C43F1356A901D360D72D111"
+                }
+            ],
+            "resourceType": "2",
+            "songAliasName": "",
+            "isInDAlbum": "0",
+            "songDescs": "",
+            "tagList": []
+        },
+        {
+            "digitalColumnId": "",
+            "toneControl": "1110",
+            "dalbumId": "",
+            "album": "=E6=98=9F=E5=BA=A7=E5=9C=A3=E5=85=B8",
+            "copyrightId": "60054701925",
+            "singer": "=E5=91=A8=E6=9D=B0=E4=BC=A6",
+            "relatedSongs": [
+                {
+                    "resourceTypeName": "=E5=BD=A9=E9=93=83",
+                    "copyrightId": "60054701925",
+                    "resourceType": "0",
+                    "productId": "600902000006889356"
+                },
+                {
+                    "resourceTypeName": "=E6=8C=AF=E9=93=83",
+                    "copyrightId": "60054701925",
+                    "resourceType": "1",
+                    "productId": "600902000006889357"
+                },
+                {
+                    "resourceTypeName": "=E9=9F=B3=E4=B9=90=E9=9A=8F=E8=BA=
+=AB=E5=90=AC",
+                    "copyrightId": "60054701925",
+                    "resourceType": "3",
+                    "productId": "600902000006889359"
+                },
+                {
+                    "resourceTypeName": "=E6=97=A0=E6=8D=9F=E9=9F=B3=E6=BA=
+=90",
+                    "copyrightId": "60054701925",
+                    "resourceType": "E",
+                    "productId": "600907000002203807"
+                }
+            ],
+            "contentId": "600902000006889358",
+            "singerId": "112",
+            "mrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wcGZKMDAwMUh1MDAwfDIwMzcxMjI0MDgzNDEy%7C10A078F2974AC62D2109FA30F7C84=
+E84E56A5043DAB20DD630C43D2981CF4090",
+            "lrcUrl": "http://content.nf.migu.cn/soe/uniaccess?code=3DMjJvW=
+EM3R04wcGZKMDAwMUlLMDAwfDIwMzcxMjI0MDgzNDQy%7C7B75458C89302E1437662E88F10FE=
+0D44075715CACB805CC7C6CF3BB647DD131",
+            "songType": "",
+            "rateFormats": [
+                {
+                    "formatType": "PQ",
+                    "fileType": "mp3",
+                    "price": "50",
+                    "format": "020007",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/n16=
+/2017/03/2009=E5=B9=B406=E6=9C=8826=E6=97=A5=E5=8D=9A=E5=B0=94=E6=99=AE=E6=
+=96=AF/=E6=AD=8C=E6=9B=B2=E4=B8=8B=E8=BD=BD/MP3_128_16_Stero/=E4=B8=9C=E9=
+=A3=8E=E7=A0=B4-=E5=91=A8=E6=9D=B0=E4=BC=A6.mp3",
+                    "size": "5052334",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "HQ",
+                    "fileType": "mp3",
+                    "price": "50",
+                    "format": "020010",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/n16=
+/2017/03/2009=E5=B9=B406=E6=9C=8826=E6=97=A5=E5=8D=9A=E5=B0=94=E6=99=AE=E6=
+=96=AF/=E6=AD=8C=E6=9B=B2=E4=B8=8B=E8=BD=BD/MP3_320_16_Stero/=E4=B8=9C=E9=
+=A3=8E=E7=A0=B4-=E5=91=A8=E6=9D=B0=E4=BC=A6.mp3",
+                    "size": "12624500",
+                    "resourceType": "2"
+                },
+                {
+                    "formatType": "SQ",
+                    "fileType": "flac",
+                    "price": "50",
+                    "format": "011002",
+                    "url": "ftp://218.200.160.122:21/public/ringmaker01/n5/=
+karakalbatch/=E6=97=A0=E6=8D=9F=E9=9F=B3=E4=B9=90/2013/10/03/flac/=E4=B8=9C=
+=E9=A3=8E=E7=A0=B4-=E5=91=A8=E6=9D=B0=E4=BC=A6.flac",
+                    "size": "34654516",
+                    "resourceType": "E"
+                },
+                {
+                    "formatType": "LQ",
+                    "fileType": "mp3",
+                    "price": "50",
+                    "format": "000019",
+                    "url": "ftp://218.200.160.122:21/public/product06/2017/=
+12/29/2009=E5=B9=B406=E6=9C=8826=E6=97=A5=E5=8D=9A=E5=B0=94=E6=99=AE=E6=96=
+=AF/=E5=85=A8=E6=9B=B2=E8=AF=95=E5=90=AC/Mp3_64_22_16/=E4=B8=9C=E9=A3=8E=E7=
+=A0=B4-=E5=91=A8=E6=9D=B0=E4=BC=A6.mp3",
+                    "size": "2524348",
+                    "resourceType": "3"
+                }
+            ],
+            "albumId": "1000949895",
+            "invalidateDate": "2020-12-31",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "209",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 17433,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 18,
+                "keepNum": 209,
+                "shareNum": 1547,
+                "playNumDesc": "17433",
+                "bookingNum": 0,
+                "commentNumDesc": "18",
+                "subscribeNum": 0,
+                "shareNumDesc": "1547"
+            },
+            "copyright": "1",
+            "songName": "=E4=B8=9C=E9=A3=8E=E7=A0=B4",
+            "songId": "461",
+            "albumImgs": [
+                {
+                    "imgSizeType": "01",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcEpzMDAwMW9YMDAwfDIwMzgwMTI3MDAzMjU1%7CC8CBD5D710FEF89393DF8A04=
+03AC578491E272B545AA60EE27E3848877E79F46"
+                },
+                {
+                    "imgSizeType": "02",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wb3dLMDAwMUd0MDAwfDIwMzgwMTI3MDAzMjU1%7C0FBDC7BE33B6EC61CFB6F073=
+6C7C8C0288DED2AE2B774BC0959050AFC5A6DA23"
+                },
+                {
+                    "imgSizeType": "03",
+                    "img": "http://content.nf.migu.cn/soe/uniaccess?code=3D=
+MjJvWEM3R04wcEpzMDAwMW9ZMDAwfDIwMzgwMTI3MDAzMjU1%7C3ACE0CCDAE5850D752E4F227=
+A073A6A05929E2552AD9AAEBA3C32C22612D8B7E"
+                }
+            ],
+            "resourceType": "2",
+            "songAliasName": "",
+            "isInDAlbum": "0",
+            "songDescs": "",
+            "tagList": []
+        }
+    ],
+    "code": "000000",
+    "info": "=E6=93=8D=E4=BD=9C=E6=88=90=E5=8A=9F"
+}</pre>=20
+</div>=20
+</div>
+    </div>
+</body>
+</html>
+------=_Part_702371_524911285.1521514528117--
