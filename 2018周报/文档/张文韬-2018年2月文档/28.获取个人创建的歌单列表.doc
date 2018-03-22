@@ -1,0 +1,934 @@
+Message-ID: <1574047171.702368.1521514517529.JavaMail.confluence@dev86>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_702367_663925605.1521514517525"
+
+------=_Part_702367_663925605.1521514517525
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>28.=E8=8E=B7=E5=8F=96=E4=B8=AA=E4=BA=BA=E5=88=9B=E5=BB=BA=E7=9A=
+=84=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>28.=E8=8E=B7=E5=8F=96=E4=B8=AA=E4=BA=BA=E5=88=9B=E5=BB=BA=E7=9A=84=
+=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8</h1>
+    <div class=3D"Section1">
+        <h5 id=3D"id-28.=E8=8E=B7=E5=8F=96=E4=B8=AA=E4=BA=BA=E5=88=9B=E5=BB=
+=BA=E7=9A=84=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8-*=E6=8E=A5=E5=8F=A3=E5=90=
+=8D=E7=A7=B0">*=E6=8E=A5=E5=8F=A3=E5=90=8D=E7=A7=B0</h5>
+<p>MyMusicListsServiceImpl</p>
+<p>&nbsp;</p>
+<h5 id=3D"id-28.=E8=8E=B7=E5=8F=96=E4=B8=AA=E4=BA=BA=E5=88=9B=E5=BB=BA=E7=
+=9A=84=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8-*=E6=8E=A5=E5=8F=A3=E6=8F=8F=E8=
+=BF=B0"><strong>*=E6=8E=A5=E5=8F=A3=E6=8F=8F=E8=BF=B0</strong></h5>
+<p>=E8=8E=B7=E5=8F=96=E4=B8=AA=E4=BA=BA=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8=
+=E6=8E=A5=E5=8F=A3=E3=80=82</p>
+<p>&nbsp;</p>
+<h5 id=3D"id-28.=E8=8E=B7=E5=8F=96=E4=B8=AA=E4=BA=BA=E5=88=9B=E5=BB=BA=E7=
+=9A=84=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8-*=E6=8E=A5=E5=8F=A3=E4=BA=BA">*=
+=E6=8E=A5=E5=8F=A3=E4=BA=BA</h5>
+<p>=E5=BC=A0=E6=96=87=E9=9F=AC</p>
+<p>&nbsp;</p>
+<h5 id=3D"id-28.=E8=8E=B7=E5=8F=96=E4=B8=AA=E4=BA=BA=E5=88=9B=E5=BB=BA=E7=
+=9A=84=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8-*=E6=8E=A5=E5=8F=A3=E6=96=B9=E6=
+=B3=95">*=E6=8E=A5=E5=8F=A3=E6=96=B9=E6=B3=95</h5>
+<p>/v1.0/user/myMusicLists.do</p>
+<p>&nbsp;</p>
+<h5 id=3D"id-28.=E8=8E=B7=E5=8F=96=E4=B8=AA=E4=BA=BA=E5=88=9B=E5=BB=BA=E7=
+=9A=84=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8-*=E5=9F=9F=E5=90=8D">*=E5=9F=9F=
+=E5=90=8D</h5>
+<p><span style=3D"color: rgb(80,80,80);">u.musicapp.migu.cn</span></p>
+<p>&nbsp;</p>
+<h5 id=3D"id-28.=E8=8E=B7=E5=8F=96=E4=B8=AA=E4=BA=BA=E5=88=9B=E5=BB=BA=E7=
+=9A=84=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8-*=E6=8E=A5=E5=8F=A3=E6=96=B9=E5=
+=BC=8F">*=E6=8E=A5=E5=8F=A3=E6=96=B9=E5=BC=8F</h5>
+<p>=E8=AF=B7=E6=B1=82=E4=BD=BF=E7=94=A8HTTP POST=E6=96=B9=E6=B3=95=EF=BC=8C=
+=E8=BF=94=E5=9B=9EJSON=E6=A0=BC=E5=BC=8F=E7=9A=84=E5=93=8D=E5=BA=94=E6=95=
+=B0=E6=8D=AE=E3=80=82</p>
+<p>&nbsp;</p>
+<h5 id=3D"id-28.=E8=8E=B7=E5=8F=96=E4=B8=AA=E4=BA=BA=E5=88=9B=E5=BB=BA=E7=
+=9A=84=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8-*=E6=A0=BC=E5=BC=8F=E4=B8=BE=E4=
+=BE=8B">*=E6=A0=BC=E5=BC=8F=E4=B8=BE=E4=BE=8B</h5>
+<p>/MIGUM2.0/v1.0/user/myMusicLists.do</p>
+<p>=E6=B5=8B=E8=AF=95=E7=8E=AF=E5=A2=83=EF=BC=9A=E5=86=85=E7=BD=9110.25.193=
+.186:18089=EF=BC=9B=E5=A4=96=E7=BD=91=EF=BC=9A218.200.227.207:18089</p>
+<p>=E6=AD=A3=E5=BC=8F=E7=81=B0=E5=BA=A6=E7=8E=AF=E5=A2=83=EF=BC=9Aapp.u.vip=
+.migu.cn</p>
+<p>=E6=AD=A3=E5=BC=8F=E7=8E=AF=E5=A2=83=EF=BC=9Au.musicapp.migu.cn</p>
+<p>&nbsp;</p>
+<h5 id=3D"id-28.=E8=8E=B7=E5=8F=96=E4=B8=AA=E4=BA=BA=E5=88=9B=E5=BB=BA=E7=
+=9A=84=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8-*=E8=AF=B7=E6=B1=82header">*=E8=
+=AF=B7=E6=B1=82header</h5>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</p></th>
+<th class=3D"confluenceTh"><p>=E8=AF=B4=E6=98=8E</p></th>
+<th class=3D"confluenceTh"><p>=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</p></th>
+<th class=3D"confluenceTh"><p>=E5=A4=87=E6=B3=A8</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>channel</p></td>
+<td class=3D"confluenceTd"><p>=E6=8E=A5=E5=85=A5=E7=9A=84=E6=B8=A0=E9=81=93=
+Id</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>subchannel</p></td>
+<td class=3D"confluenceTd"><p>=E5=AD=90=E6=B8=A0=E9=81=93Id</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>mgm-user-agent</p></td>
+<td class=3D"confluenceTd"><p>=E7=BB=88=E7=AB=AF=E6=9C=BA=E5=9E=8B=E7=9F=AD=
+UA</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>IMEI</p></td>
+<td class=3D"confluenceTd"><p>=E8=AE=BE=E5=A4=87=E5=94=AF=E4=B8=80=E5=8F=B7=
+</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>IMSI</p></td>
+<td class=3D"confluenceTd"><p>=E5=9B=BD=E9=99=85=E7=A7=BB=E5=8A=A8=E7=94=A8=
+=E6=88=B7=E8=AF=86=E5=88=AB=E7=A0=81=EF=BC=8C=E5=82=A8=E5=AD=98=E5=9C=A8SIM=
+=E5=8D=A1=E4=B8=AD=EF=BC=8C=E5=8F=AF=E7=94=A8=E4=BA=8E=E5=8C=BA=E5=88=AB=E7=
+=A7=BB=E5=8A=A8=E7=94=A8=E6=88=B7=E7=9A=84=E6=9C=89=E6=95=88=E4=BF=A1=E6=81=
+=AF</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>mgm-Network-type</p></td>
+<td class=3D"confluenceTd"><p>=E7=BD=91=E7=BB=9C=E7=B1=BB=E5=9E=8B</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>01=EF=BC=9A=E4=B8=8D=E6=B8=85=E6=A5=9A=E7=BD=
+=91=E7=BB=9C=E7=B1=BB=E5=9E=8B<br>02=EF=BC=9ACMWAP<br>03=EF=BC=9ACMNET<br>0=
+4=EF=BC=9AWLAN</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>mgm-Network-standard</p></td>
+<td class=3D"confluenceTd"><p>=E7=BD=91=E7=BB=9C=E5=88=B6=E5=BC=8F</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>01=EF=BC=9A=E4=B8=8D=E6=B8=85=E6=A5=9A=E7=BD=
+=91=E7=BB=9C=E5=88=B6=E5=BC=8F<br>02=EF=BC=9A2G<br>03=EF=BC=9A3G<br>04=EF=
+=BC=9A4G</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>location-data</p></td>
+<td class=3D"confluenceTd"><p>=E7=BB=8F=E7=BA=AC=E5=BA=A6=E6=95=B0=E6=8D=AE=
+</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>=E7=BB=8F=E5=BA=A6,=E7=BA=AC=E5=BA=A6</p></td=
+>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>location-info</p></td>
+<td class=3D"confluenceTd"><p>=E5=9C=B0=E7=90=86=E4=BD=8D=E7=BD=AE=E4=BF=A1=
+=E6=81=AF</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>XX=E7=9C=81XX=E5=B8=82XX=E5=8C=BAXX=E8=A1=97<=
+br>=E8=AF=A5=E5=AD=97=E6=AE=B5=E5=81=9AURLEncode=E5=8A=A0=E5=AF=86</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>logid</p></td>
+<td class=3D"confluenceTd"><p>=E6=97=A5=E5=BF=97Id</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>=E5=8F=AF=E4=B8=BA=E7=A9=BA=EF=BC=8C=E9=99=A4=
+=E4=BA=86=E4=B8=80=E7=BA=A7=E9=A1=B5=E9=9D=A2=E7=9A=84=E6=89=80=E6=9C=89=E5=
+=85=B6=E4=BB=96=E9=A1=B5=E9=9D=A2=E6=9F=A5=E8=AF=A2=E9=83=BD=E5=BA=94=E8=AF=
+=A5=E5=B8=A6=E4=B8=8AlogId</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>test</p></td>
+<td class=3D"confluenceTd"><p>=E6=B5=8B=E8=AF=95=E7=89=88=E6=9C=AC=E6=A0=87=
+=E8=AF=86</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>00=EF=BC=9A=E9=9D=9E=E6=B5=8B=E8=AF=95=E7=89=
+=88=E6=9C=AC<br>01=EF=BC=9A=E6=B5=8B=E8=AF=95=E7=89=88=E6=9C=AC</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>uid</p></td>
+<td class=3D"confluenceTd"><p>=E5=BD=93=E5=89=8D=E7=94=A8=E6=88=B7Id</p></t=
+d>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>msisdn</p></td>
+<td class=3D"confluenceTd"><p>=E7=94=A8=E6=88=B7=E6=89=8B=E6=9C=BA=E5=8F=B7=
+=E7=A0=81</p></td>
+<td class=3D"confluenceTd"><p>=E5=90=A6</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ext_acc</p></td>
+<td class=3D"confluenceTd"><p>=E4=B8=89=E6=96=B9=E8=B4=A6=E5=8F=B7</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ext_acc_type</p></td>
+<td class=3D"confluenceTd"><p>=E4=B8=89=E6=96=B9=E8=B4=A6=E5=8F=B7=E7=B1=BB=
+=E5=9E=8B</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>idfa</p></td>
+<td class=3D"confluenceTd"><p>IDFA</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>cookie</p></td>
+<td class=3D"confluenceTd"><p>COOKIE</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ip</p></td>
+<td class=3D"confluenceTd"><p>=E7=94=A8=E6=88=B7IP=E5=9C=B0=E5=9D=80</p></t=
+d>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>os</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E6=93=8D=E4=BD=9C=E7=B3=BB=E7=
+=BB=9F=E7=89=88=E6=9C=AC=EF=BC=8C=E5=A6=82Android 4.4.2</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>String</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>brand</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E7=BB=88=E7=AB=AF=E5=93=81=E7=
+=89=8C=EF=BC=8C=E5=A6=82Huawei</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>String</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>mac</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>mac=E5=9C=B0=E5=9D=80</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>String</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E3=80=80</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>verify</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E9=AA=8C=E8=AF=81=E4=B8=B2</p>=
+</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>String</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E4=B8=8D=E5=8F=AF=E7=A9=BA</p>=
+</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>timeStamp</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E6=97=B6=E9=97=B4=E6=88=B3</p>=
+</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>String</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E4=B8=8D=E5=8F=AF=E7=A9=BA=EF=
+=BC=8C=E6=AF=AB=E7=A7=92=E6=95=B0</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h5 id=3D"id-28.=E8=8E=B7=E5=8F=96=E4=B8=AA=E4=BA=BA=E5=88=9B=E5=BB=BA=E7=
+=9A=84=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8-*=E8=AF=B7=E6=B1=82=E5=8F=82=E6=
+=95=B0=E8=AF=B4=E6=98=8E"><br>*=E8=AF=B7=E6=B1=82=E5=8F=82=E6=95=B0=E8=AF=
+=B4=E6=98=8E</h5>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>=E5=8F=82=E6=95=B0=E5=90=8D=E7=A7=B0</p></th>
+<th class=3D"confluenceTh"><p>=E8=AF=B4=E6=98=8E</p></th>
+<th class=3D"confluenceTh"><p>=E6=98=AF=E5=90=A6=E5=BF=85=E9=A1=BB</p></th>
+<th class=3D"confluenceTh"><p>=E5=A4=87=E6=B3=A8</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ua</p></td>
+<td class=3D"confluenceTd"><p>=E5=AE=A2=E6=88=B7=E7=AB=AF=E7=89=88=E6=9C=AC=
+</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>version</p></td>
+<td class=3D"confluenceTd"><p>=E5=AE=A2=E6=88=B7=E7=AB=AF=E7=89=88=E6=9C=AC=
+=E5=8F=B7</p></td>
+<td class=3D"confluenceTd"><p>=E6=98=AF</p></td>
+<td class=3D"confluenceTd"><p>=E5=A6=82:4.0001</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>userid</p></td>
+<td class=3D"confluenceTd"><p>=E6=9F=A5=E8=AF=A2=E7=9A=84=E7=94=A8=E6=88=B7=
+Id</p></td>
+<td class=3D"confluenceTd"><p>=E5=90=A6</p></td>
+<td class=3D"confluenceTd"><p>A=E7=94=A8=E6=88=B7=E6=9F=A5=E8=AF=A2B=E7=9A=
+=84=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8=EF=BC=8CA=E7=9A=84userid=E5=9C=A8he=
+ader=E9=87=8C=E9=9D=A2=E6=8F=90=E4=BE=9B=EF=BC=8CB=E7=9A=84userId=E5=9C=A8=
+=E6=AD=A4=E6=8F=90=E4=BE=9B=EF=BC=8C=E5=A6=82=E6=9E=9C=E6=9F=A5=E8=AF=A2=E8=
+=87=AA=E5=B7=B1=E7=9A=84=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8=EF=BC=8C=E8=AF=
+=A5=E5=AD=97=E6=AE=B5=E4=B8=8D=E5=A1=AB=E3=80=82=E9=9C=80=E8=A6=81=E6=A0=B9=
+=E6=8D=AEB=E7=9A=84=E9=9A=90=E7=A7=81=E8=AE=BE=E7=BD=AE=E6=9D=A5=E5=88=A4=
+=E6=96=AD=E6=98=AF=E5=90=A6=E5=85=81=E8=AE=B8A=E6=9F=A5=E7=9C=8B</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>pageNo</p></td>
+<td class=3D"confluenceTd"><p>=E8=AF=B7=E6=B1=82=E9=A1=B5=E7=A0=81</p></td>
+<td class=3D"confluenceTd"><p>=E5=90=A6</p></td>
+<td class=3D"confluenceTd"><p>=E9=BB=98=E8=AE=A41</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>pageSize&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>=E6=AF=8F=E9=A1=B5=E6=95=B0=E9=87=8F</p></td>
+<td class=3D"confluenceTd"><p>=E5=90=A6</p></td>
+<td class=3D"confluenceTd"><p>=E9=BB=98=E8=AE=A410</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h5 id=3D"id-28.=E8=8E=B7=E5=8F=96=E4=B8=AA=E4=BA=BA=E5=88=9B=E5=BB=BA=E7=
+=9A=84=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8-*=E5=93=8D=E5=BA=94=E6=95=B0=E6=
+=8D=AE=E8=AF=B4=E6=98=8E"><br>*=E5=93=8D=E5=BA=94=E6=95=B0=E6=8D=AE=E8=AF=
+=B4=E6=98=8E</h5>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>=E5=90=8D=E7=A7=B0</p></th>
+<th class=3D"confluenceTh"><p>=E8=AF=B4=E6=98=8E</p></th>
+<th class=3D"confluenceTh"><p>=E6=95=B0=E6=8D=AE=E7=B1=BB=E5=9E=8B</p></th>
+<th class=3D"confluenceTh"><p>=E5=A4=87=E6=B3=A8</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>code</p></td>
+<td class=3D"confluenceTd"><p>=E7=BB=93=E6=9E=9C=E7=A0=81</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>000000=EF=BC=9A=E6=88=90=E5=8A=9F(=E8=A1=A8=
+=E7=A4=BA=E5=8F=AF=E8=BF=9B=E8=A1=8C=E6=B3=A8=E5=86=8C)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>info</p></td>
+<td class=3D"confluenceTd"><p>=E7=BB=93=E6=9E=9C=E6=8F=8F=E8=BF=B0</p></td>
+<td class=3D"confluenceTd"><p>String</p></td>
+<td class=3D"confluenceTd"><p>&nbsp;</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>totalCount</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E6=95=B0=E6=8D=AE=E6=80=BB=E6=
+=95=B0</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Int</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>&nbsp;</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>list</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E6=AD=8C=E5=8D=95=E5=88=97=E8=
+=A1=A8</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>List&lt;MusicListItem&gt;</p></=
+td>
+<td colspan=3D"1" class=3D"confluenceTd">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<h5 id=3D"id-28.=E8=8E=B7=E5=8F=96=E4=B8=AA=E4=BA=BA=E5=88=9B=E5=BB=BA=E7=
+=9A=84=E6=AD=8C=E5=8D=95=E5=88=97=E8=A1=A8-*=E5=93=8D=E5=BA=94=E6=8A=A5=E6=
+=96=87=E7=A4=BA=E4=BE=8B"><span style=3D"color: rgb(128,128,128);">*=E5=93=
+=8D=E5=BA=94=E6=8A=A5=E6=96=87=E7=A4=BA=E4=BE=8B</span></h5>
+<p><a href=3D"http://localhost:8082/MIGUM2.0/v1.0/danmaku/danmakuHisListPag=
+e.do?resourceId=3D1&amp;pageSize=3D1&amp;page=3D1" class=3D"external-link" =
+rel=3D"nofollow"><span style=3D"color: rgb(80,80,80);">&nbsp;</span></a><sp=
+an class=3D"nolink"><span class=3D"nolink">http://10.25.193.186:18089/MIGUM=
+2.0/v1.0/user/myMusicLists.do?userid=3D<span style=3D"color: rgb(80,80,80);=
+">b711191d-315d-4106-a41b-f58f0232fd3f</span></span><a href=3D"http://10.25=
+.193.186:18089/MIGUM2.0/v1.0/user/addComment.do" class=3D"external-link" re=
+l=3D"nofollow"></a></span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">*=E5=93=8D=E5=BA=94</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E6=BA=90=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: js; gutter: true; first-line: 1; theme: Emacs; collapse: true" data-theme=
+=3D"Emacs">&nbsp;{
+    "totalCount": 7,
+    "list": [
+        {
+            "summary": "",
+            "ownerName": "=E6=AF=9B=E8=80=81=E5=B8=88=E5=B8=A6=E7=9D=80=E9=
+=A9=AC=E8=80=81=E5=B8=88=E5=8E=BB=E5=81=9A=E4=BA=86=E5=A4=B4=E5=8F=91~~",
+            "publishTime": "20171123053622",
+            "ownerId": "b711191d-315d-4106-a41b-f58f0232fd3f",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "183",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 8581,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 1,
+                "keepNum": 183,
+                "shareNum": 218,
+                "playNumDesc": "8581",
+                "bookingNum": 0,
+                "commentNumDesc": "1",
+                "subscribeNum": 0,
+                "shareNumDesc": "218"
+            },
+            "musicListId": "105939508",
+            "type": "1",
+            "musicNum": 26,
+            "ownerPic": "http://pl.nf.migu.cn/sme/uniaccess?code=3DMWQwMDEw=
+MDFCZWM2SUZsYTA2fDIwODYwMzA3MTI1MzA0%7C0A150F5DFE8097866843ED3986DBF630AD73=
+9B0E92267D56F661269EDF0254FA",
+            "resourceType": "2021",
+            "imgItem": {
+                "imgSizeType": "00",
+                "img": "http://zazhi.migu.cn/soe/uniaccess?code=3DMjJvWEM3R=
+04wcEpmMDAwMUYyMDAwfDIwMzcxMTA4MDUxMzQz%7CD53C203DA2E8EDE72015E52FA47842A3D=
+C5BC567701BC3F58F078A27B4461EEE"
+            },
+            "title": "=E6=88=91=E5=96=9C=E6=AC=A2=E7=9A=84=E9=9F=B3=E4=B9=
+=90",
+            "havePrivatePic": "00"
+        },
+        {
+            "summary": "=E4=B8=AA=E4=BA=BA=E8=AE=A4=E4=B8=BA=E9=83=A8=E5=88=
+=86=E5=A5=B3=E5=9B=A2=E6=AF=94=E8=BE=83=E7=BB=8F=E5=85=B8=E7=9A=84=E6=AD=8C=
+=E6=9B=B2",
+            "ownerName": "=E6=AF=9B=E8=80=81=E5=B8=88=E5=B8=A6=E7=9D=80=E9=
+=A9=AC=E8=80=81=E5=B8=88=E5=8E=BB=E5=81=9A=E4=BA=86=E5=A4=B4=E5=8F=91~~",
+            "publishTime": "20171031032000",
+            "ownerId": "b711191d-315d-4106-a41b-f58f0232fd3f",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "0",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 1341,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 0,
+                "keepNum": 0,
+                "shareNum": 311,
+                "playNumDesc": "1341",
+                "bookingNum": 0,
+                "commentNumDesc": "0",
+                "subscribeNum": 0,
+                "shareNumDesc": "311"
+            },
+            "musicListId": "110128916",
+            "type": "0",
+            "musicNum": 40,
+            "ownerPic": "http://pl.nf.migu.cn/sme/uniaccess?code=3DMWQwMDEw=
+MDFCZWM2SUZsYTA2fDIwODYwMzA3MTI1MzA0%7C0A150F5DFE8097866843ED3986DBF630AD73=
+9B0E92267D56F661269EDF0254FA",
+            "resourceType": "2021",
+            "imgItem": {
+                "img": "http://d.musicapp.migu.cn/pic/mlbg/20171128/5357c83=
+a-2ad3-4045-b476-624186a78f23.jpg"
+            },
+            "title": "=E5=A5=B3=E5=9B=A2=E7=BB=8F=E5=85=B8=E6=AD=8C=E6=9B=
+=B2=E9=9B=86=E9=94=A6",
+            "havePrivatePic": "00"
+        },
+        {
+            "summary": "fghjjj",
+            "ownerName": "=E6=AF=9B=E8=80=81=E5=B8=88=E5=B8=A6=E7=9D=80=E9=
+=A9=AC=E8=80=81=E5=B8=88=E5=8E=BB=E5=81=9A=E4=BA=86=E5=A4=B4=E5=8F=91~~",
+            "publishTime": "20180205171801",
+            "ownerId": "b711191d-315d-4106-a41b-f58f0232fd3f",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "0",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 649,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 0,
+                "keepNum": 0,
+                "shareNum": 23,
+                "playNumDesc": "649",
+                "bookingNum": 0,
+                "commentNumDesc": "0",
+                "subscribeNum": 0,
+                "shareNumDesc": "23"
+            },
+            "musicListId": "127507341",
+            "type": "0",
+            "musicNum": 35,
+            "ownerPic": "http://pl.nf.migu.cn/sme/uniaccess?code=3DMWQwMDEw=
+MDFCZWM2SUZsYTA2fDIwODYwMzA3MTI1MzA0%7C0A150F5DFE8097866843ED3986DBF630AD73=
+9B0E92267D56F661269EDF0254FA",
+            "resourceType": "2021",
+            "imgItem": {
+                "imgSizeType": "00",
+                "img": "http://zazhi.migu.cn/soe/uniaccess?code=3DMjJvWEM3R=
+04wcElUMDAwMEF3MDAwfDIwMzcwNjE2MTAwNTQ2%7C04B95C542C061FD2B0B613DE1C1C22594=
+4608B0FBB512881F7CD101D1F12196A"
+            },
+            "title": "123111123",
+            "havePrivatePic": "00"
+        },
+        {
+            "ownerName": "=E6=AF=9B=E8=80=81=E5=B8=88=E5=B8=A6=E7=9D=80=E9=
+=A9=AC=E8=80=81=E5=B8=88=E5=8E=BB=E5=81=9A=E4=BA=86=E5=A4=B4=E5=8F=91~~",
+            "publishTime": "20180129172300",
+            "ownerId": "b711191d-315d-4106-a41b-f58f0232fd3f",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "0",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 22,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 0,
+                "keepNum": 0,
+                "shareNum": 214,
+                "playNumDesc": "22",
+                "bookingNum": 0,
+                "commentNumDesc": "0",
+                "subscribeNum": 0,
+                "shareNumDesc": "214"
+            },
+            "musicListId": "127508289",
+            "type": "0",
+            "musicNum": 12,
+            "ownerPic": "http://pl.nf.migu.cn/sme/uniaccess?code=3DMWQwMDEw=
+MDFCZWM2SUZsYTA2fDIwODYwMzA3MTI1MzA0%7C0A150F5DFE8097866843ED3986DBF630AD73=
+9B0E92267D56F661269EDF0254FA",
+            "resourceType": "2021",
+            "imgItem": {
+                "imgSizeType": "00",
+                "img": "http://zazhi.migu.cn/soe/uniaccess?code=3DMjJvWEM3R=
+04wcGZRMDAwMFY5MDAwfDIwMzcxMjMwMTAzNjI0%7CBB449DFDB75293776FF2417AA94F18941=
+105E2EE2C7ED4A474E36C75D5AE4E98"
+            },
+            "title": "=E6=9E=97=E4=BF=8A=E6=9D=B0=E6=9C=80=E7=88=B1",
+            "havePrivatePic": "00"
+        },
+        {
+            "ownerName": "=E6=AF=9B=E8=80=81=E5=B8=88=E5=B8=A6=E7=9D=80=E9=
+=A9=AC=E8=80=81=E5=B8=88=E5=8E=BB=E5=81=9A=E4=BA=86=E5=A4=B4=E5=8F=91~~",
+            "publishTime": "20180208145500",
+            "ownerId": "b711191d-315d-4106-a41b-f58f0232fd3f",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "0",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 833,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 0,
+                "keepNum": 0,
+                "shareNum": 130,
+                "playNumDesc": "833",
+                "bookingNum": 0,
+                "commentNumDesc": "0",
+                "subscribeNum": 0,
+                "shareNumDesc": "130"
+            },
+            "musicListId": "129266533",
+            "type": "0",
+            "musicNum": 38,
+            "ownerPic": "http://pl.nf.migu.cn/sme/uniaccess?code=3DMWQwMDEw=
+MDFCZWM2SUZsYTA2fDIwODYwMzA3MTI1MzA0%7C0A150F5DFE8097866843ED3986DBF630AD73=
+9B0E92267D56F661269EDF0254FA",
+            "resourceType": "2021",
+            "imgItem": {
+                "imgSizeType": "00",
+                "img": "http://zazhi.migu.cn/soe/uniaccess?code=3DMjJvWEM3R=
+04wcEgzMDAwMEZFMDAwfDIwMzcwNjE2MTAwMzE3%7C14E9D211A2232ABF9055A98C935A10B85=
+531B4FB6492ACC9A2FF9BB40449C8C4"
+            },
+            "title": "=E4=B8=80=E4=B8=AA=E4=BA=BA",
+            "havePrivatePic": "00"
+        },
+        {
+            "ownerName": "=E6=AF=9B=E8=80=81=E5=B8=88=E5=B8=A6=E7=9D=80=E9=
+=A9=AC=E8=80=81=E5=B8=88=E5=8E=BB=E5=81=9A=E4=BA=86=E5=A4=B4=E5=8F=91~~",
+            "publishTime": "20180227152000",
+            "ownerId": "b711191d-315d-4106-a41b-f58f0232fd3f",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "0",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 0,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 0,
+                "keepNum": 0,
+                "shareNum": 0,
+                "playNumDesc": "0",
+                "bookingNum": 0,
+                "commentNumDesc": "0",
+                "subscribeNum": 0,
+                "shareNumDesc": "0"
+            },
+            "musicListId": "130310859",
+            "type": "0",
+            "musicNum": 38,
+            "ownerPic": "http://pl.nf.migu.cn/sme/uniaccess?code=3DMWQwMDEw=
+MDFCZWM2SUZsYTA2fDIwODYwMzA3MTI1MzA0%7C0A150F5DFE8097866843ED3986DBF630AD73=
+9B0E92267D56F661269EDF0254FA",
+            "resourceType": "2021",
+            "imgItem": {
+                "imgSizeType": "00",
+                "img": "http://zazhi.migu.cn/soe/uniaccess?code=3DMjJvWEM3R=
+04wcEZOMDAwME90MDAwfDIwMzcwNjE2MTAxNzQx%7CA93859F0344D2EF8A1C807B4EC6E82582=
+E7633A5DC7C474D07DC69FF0068C0CC"
+            },
+            "title": "4285",
+            "havePrivatePic": "00"
+        },
+        {
+            "ownerName": "=E6=AF=9B=E8=80=81=E5=B8=88=E5=B8=A6=E7=9D=80=E9=
+=A9=AC=E8=80=81=E5=B8=88=E5=8E=BB=E5=81=9A=E4=BA=86=E5=A4=B4=E5=8F=91~~",
+            "publishTime": "20180227153200",
+            "ownerId": "b711191d-315d-4106-a41b-f58f0232fd3f",
+            "opNumItem": {
+                "followNum": 0,
+                "subscribeNumDesc": "0",
+                "keepNumDesc": "0",
+                "orderNumByTotal": 0,
+                "thumbNumDesc": "0",
+                "thumbNum": 0,
+                "orderNumByTotalDesc": "0",
+                "bookingNumDesc": "0",
+                "orderNumByWeekDesc": "0",
+                "playNum": 0,
+                "livePlayNum": 0,
+                "popularNumDesc": "0",
+                "orderNumByWeek": 0,
+                "followNumDesc": "0",
+                "popularNum": 0,
+                "commentNum": 0,
+                "keepNum": 0,
+                "shareNum": 0,
+                "playNumDesc": "0",
+                "bookingNum": 0,
+                "commentNumDesc": "0",
+                "subscribeNum": 0,
+                "shareNumDesc": "0"
+            },
+            "musicListId": "130312263",
+            "type": "0",
+            "musicNum": 0,
+            "ownerPic": "http://pl.nf.migu.cn/sme/uniaccess?code=3DMWQwMDEw=
+MDFCZWM2SUZsYTA2fDIwODYwMzA3MTI1MzA0%7C0A150F5DFE8097866843ED3986DBF630AD73=
+9B0E92267D56F661269EDF0254FA",
+            "resourceType": "2021",
+            "title": "XXXX",
+            "havePrivatePic": "00"
+        }
+    ],
+    "code": "000000",
+    "info": "=E6=93=8D=E4=BD=9C=E6=88=90=E5=8A=9F"
+}</pre>=20
+</div>=20
+</div>
+    </div>
+</body>
+</html>
+------=_Part_702367_663925605.1521514517525--
