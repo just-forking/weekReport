@@ -10,7 +10,7 @@
 10	曾昌林
 11	张文韬	1.查询视频彩铃、DIY彩铃、彩铃资源可以通过隐藏状态查询2.MIGUM3.0通过资源类型与ID查询资源相关组件3.MIGUM3.0调测	代码
 12	何娟
-13	袁常鑫
+13	袁常鑫	1.MIGUM3.0 danmaku-service调测 2.MIGUM3.0 liveshow-admin springboot+vue+Thymeleaf框架搭建  代码
 14	胡阳
 15	贾洋
 16	宋邦佳  1.在电视机上测试项目页面 2.页面布局调整 3.付费率页面显示新增白金会员数     代码
